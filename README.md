@@ -2,7 +2,7 @@
 
 Открытый индекс цен [kurs-radar.pro](https://kurs-radar.pro/) — сравнения онлайн-курсов по цене и условиям. **Данные на 19 ноября 2026:** 740 курсов 19 онлайн-школ. Файлы обновляются автоматически раз в сутки.
 
-Таблицы с прямыми ссылками на каждый курс: [https://pavlshe.github.io/kurs-radar.pro/](https://pavlshe.github.io/kurs-radar.pro/)
+Таблицы с прямыми ссылками на каждый курс: [https://pavlshe.github.io/kurs-radar.pro/](https://pavlshe.github.io/kurs-radar.pro/) · тот же датасет на [Kaggle](https://www.kaggle.com/datasets/pablosheshkovic/online-course-prices-in-russia-kurs-radar-pro) и [Hugging Face](https://huggingface.co/datasets/Pavlshshk/online-course-prices-russia)
 
 «Весь курс» — самая низкая цена всего курса: одним платежом или итог рассрочки. Платёж в месяц без срока рассрочки мало что говорит о цене, поэтому сравниваем всё обучение целиком.
 
