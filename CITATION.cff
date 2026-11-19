@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Если используете эти данные, укажите источник: kurs-radar.pro."
+title: "Цены на онлайн-курсы в России (kurs-radar.pro)"
+type: dataset
+authors:
+  - name: kurs-radar.pro
+    website: "https://kurs-radar.pro/"
+url: "https://kurs-radar.pro/"
+repository-code: "https://github.com/PavlShe/kurs-radar.pro"
+license: CC-BY-4.0
+date-released: "2026-11-19"
+keywords:
+  - online courses
+  - education prices
+  - edtech
+  - russia

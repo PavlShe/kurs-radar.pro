@@ -1,0 +1,48 @@
+direction,courses,schools,course_total_min_rub,course_total_median_rub,course_total_max_rub,page
+Бакалавриат онлайн,141,1,315000,315000,2475000,https://kurs-radar.pro/bakalavriat-onlajn.html
+Магистратура онлайн,42,1,180000,225000,900000,https://kurs-radar.pro/magistratura-onlajn.html
+Колледж онлайн (СПО),33,1,90000,268333,1456667,https://kurs-radar.pro/kolledzh-onlajn.html
+Дизайн интерьера и ландшафта,32,6,32730,92962,273141,https://kurs-radar.pro/kursy-dizajn-interera.html
+Маркетплейсы,31,4,28002,66310,152424,https://kurs-radar.pro/kursy-marketplejsy.html
+Психология и психотерапия,28,3,10900,49000,110000,https://kurs-radar.pro/kursy-psihologa.html
+Финансы: аналитика и управление,26,4,34992,90100,196000,https://kurs-radar.pro/kursy-finansovyj-analitik.html
+Бухгалтерия и налоги,25,3,8001,50904,113916,https://kurs-radar.pro/kursy-buhgalteriya.html
+Моушн-дизайн и 3D,25,5,18576,92592,209932,https://kurs-radar.pro/kursy-motion-3d.html
+HR и управление персоналом,20,3,24990,67747,131631,https://kurs-radar.pro/kursy-hr.html
+Разработка игр,19,6,31272,120776,228168,https://kurs-radar.pro/kursy-razrabotka-igr.html
+Тестирование (QA),18,7,42396,92280,171864,https://kurs-radar.pro/kursy-testirovshchik.html
+Аналитик данных,17,9,63000,105200,174003,https://kurs-radar.pro/kursy-analitik-dannyh.html
+Python-разработка,16,8,30000,87460,175000,https://kurs-radar.pro/kursy-python.html
+Продакт-менеджмент,16,7,63000,91357,152241,https://kurs-radar.pro/kursy-product-manager.html
+Интернет-маркетинг и SEO,15,5,57492,86200,134856,https://kurs-radar.pro/kursy-internet-marketing.html
+SMM и трафик,13,4,47039,72044,121148,https://kurs-radar.pro/kursy-smm.html
+Системный и бизнес-аналитик,13,7,78995,105679,176295,https://kurs-radar.pro/kursy-sistemnyj-analitik.html
+Data Science,12,8,30972,110232,226332,https://kurs-radar.pro/kursy-data-science.html
+Проджект-менеджмент,12,7,51600,102454,132300,https://kurs-radar.pro/kursy-project-manager.html
+DevOps и системное администрирование,12,7,55890,102036,125460,https://kurs-radar.pro/kursy-devops.html
+UX/UI-дизайн,12,6,62200,119293,181567,https://kurs-radar.pro/kursy-ux-ui-dizajn.html
+Excel и Power BI,11,4,16500,35000,53556,https://kurs-radar.pro/kursy-excel.html
+Английский язык,10,7,4490,38720,73920,https://kurs-radar.pro/kursy-anglijskogo-yazyka.html
+MBA онлайн,10,1,286000,286000,286000,https://kurs-radar.pro/mba-onlajn.html
+Инвестиции и личные финансы,9,3,8085,56412,104760,https://kurs-radar.pro/kursy-investicii.html
+Русский язык,9,4,31295,56320,73920,https://kurs-radar.pro/kursy-oge-russkij-yazyk.html
+Java-разработка,9,7,47652,99500,191386,https://kurs-radar.pro/kursy-java.html
+Frontend и веб-разработка,9,6,60134,85000,166362,https://kurs-radar.pro/kursy-frontend.html
+Кибербезопасность,9,7,60134,141588,178529,https://kurs-radar.pro/kursy-kiberbezopasnost.html
+Биология,7,3,38720,38720,38720,https://kurs-radar.pro/kursy-ege-biologiya.html
+1С-программирование,7,5,78696,110004,145260,https://kurs-radar.pro/kursy-1s-programmist.html
+Графический дизайн,7,5,96000,133737,168485,https://kurs-radar.pro/kursy-graficheskij-dizajn.html
+Машинное обучение и нейросети,7,4,100000,131208,265296,https://kurs-radar.pro/kursy-mashinnoe-obuchenie.html
+Информатика,6,3,31295,56320,73920,https://kurs-radar.pro/kursy-oge-informatika.html
+Физика,6,3,31295,56320,73920,https://kurs-radar.pro/kursy-oge-fizika.html
+Обществознание,6,4,38720,73920,73920,https://kurs-radar.pro/kursy-ege-obshchestvoznanie.html
+Химия,6,4,38720,73920,73920,https://kurs-radar.pro/kursy-ege-himiya.html
+Профильная математика,5,4,8890,38720,73920,https://kurs-radar.pro/kursy-ege-profilnaya-matematika.html
+"C++, C# и Go",5,3,94400,117000,128052,https://kurs-radar.pro/kursy-cpp-csharp-go.html
+Математика,4,4,31295,52608,73920,https://kurs-radar.pro/kursy-oge-matematika.html
+История,4,3,31295,31295,31295,https://kurs-radar.pro/kursy-oge-istoriya.html
+Нутрициология,4,1,80000,85000,140000,https://kurs-radar.pro/kursy-nutriciologii.html
+Мобильная разработка,4,3,128400,137996,152460,https://kurs-radar.pro/kursy-mobilnaya-razrabotka.html
+Литература,3,2,31295,31295,31295,https://kurs-radar.pro/kursy-oge-literatura.html
+Базовая математика,3,3,38720,56320,73920,https://kurs-radar.pro/kursy-ege-bazovaya-matematika.html
+География,2,2,31295,31295,31295,https://kurs-radar.pro/kursy-oge-geografiya.html
