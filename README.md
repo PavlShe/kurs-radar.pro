@@ -1,6 +1,6 @@
 # Цены на онлайн-курсы в России
 
-Открытый индекс цен [kurs-radar.pro](https://kurs-radar.pro/) — сравнения онлайн-курсов по цене и условиям. **Данные на 19 ноября 2026:** 740 курсов 19 онлайн-школ. Файлы обновляются автоматически раз в сутки.
+Открытый индекс цен [kurs-radar.pro](https://kurs-radar.pro/) — сравнения онлайн-курсов по цене и условиям. **Данные на 20 ноября 2026:** 739 курсов 19 онлайн-школ. Файлы обновляются автоматически раз в сутки.
 
 Таблицы с прямыми ссылками на каждый курс: [https://pavlshe.github.io/kurs-radar.pro/](https://pavlshe.github.io/kurs-radar.pro/) · тот же датасет на [Kaggle](https://www.kaggle.com/datasets/pablosheshkovic/online-course-prices-in-russia-kurs-radar-pro) и [Hugging Face](https://huggingface.co/datasets/Pavlshshk/online-course-prices-russia)
 
@@ -23,7 +23,7 @@
 | [Разработка игр](https://kurs-radar.pro/kursy-razrabotka-igr.html) | 19 | 6 | 31 272 ₽ | 120 776 ₽ | 228 168 ₽ |
 | [Тестирование (QA)](https://kurs-radar.pro/kursy-testirovshchik.html) | 18 | 7 | 42 396 ₽ | 92 280 ₽ | 171 864 ₽ |
 | [Аналитик данных](https://kurs-radar.pro/kursy-analitik-dannyh.html) | 17 | 9 | 63 000 ₽ | 105 200 ₽ | 174 003 ₽ |
-| [Python-разработка](https://kurs-radar.pro/kursy-python.html) | 16 | 8 | 30 000 ₽ | 87 460 ₽ | 175 000 ₽ |
+| [Python-разработка](https://kurs-radar.pro/kursy-python.html) | 16 | 8 | 30 000 ₽ | 87 460 ₽ | 500 000 ₽ |
 | [Продакт-менеджмент](https://kurs-radar.pro/kursy-product-manager.html) | 16 | 7 | 63 000 ₽ | 91 357 ₽ | 152 241 ₽ |
 | [Интернет-маркетинг и SEO](https://kurs-radar.pro/kursy-internet-marketing.html) | 15 | 5 | 57 492 ₽ | 86 200 ₽ | 134 856 ₽ |
 | [SMM и трафик](https://kurs-radar.pro/kursy-smm.html) | 13 | 4 | 47 039 ₽ | 72 044 ₽ | 121 148 ₽ |
@@ -40,12 +40,12 @@
 | [Java-разработка](https://kurs-radar.pro/kursy-java.html) | 9 | 7 | 47 652 ₽ | 99 500 ₽ | 191 386 ₽ |
 | [Frontend и веб-разработка](https://kurs-radar.pro/kursy-frontend.html) | 9 | 6 | 60 134 ₽ | 85 000 ₽ | 166 362 ₽ |
 | [Кибербезопасность](https://kurs-radar.pro/kursy-kiberbezopasnost.html) | 9 | 7 | 60 134 ₽ | 141 588 ₽ | 178 529 ₽ |
-| [Биология](https://kurs-radar.pro/kursy-ege-biologiya.html) | 7 | 3 | 38 720 ₽ | 38 720 ₽ | 38 720 ₽ |
 | [1С-программирование](https://kurs-radar.pro/kursy-1s-programmist.html) | 7 | 5 | 78 696 ₽ | 110 004 ₽ | 145 260 ₽ |
 | [Графический дизайн](https://kurs-radar.pro/kursy-graficheskij-dizajn.html) | 7 | 5 | 96 000 ₽ | 133 737 ₽ | 168 485 ₽ |
 | [Машинное обучение и нейросети](https://kurs-radar.pro/kursy-mashinnoe-obuchenie.html) | 7 | 4 | 100 000 ₽ | 131 208 ₽ | 265 296 ₽ |
 | [Информатика](https://kurs-radar.pro/kursy-oge-informatika.html) | 6 | 3 | 31 295 ₽ | 56 320 ₽ | 73 920 ₽ |
 | [Физика](https://kurs-radar.pro/kursy-oge-fizika.html) | 6 | 3 | 31 295 ₽ | 56 320 ₽ | 73 920 ₽ |
+| [Биология](https://kurs-radar.pro/kursy-ege-biologiya.html) | 6 | 3 | 38 720 ₽ | 38 720 ₽ | 38 720 ₽ |
 | [Обществознание](https://kurs-radar.pro/kursy-ege-obshchestvoznanie.html) | 6 | 4 | 38 720 ₽ | 73 920 ₽ | 73 920 ₽ |
 | [Химия](https://kurs-radar.pro/kursy-ege-himiya.html) | 6 | 4 | 38 720 ₽ | 73 920 ₽ | 73 920 ₽ |
 | [Профильная математика](https://kurs-radar.pro/kursy-ege-profilnaya-matematika.html) | 5 | 4 | 8 890 ₽ | 38 720 ₽ | 73 920 ₽ |
@@ -73,7 +73,7 @@
 | Умскул | 17 | 13 | 31 295 ₽ | 38 720 ₽ |
 | ProductStar | 17 | 10 | 55 890 ₽ | 63 000 ₽ |
 | Skysmart | 15 | 9 | 73 920 ₽ | 73 920 ₽ |
-| Вебиум | 11 | 8 | — | — |
+| Вебиум | 10 | 8 | — | — |
 | Хекслет | 8 | 6 | 45 000 ₽ | 85 000 ₽ |
 | Contented | 7 | 4 | 109 464 ₽ | 133 737 ₽ |
 | Karpov.Courses | 6 | 3 | 93 450 ₽ | 128 079 ₽ |
@@ -86,7 +86,7 @@
 
 | Файл | Что внутри |
 |---|---|
-| `data/courses.csv` | все 740 курсов: школа, направление, платёж, срок рассрочки, цена всего курса, цена часа, срок, документ, гарантия, ссылка |
+| `data/courses.csv` | все 739 курсов: школа, направление, платёж, срок рассрочки, цена всего курса, цена часа, срок, документ, гарантия, ссылка |
 | `data/directions.csv` | направления: число курсов и школ, цена всего курса от / медиана / до |
 | `data/schools.csv` | школы: число курсов и направлений, цена всего курса от и медиана |
 | `data/history/prices_daily.csv` | цены по дням с 10 ноября 2026: платёж, цена всего курса, зачёркнутая цена школы |
@@ -107,7 +107,7 @@
 
 ## In English
 
-Open daily price index of online courses in Russia from [kurs-radar.pro](https://kurs-radar.pro/): 740 courses from 19 online schools — IT and other professions, EGE/OGE exam prep, English, online degrees. For each course: full course price (one-off payment or installment total), monthly payment, price per hour of instruction, duration, certificate, job guarantee. Prices in RUB, data as of 2026-11-19, history since 2026-11-10. Only schools with an affiliate program are listed.
+Open daily price index of online courses in Russia from [kurs-radar.pro](https://kurs-radar.pro/): 739 courses from 19 online schools — IT and other professions, EGE/OGE exam prep, English, online degrees. For each course: full course price (one-off payment or installment total), monthly payment, price per hour of instruction, duration, certificate, job guarantee. Prices in RUB, data as of 2026-11-20, history since 2026-11-10. Only schools with an affiliate program are listed.
 
 ## Лицензия
 
