@@ -7750,3 +7750,956 @@ date,id,school,course,payment_rub,payment_per,course_total_rub,old_price_rub,pag
 2026-11-22,prakticheskaya-psihologiya-3-kursa-smart,Smart,Практическая психология + 3 курса,300000,мес,300000,,https://kurs-radar.pro/prakticheskaya-psihologiya-3-kursa-smart.html
 2026-11-22,psiholog-konsultant-29-kursov-smart,Smart,Психолог-консультант + 29 курсов,220000,мес,220000,,https://kurs-radar.pro/psiholog-konsultant-29-kursov-smart.html
 2026-11-22,psiholog-konsultant-za-8-mesyacev-smart,Smart,Психолог-консультант за 8 месяцев,160000,мес,160000,,https://kurs-radar.pro/psiholog-konsultant-za-8-mesyacev-smart.html
+2026-11-23,data-science-skillfactory,Skillfactory,Data Science с нуля,3750,мес,135000,7500,https://kurs-radar.pro/data-science-skillfactory.html
+2026-11-23,ml-engineer-karpov-courses,Karpov.Courses,Инженер машинного обучения с нуля,7308,мес,124950,,https://kurs-radar.pro/ml-engineer-karpov-courses.html
+2026-11-23,data-science-yandex-praktikum,Яндекс Практикум,Специалист по Data Science,6287,мес,226332,,https://kurs-radar.pro/data-science-yandex-praktikum.html
+2026-11-23,data-scientist-geekbrains,GeekBrains,Профессия Data Scientist с AI,3216,мес,,6432,https://kurs-radar.pro/data-scientist-geekbrains.html
+2026-11-23,data-scientist-netologiya,Нетология,Data Scientist: расширенный курс,4089,мес,98136,,https://kurs-radar.pro/data-scientist-netologiya.html
+2026-11-23,ege-profil-matematika-100ballnyj-repetitor,100балльный репетитор,Легион Ильича+ с Ильичом (ЕГЭ-2027),6990,блок,8890,,https://kurs-radar.pro/ege-profil-matematika-100ballnyj-repetitor.html
+2026-11-23,ege-profil-matematika-vebium,Вебиум,"Профильная математика. Основа (ЕГЭ 2027, с ноября)",4552,мес,,,https://kurs-radar.pro/ege-profil-matematika-vebium.html
+2026-11-23,ege-profil-matematika-umskul,Умскул,"Профильная математика с Артуром Шарафиевым, ноябрьский поток (ЕГЭ 2027)",5790,мес,33510,,https://kurs-radar.pro/ege-profil-matematika-umskul.html
+2026-11-23,anglijskij-360-ingleks,Инглекс,Английский 360° с преподавателем,1290,урок,,,https://kurs-radar.pro/anglijskij-360-ingleks.html
+2026-11-23,anglijskij-skyeng,Skyeng,Английский язык с преподавателем,3000,мес,,,https://kurs-radar.pro/anglijskij-skyeng.html
+2026-11-23,anglijskij-lingualeo-premium,Lingualeo,Lingualeo Premium: английский в приложении,790,мес,4490,,https://kurs-radar.pro/anglijskij-lingualeo-premium.html
+2026-11-23,ege-bazovaya-matematika-umskul,Умскул,"Базовая математика с Надеждой Ковалевской, ноябрьский поток (ЕГЭ 2027)",5790,мес,33510,,https://kurs-radar.pro/ege-bazovaya-matematika-umskul.html
+2026-11-23,ege-russkij-yazyk-umskul,Умскул,"Русский язык с Александром Долгих, ноябрьский поток (ЕГЭ 2027)",5790,мес,33510,,https://kurs-radar.pro/ege-russkij-yazyk-umskul.html
+2026-11-23,ege-informatika-umskul,Умскул,"Информатика с Викторией Ланской, ноябрьский поток (ЕГЭ 2027)",5790,мес,33510,,https://kurs-radar.pro/ege-informatika-umskul.html
+2026-11-23,ege-biologiya-umskul,Умскул,"Биология с Жанной Казанской, ноябрьский поток (ЕГЭ 2027)",5790,мес,33510,,https://kurs-radar.pro/ege-biologiya-umskul.html
+2026-11-23,ege-fizika-umskul,Умскул,"Физика с Максом Теслой, ноябрьский поток (ЕГЭ 2027)",5790,мес,33510,,https://kurs-radar.pro/ege-fizika-umskul.html
+2026-11-23,ege-fizika-umskul-2,Умскул,"Физика с Максимом Глуховым, ноябрьский поток (ЕГЭ 2027)",5790,мес,33510,,https://kurs-radar.pro/ege-fizika-umskul-2.html
+2026-11-23,ege-obshchestvoznanie-umskul,Умскул,"Обществознание с Анастасией Маловой, ноябрьский поток (ЕГЭ 2027)",5790,мес,33510,,https://kurs-radar.pro/ege-obshchestvoznanie-umskul.html
+2026-11-23,ege-anglijskij-yazyk-umskul,Умскул,"Английский язык с Шерин Келли, ноябрьский поток (ЕГЭ 2027)",5790,мес,33510,,https://kurs-radar.pro/ege-anglijskij-yazyk-umskul.html
+2026-11-23,ege-himiya-umskul,Умскул,"Химия с Богданом Чагиным, ноябрьский поток (ЕГЭ 2027)",5790,мес,33510,,https://kurs-radar.pro/ege-himiya-umskul.html
+2026-11-23,oge-matematika-umskul,Умскул,"Математика с Даниром Баевым, ноябрьский поток (ОГЭ 2027)",4690,мес,27075,,https://kurs-radar.pro/oge-matematika-umskul.html
+2026-11-23,oge-matematika-umskul-2,Умскул,"Математика с Надеждой Ковалевской, ноябрьский поток (ОГЭ 2027)",4690,мес,27075,,https://kurs-radar.pro/oge-matematika-umskul-2.html
+2026-11-23,oge-russkij-yazyk-umskul,Умскул,"Русский язык с Анастасией Гласной, ноябрьский поток (ОГЭ 2027)",4690,мес,27075,,https://kurs-radar.pro/oge-russkij-yazyk-umskul.html
+2026-11-23,oge-literatura-umskul,Умскул,"Литература с Дарьей Королёвой, ноябрьский поток (ОГЭ 2027)",4690,мес,27075,,https://kurs-radar.pro/oge-literatura-umskul.html
+2026-11-23,oge-istoriya-umskul,Умскул,"История с Дарьей Львовой, ноябрьский поток (ОГЭ 2027)",4690,мес,27075,,https://kurs-radar.pro/oge-istoriya-umskul.html
+2026-11-23,oge-geografiya-umskul,Умскул,"География с Вероникой Соколовской, ноябрьский поток (ОГЭ 2027)",4690,мес,27075,,https://kurs-radar.pro/oge-geografiya-umskul.html
+2026-11-23,oge-anglijskij-yazyk-umskul,Умскул,"Английский язык с Алиной Максимовой, ноябрьский поток (ОГЭ 2027)",4690,мес,27075,,https://kurs-radar.pro/oge-anglijskij-yazyk-umskul.html
+2026-11-23,oge-informatika-umskul,Умскул,"Информатика с Артёмом Фроловым, ноябрьский поток (ОГЭ 2027)",4690,мес,27075,,https://kurs-radar.pro/oge-informatika-umskul.html
+2026-11-23,oge-informatika-umskul-2,Умскул,"Информатика с Дмитрием Купером, ноябрьский поток (ОГЭ 2027)",4690,мес,27075,,https://kurs-radar.pro/oge-informatika-umskul-2.html
+2026-11-23,oge-fizika-umskul,Умскул,"Физика с Тимом Гуком, ноябрьский поток (ОГЭ 2027)",4690,мес,27075,,https://kurs-radar.pro/oge-fizika-umskul.html
+2026-11-23,ege-russkij-yazyk-100ballnyj-repetitor,100балльный репетитор,«Новый русский+» с Машей Птипцей (ЕГЭ-2027),6990,блок,,,https://kurs-radar.pro/ege-russkij-yazyk-100ballnyj-repetitor.html
+2026-11-23,ege-himiya-100ballnyj-repetitor,100балльный репетитор,«Химфак+» с Катей Строгановой (ЕГЭ-2027),6790,блок,,,https://kurs-radar.pro/ege-himiya-100ballnyj-repetitor.html
+2026-11-23,ege-russkij-yazyk-100ballnyj-repetitor-2,100балльный репетитор,«Шейк+» с Верой Флекс (ЕГЭ-2027),6790,блок,,,https://kurs-radar.pro/ege-russkij-yazyk-100ballnyj-repetitor-2.html
+2026-11-23,ege-fizika-100ballnyj-repetitor,100балльный репетитор,«Эбонит+» с Саней Эбонитом (ЕГЭ-2027),6990,блок,,,https://kurs-radar.pro/ege-fizika-100ballnyj-repetitor.html
+2026-11-23,ege-biologiya-100ballnyj-repetitor,100балльный репетитор,«ЛаМарк+» с Марком Ламарком (ЕГЭ-2027),6590,блок,,,https://kurs-radar.pro/ege-biologiya-100ballnyj-repetitor.html
+2026-11-23,ege-informatika-100ballnyj-repetitor,100балльный репетитор,«Флэш+» с Артёмом Имаевым (ЕГЭ-2027),6990,блок,,,https://kurs-radar.pro/ege-informatika-100ballnyj-repetitor.html
+2026-11-23,ege-obshchestvoznanie-100ballnyj-repetitor,100балльный репетитор,«Ликбез+» с Валентинычем (ЕГЭ-2027),6790,блок,,,https://kurs-radar.pro/ege-obshchestvoznanie-100ballnyj-repetitor.html
+2026-11-23,ege-biologiya-100ballnyj-repetitor-2,100балльный репетитор,«Большая Медведица+» с Мариной Медведевой (ЕГЭ-2027),6140,блок,,,https://kurs-radar.pro/ege-biologiya-100ballnyj-repetitor-2.html
+2026-11-23,ege-istoriya-100ballnyj-repetitor,100балльный репетитор,«Гвардия+» с Топ-репетитором (ЕГЭ-2027),6790,блок,,,https://kurs-radar.pro/ege-istoriya-100ballnyj-repetitor.html
+2026-11-23,ege-biologiya-100ballnyj-repetitor-3,100балльный репетитор,«Биофак+» с Ксенией Напольской (ЕГЭ-2027),6140,блок,,,https://kurs-radar.pro/ege-biologiya-100ballnyj-repetitor-3.html
+2026-11-23,ege-bazovaya-matematika-100ballnyj-repetitor,100балльный репетитор,«База отдыха+» с МатемАней (ЕГЭ-2027),3990,блок,,,https://kurs-radar.pro/ege-bazovaya-matematika-100ballnyj-repetitor.html
+2026-11-23,ege-anglijskij-yazyk-100ballnyj-repetitor,100балльный репетитор,«Бустер+» с Таней Шибитовой (ЕГЭ-2027),6990,блок,,,https://kurs-radar.pro/ege-anglijskij-yazyk-100ballnyj-repetitor.html
+2026-11-23,ege-istoriya-100ballnyj-repetitor-2,100балльный репетитор,«Лига чемпионов+» с Артёмом Кармазом (ЕГЭ-2027),6790,блок,,,https://kurs-radar.pro/ege-istoriya-100ballnyj-repetitor-2.html
+2026-11-23,ege-literatura-100ballnyj-repetitor,100балльный репетитор,«Литфак+» с Машей Коршуновой и Фаришей (ЕГЭ-2027),7190,блок,,,https://kurs-radar.pro/ege-literatura-100ballnyj-repetitor.html
+2026-11-23,ege-profilnaya-matematika-100ballnyj-repetitor,100балльный репетитор,«Кругосветка+» с МатемАней (ЕГЭ-2027),6790,блок,,,https://kurs-radar.pro/ege-profilnaya-matematika-100ballnyj-repetitor.html
+2026-11-23,ege-obshchestvoznanie-100ballnyj-repetitor-2,100балльный репетитор,«Сила Коржа+» с Настей Коржевой (ЕГЭ-2027),6790,блок,,,https://kurs-radar.pro/ege-obshchestvoznanie-100ballnyj-repetitor-2.html
+2026-11-23,ege-geografiya-100ballnyj-repetitor,100балльный репетитор,«Геофак+» с Полиной Беловой (ЕГЭ-2027),6590,блок,,,https://kurs-radar.pro/ege-geografiya-100ballnyj-repetitor.html
+2026-11-23,oge-matematika-100ballnyj-repetitor,100балльный репетитор,«Матфак+» с Дядей Артёмом (ОГЭ-2027),4890,блок,,,https://kurs-radar.pro/oge-matematika-100ballnyj-repetitor.html
+2026-11-23,oge-matematika-100ballnyj-repetitor-2,100балльный репетитор,«Путь в МГУ+» с Андреем Абидуби (ОГЭ-2027),4890,блок,,,https://kurs-radar.pro/oge-matematika-100ballnyj-repetitor-2.html
+2026-11-23,oge-matematika-100ballnyj-repetitor-3,100балльный репетитор,«На пике+» со Стасом Экспонентой (ОГЭ-2027),4890,блок,,,https://kurs-radar.pro/oge-matematika-100ballnyj-repetitor-3.html
+2026-11-23,oge-russkij-yazyk-100ballnyj-repetitor,100балльный репетитор,«Русский 9.0+» с Костей Макиенко (ОГЭ-2027),4890,блок,,,https://kurs-radar.pro/oge-russkij-yazyk-100ballnyj-repetitor.html
+2026-11-23,oge-russkij-yazyk-100ballnyj-repetitor-2,100балльный репетитор,«Русский — и точка+» с Верой Флекс (ОГЭ-2027),4890,блок,,,https://kurs-radar.pro/oge-russkij-yazyk-100ballnyj-repetitor-2.html
+2026-11-23,oge-fizika-100ballnyj-repetitor,100балльный репетитор,«Азазат+» с Азатом Адеевым (ОГЭ-2027),4890,блок,,,https://kurs-radar.pro/oge-fizika-100ballnyj-repetitor.html
+2026-11-23,oge-informatika-100ballnyj-repetitor,100балльный репетитор,«Прошивка+» с Ильёй Сагаловым (ОГЭ-2027),4890,блок,,,https://kurs-radar.pro/oge-informatika-100ballnyj-repetitor.html
+2026-11-23,oge-biologiya-100ballnyj-repetitor,100балльный репетитор,«Кокос+» с Федосом Кокосом (ОГЭ-2027),4890,блок,,,https://kurs-radar.pro/oge-biologiya-100ballnyj-repetitor.html
+2026-11-23,oge-himiya-100ballnyj-repetitor,100балльный репетитор,«Пятый элемент+» с Вадимом Едемским (ОГЭ-2027),4890,блок,,,https://kurs-radar.pro/oge-himiya-100ballnyj-repetitor.html
+2026-11-23,oge-himiya-100ballnyj-repetitor-2,100балльный репетитор,«Соль+» с Олей Степановой (ОГЭ-2027),4890,блок,,,https://kurs-radar.pro/oge-himiya-100ballnyj-repetitor-2.html
+2026-11-23,oge-obshchestvoznanie-100ballnyj-repetitor,100балльный репетитор,«Сила Коржа+» с Настей Коржевой (ОГЭ-2027),4890,блок,,,https://kurs-radar.pro/oge-obshchestvoznanie-100ballnyj-repetitor.html
+2026-11-23,oge-obshchestvoznanie-100ballnyj-repetitor-2,100балльный репетитор,«Вайб+» с Машей Вайб (ОГЭ-2027),4890,блок,,,https://kurs-radar.pro/oge-obshchestvoznanie-100ballnyj-repetitor-2.html
+2026-11-23,oge-istoriya-100ballnyj-repetitor,100балльный репетитор,«Летопись+» с Сашей Гефестом (ОГЭ-2027),4890,блок,,,https://kurs-radar.pro/oge-istoriya-100ballnyj-repetitor.html
+2026-11-23,oge-anglijskij-yazyk-100ballnyj-repetitor,100балльный репетитор,«Level Up+» с Настей Калигановой (ОГЭ-2027),4890,блок,,,https://kurs-radar.pro/oge-anglijskij-yazyk-100ballnyj-repetitor.html
+2026-11-23,oge-literatura-100ballnyj-repetitor,100балльный репетитор,«Библиотека+» с Алёной Туренко (ОГЭ-2027),4890,блок,,,https://kurs-radar.pro/oge-literatura-100ballnyj-repetitor.html
+2026-11-23,oge-literatura-100ballnyj-repetitor-2,100балльный репетитор,«Маяк+» с Фаришей Князевой (ОГЭ-2027),4890,блок,,,https://kurs-radar.pro/oge-literatura-100ballnyj-repetitor-2.html
+2026-11-23,ege-biologiya-vebium,Вебиум,"Биология. Основа (курс Миры Леви, ЕГЭ 2027)",4552,мес,,,https://kurs-radar.pro/ege-biologiya-vebium.html
+2026-11-23,ege-biologiya-vebium-2,Вебиум,"Биология. Основа (курс Вероники Вавиловой, ЕГЭ 2027)",4552,мес,,,https://kurs-radar.pro/ege-biologiya-vebium-2.html
+2026-11-23,ege-himiya-vebium,Вебиум,"Химия. Основа (курс Насти Назаровой, ЕГЭ 2027)",4552,мес,,,https://kurs-radar.pro/ege-himiya-vebium.html
+2026-11-23,ege-russkij-yazyk-vebium,Вебиум,"Русский язык. Основа (курс Агнии Розенталь, ЕГЭ 2027)",4552,мес,,,https://kurs-radar.pro/ege-russkij-yazyk-vebium.html
+2026-11-23,ege-obshchestvoznanie-vebium,Вебиум,"Обществознание. Основа (курс Валерии Энгельс, ЕГЭ 2027)",4552,мес,,,https://kurs-radar.pro/ege-obshchestvoznanie-vebium.html
+2026-11-23,ege-istoriya-vebium,Вебиум,"История. Основа (курс Иры Годуновой и Фила Сахарова, ЕГЭ 2027)",4552,мес,,,https://kurs-radar.pro/ege-istoriya-vebium.html
+2026-11-23,ege-anglijskij-yazyk-vebium,Вебиум,"Английский язык. Основа (курс Кристины Спенсер, ЕГЭ 2027)",4552,мес,,,https://kurs-radar.pro/ege-anglijskij-yazyk-vebium.html
+2026-11-23,oge-biologiya-vebium,Вебиум,"Биология. Основа (курс Миры Леви, ОГЭ 2027)",3752,мес,,,https://kurs-radar.pro/oge-biologiya-vebium.html
+2026-11-23,oge-russkij-yazyk-vebium,Вебиум,"Русский язык. Основа (курс Ани Белинской, ОГЭ 2027)",3752,мес,,,https://kurs-radar.pro/oge-russkij-yazyk-vebium.html
+2026-11-23,oge-matematika-vebium,Вебиум,"Математика. Основа (курс Эйджей Гаусс, ОГЭ 2027)",3752,мес,,,https://kurs-radar.pro/oge-matematika-vebium.html
+2026-11-23,ege-anglijskij-yazyk-skysmart,Skysmart,Подготовка к ЕГЭ по английскому языку — 32 урока с репетитором,13552,мес,73920,,https://kurs-radar.pro/ege-anglijskij-yazyk-skysmart.html
+2026-11-23,ege-russkij-yazyk-skysmart,Skysmart,Подготовка к ЕГЭ по русскому языку — 32 урока с репетитором,13552,мес,73920,,https://kurs-radar.pro/ege-russkij-yazyk-skysmart.html
+2026-11-23,ege-profilnaya-matematika-skysmart,Skysmart,Профильная подготовка к ЕГЭ по математике — 32 урока с репетитором,13552,мес,73920,,https://kurs-radar.pro/ege-profilnaya-matematika-skysmart.html
+2026-11-23,ege-himiya-skysmart,Skysmart,Подготовка к ЕГЭ по химии — 32 урока с репетитором,13552,мес,73920,,https://kurs-radar.pro/ege-himiya-skysmart.html
+2026-11-23,ege-fizika-skysmart,Skysmart,Подготовка к ЕГЭ по физике — 32 урока с репетитором,13552,мес,73920,,https://kurs-radar.pro/ege-fizika-skysmart.html
+2026-11-23,ege-obshchestvoznanie-skysmart,Skysmart,Подготовка к ЕГЭ по обществознанию — 32 урока с репетитором,13552,мес,73920,,https://kurs-radar.pro/ege-obshchestvoznanie-skysmart.html
+2026-11-23,ege-informatika-skysmart,Skysmart,Подготовка к ЕГЭ по информатике — 32 урока с репетитором,13552,мес,73920,,https://kurs-radar.pro/ege-informatika-skysmart.html
+2026-11-23,ege-bazovaya-matematika-skysmart,Skysmart,Базовая подготовка к ЕГЭ по математике — 32 урока с репетитором,13552,мес,73920,,https://kurs-radar.pro/ege-bazovaya-matematika-skysmart.html
+2026-11-23,oge-anglijskij-yazyk-skysmart,Skysmart,Подготовка к ОГЭ по английскому языку — 32 урока с репетитором,13552,мес,73920,,https://kurs-radar.pro/oge-anglijskij-yazyk-skysmart.html
+2026-11-23,oge-russkij-yazyk-skysmart,Skysmart,Подготовка к ОГЭ по русскому языку — 32 урока с репетитором,13552,мес,73920,,https://kurs-radar.pro/oge-russkij-yazyk-skysmart.html
+2026-11-23,oge-matematika-skysmart,Skysmart,Базовая подготовка к ОГЭ по математике — 32 урока с репетитором,13552,мес,73920,,https://kurs-radar.pro/oge-matematika-skysmart.html
+2026-11-23,oge-matematika-skysmart-2,Skysmart,Профильная подготовка к ОГЭ по математике — 32 урока с репетитором,13552,мес,73920,,https://kurs-radar.pro/oge-matematika-skysmart-2.html
+2026-11-23,oge-himiya-skysmart,Skysmart,Подготовка к ОГЭ по химии — 32 урока с репетитором,13552,мес,73920,,https://kurs-radar.pro/oge-himiya-skysmart.html
+2026-11-23,oge-fizika-skysmart,Skysmart,Подготовка к ОГЭ по физике — 32 урока с репетитором,13552,мес,73920,,https://kurs-radar.pro/oge-fizika-skysmart.html
+2026-11-23,oge-obshchestvoznanie-skysmart,Skysmart,Подготовка к ОГЭ по обществознанию — 32 урока с репетитором,13552,мес,73920,,https://kurs-radar.pro/oge-obshchestvoznanie-skysmart.html
+2026-11-23,oge-informatika-skysmart,Skysmart,Подготовка к ОГЭ по информатике — 32 урока с репетитором,13552,мес,73920,,https://kurs-radar.pro/oge-informatika-skysmart.html
+2026-11-23,prodakt-menedzher-productstar,ProductStar,Продакт-менеджер,2160,мес,77760,7200,https://kurs-radar.pro/prodakt-menedzher-productstar.html
+2026-11-23,python-razrabotchik-productstar,ProductStar,Python-разработчик,2160,мес,77760,7200,https://kurs-radar.pro/python-razrabotchik-productstar.html
+2026-11-23,analitik-dannyh-productstar,ProductStar,Аналитик данных,2088,мес,75168,6960,https://kurs-radar.pro/analitik-dannyh-productstar.html
+2026-11-23,direktor-po-produktu-cpo-productstar,ProductStar,Директор по продукту (CPO),2453,мес,88320,8178,https://kurs-radar.pro/direktor-po-produktu-cpo-productstar.html
+2026-11-23,ux-ui-dizajner-productstar,ProductStar,UX/UI-дизайнер,2088,мес,75168,6960,https://kurs-radar.pro/ux-ui-dizajner-productstar.html
+2026-11-23,middle-senior-product-manager-productstar,ProductStar,Middle&Senior Product manager,2208,мес,79488,7360,https://kurs-radar.pro/middle-senior-product-manager-productstar.html
+2026-11-23,menedzher-proektov-productstar,ProductStar,Менеджер проектов,2088,мес,75168,6960,https://kurs-radar.pro/menedzher-proektov-productstar.html
+2026-11-23,python-razrabotchik-kurs-productstar,ProductStar,Python-разработчик (курс),2917,мес,70000,5833,https://kurs-radar.pro/python-razrabotchik-kurs-productstar.html
+2026-11-23,analitik-dannyh-2-0-productstar,ProductStar,Аналитик данных 2.0,2917,мес,70000,5833,https://kurs-radar.pro/analitik-dannyh-2-0-productstar.html
+2026-11-23,product-manager-2-0-productstar,ProductStar,Product manager 2.0,2917,мес,70000,5833,https://kurs-radar.pro/product-manager-2-0-productstar.html
+2026-11-23,java-razrabotchik-productstar,ProductStar,Java-разработчик,2088,мес,75168,6960,https://kurs-radar.pro/java-razrabotchik-productstar.html
+2026-11-23,frontend-razrabotchik-productstar,ProductStar,Frontend-разработчик,2088,мес,75168,6960,https://kurs-radar.pro/frontend-razrabotchik-productstar.html
+2026-11-23,web-razrabotchik-productstar,ProductStar,Web-разработчик,2088,мес,75168,6960,https://kurs-radar.pro/web-razrabotchik-productstar.html
+2026-11-23,inzhener-po-informacionnoj-bezopasnosti-productstar,ProductStar,Инженер по информационной безопасности,2088,мес,75168,6960,https://kurs-radar.pro/inzhener-po-informacionnoj-bezopasnosti-productstar.html
+2026-11-23,inzhener-po-testirovaniyu-productstar,ProductStar,Инженер по тестированию,2088,мес,75168,6960,https://kurs-radar.pro/inzhener-po-testirovaniyu-productstar.html
+2026-11-23,devops-inzhener-productstar,ProductStar,DevOps-инженер,1941,мес,69863,6469,https://kurs-radar.pro/devops-inzhener-productstar.html
+2026-11-23,belyj-haker-productstar,ProductStar,Белый хакер,2088,мес,75168,6960,https://kurs-radar.pro/belyj-haker-productstar.html
+2026-11-23,python-razrabotchik-skillfactory,Skillfactory,Python-разработчик,3890,мес,140040,7780,https://kurs-radar.pro/python-razrabotchik-skillfactory.html
+2026-11-23,belyj-haker-skillfactory,Skillfactory,«Белый» хакер,4190,мес,150840,8380,https://kurs-radar.pro/belyj-haker-skillfactory.html
+2026-11-23,testirovschik-avtomatizator-na-python-skillfactory,Skillfactory,Тестировщик-автоматизатор на Python,3490,мес,125640,6980,https://kurs-radar.pro/testirovschik-avtomatizator-na-python-skillfactory.html
+2026-11-23,analitik-dannyh-skillfactory,Skillfactory,Аналитик данных,3662,мес,131832,7323,https://kurs-radar.pro/analitik-dannyh-skillfactory.html
+2026-11-23,data-scientist-s-nulya-do-pro-skillfactory,Skillfactory,Data Scientist с нуля до PRO,5658,мес,203688,11317,https://kurs-radar.pro/data-scientist-s-nulya-do-pro-skillfactory.html
+2026-11-23,fullstack-razrabotchik-na-python-skillfactory,Skillfactory,Fullstack-разработчик на Python,4390,мес,158040,8780,https://kurs-radar.pro/fullstack-razrabotchik-na-python-skillfactory.html
+2026-11-23,javascript-razrabotchik-skillfactory,Skillfactory,JavaScript-разработчик,3889,мес,140004,7778,https://kurs-radar.pro/javascript-razrabotchik-skillfactory.html
+2026-11-23,cpp-razrabotchik-skillfactory,Skillfactory,C++ разработчик,3250,мес,117000,6500,https://kurs-radar.pro/cpp-razrabotchik-skillfactory.html
+2026-11-23,1s-programmist-skillfactory,Skillfactory,1С-программист,2990,мес,107640,5980,https://kurs-radar.pro/1s-programmist-skillfactory.html
+2026-11-23,java-razrabotchik-skillfactory,Skillfactory,Java-разработчик,3890,мес,140040,7780,https://kurs-radar.pro/java-razrabotchik-skillfactory.html
+2026-11-23,backend-razrabotchik-na-go-skillfactory,Skillfactory,Backend-разработчик на Go,3299,мес,118764,6598,https://kurs-radar.pro/backend-razrabotchik-na-go-skillfactory.html
+2026-11-23,razrabotchik-igr-na-unity-skillfactory,Skillfactory,Разработчик игр на Unity,3690,мес,132840,7380,https://kurs-radar.pro/razrabotchik-igr-na-unity-skillfactory.html
+2026-11-23,analiz-dannyh-skillfactory,Skillfactory,Анализ данных,2399,мес,86364,4798,https://kurs-radar.pro/analiz-dannyh-skillfactory.html
+2026-11-23,data-scientist-v-medicine-skillfactory,Skillfactory,Data Scientist в медицине,3492,мес,125712,6983,https://kurs-radar.pro/data-scientist-v-medicine-skillfactory.html
+2026-11-23,devops-inzhener-skillfactory,Skillfactory,DevOps-инженер,2990,мес,107640,5980,https://kurs-radar.pro/devops-inzhener-skillfactory.html
+2026-11-23,project-manager-v-it-skillfactory,Skillfactory,Project Manager в IT,3675,мес,132300,7350,https://kurs-radar.pro/project-manager-v-it-skillfactory.html
+2026-11-23,csharp-razrabotchik-skillfactory,Skillfactory,C#-разработчик,3090,мес,111240,6180,https://kurs-radar.pro/csharp-razrabotchik-skillfactory.html
+2026-11-23,sistemnyj-analitik-skillfactory,Skillfactory,Системный аналитик,2790,мес,100440,5580,https://kurs-radar.pro/sistemnyj-analitik-skillfactory.html
+2026-11-23,android-razrabotchik-skillfactory,Skillfactory,Android-разработчик,4235,мес,152460,8470,https://kurs-radar.pro/android-razrabotchik-skillfactory.html
+2026-11-23,product-manager-skillfactory,Skillfactory,Product Manager,3719,мес,133884,7438,https://kurs-radar.pro/product-manager-skillfactory.html
+2026-11-23,ios-razrabotchik-c-nulya-skillfactory,Skillfactory,iOS-разработчик с нуля,3947,мес,142092,7895,https://kurs-radar.pro/ios-razrabotchik-c-nulya-skillfactory.html
+2026-11-23,python-razrabotchik-c-ai-geekbrains,GeekBrains,Python-разработчик с AI,4139,мес,149004,,https://kurs-radar.pro/python-razrabotchik-c-ai-geekbrains.html
+2026-11-23,java-razrabotchik-s-ai-geekbrains,GeekBrains,Java-разработчик с AI,4364,мес,157104,,https://kurs-radar.pro/java-razrabotchik-s-ai-geekbrains.html
+2026-11-23,specialist-po-kiberbezopasnosti-c-ai-geekbrains,GeekBrains,Специалист по кибербезопасности с AI,3933,мес,141588,7865,https://kurs-radar.pro/specialist-po-kiberbezopasnosti-c-ai-geekbrains.html
+2026-11-23,testirovschik-geekbrains,GeekBrains,Тестировщик,4774,мес,171864,,https://kurs-radar.pro/testirovschik-geekbrains.html
+2026-11-23,frontend-razrabotchik-s-ai-geekbrains,GeekBrains,Frontend-разработчик с AI,2196,мес,79056,3985,https://kurs-radar.pro/frontend-razrabotchik-s-ai-geekbrains.html
+2026-11-23,dizajner-geekbrains,GeekBrains,Дизайнер,4046,мес,145656,,https://kurs-radar.pro/dizajner-geekbrains.html
+2026-11-23,marketolog-geekbrains,GeekBrains,Маркетолог,3746,мес,134856,3985,https://kurs-radar.pro/marketolog-geekbrains.html
+2026-11-23,analitik-geekbrains,GeekBrains,Аналитик,4151,мес,149436,8302,https://kurs-radar.pro/analitik-geekbrains.html
+2026-11-23,inzhener-po-avtomatizacii-testirovaniya-geekbrains,GeekBrains,Инженер по автоматизации тестирования,3205,мес,115380,6410,https://kurs-radar.pro/inzhener-po-avtomatizacii-testirovaniya-geekbrains.html
+2026-11-23,devops-inzhener-s-nulya-ii-geekbrains,GeekBrains,DevOps-инженер с нуля + ИИ,3485,мес,125460,3985,https://kurs-radar.pro/devops-inzhener-s-nulya-ii-geekbrains.html
+2026-11-23,graficheskij-dizajner-geekbrains,GeekBrains,Графический дизайнер,4269,мес,153684,,https://kurs-radar.pro/graficheskij-dizajner-geekbrains.html
+2026-11-23,menedzher-proektov-geekbrains,GeekBrains,Менеджер проектов,3403,мес,122508,3985,https://kurs-radar.pro/menedzher-proektov-geekbrains.html
+2026-11-23,razrabotchik-na-unreal-engine-5-geekbrains,GeekBrains,Разработчик на Unreal Engine 5,4849,мес,174564,10774,https://kurs-radar.pro/razrabotchik-na-unreal-engine-5-geekbrains.html
+2026-11-23,biznes-analitik-geekbrains,GeekBrains,Бизнес-аналитик,2623,мес,94428,5245,https://kurs-radar.pro/biznes-analitik-geekbrains.html
+2026-11-23,menedzher-marketplejsov-geekbrains,GeekBrains,Менеджер маркетплейсов,1629,мес,58644,3985,https://kurs-radar.pro/menedzher-marketplejsov-geekbrains.html
+2026-11-23,razrabotchik-na-cpp-c-ai-geekbrains,GeekBrains,Разработчик на C++ с AI,3557,мес,128052,3985,https://kurs-radar.pro/razrabotchik-na-cpp-c-ai-geekbrains.html
+2026-11-23,veb-dizajner-geekbrains,GeekBrains,Веб-дизайнер,4774,мес,171864,,https://kurs-radar.pro/veb-dizajner-geekbrains.html
+2026-11-23,dizajner-zhilyh-intererov-geekbrains,GeekBrains,Дизайнер жилых интерьеров,5143,мес,185148,10285,https://kurs-radar.pro/dizajner-zhilyh-intererov-geekbrains.html
+2026-11-23,internet-marketolog-geekbrains,GeekBrains,Интернет-маркетолог,3031,мес,109116,3985,https://kurs-radar.pro/internet-marketolog-geekbrains.html
+2026-11-23,1s-razrabotchik-geekbrains,GeekBrains,1С-разработчик,3489,мес,125604,3985,https://kurs-radar.pro/1s-razrabotchik-geekbrains.html
+2026-11-23,smm-specialist-geekbrains,GeekBrains,SMM-специалист,2518,мес,90648,3985,https://kurs-radar.pro/smm-specialist-geekbrains.html
+2026-11-23,menedzher-produktov-geekbrains,GeekBrains,Менеджер продуктов,3900,мес,140400,3985,https://kurs-radar.pro/menedzher-produktov-geekbrains.html
+2026-11-23,dizajner-landshaftov-geekbrains,GeekBrains,Дизайнер ландшафтов,3558,мес,128088,7116,https://kurs-radar.pro/dizajner-landshaftov-geekbrains.html
+2026-11-23,razrabotchik-na-unity-geekbrains,GeekBrains,Разработчик на Unity,6338,мес,228168,14084,https://kurs-radar.pro/razrabotchik-na-unity-geekbrains.html
+2026-11-23,3d-dzheneralist-geekbrains,GeekBrains,3D-дженералист,5826,мес,209736,,https://kurs-radar.pro/3d-dzheneralist-geekbrains.html
+2026-11-23,3d-hudozhnik-geekbrains,GeekBrains,3D-художник,3778,мес,136008,7555,https://kurs-radar.pro/3d-hudozhnik-geekbrains.html
+2026-11-23,motion-dizajner-geekbrains,GeekBrains,Motion-дизайнер,4492,мес,161712,,https://kurs-radar.pro/motion-dizajner-geekbrains.html
+2026-11-23,ux-ui-dizajner-geekbrains,GeekBrains,UX/UI-дизайнер,3166,мес,113976,6331,https://kurs-radar.pro/ux-ui-dizajner-geekbrains.html
+2026-11-23,dizajner-intererov-i-landshaftnoj-sredy-geekbrains,GeekBrains,Дизайнер интерьеров и ландшафтной среды,4893,мес,176148,9785,https://kurs-radar.pro/dizajner-intererov-i-landshaftnoj-sredy-geekbrains.html
+2026-11-23,1c-programmist-rasshirennyj-kurs-netologiya,Нетология,1C‑программист: расширенный курс,116300,курс,116300,304080,https://kurs-radar.pro/1c-programmist-rasshirennyj-kurs-netologiya.html
+2026-11-23,internet-marketolog-rasshirennyj-kurs-netologiya,Нетология,Интернет-маркетолог: расширенный курс,96100,курс,96100,282746,https://kurs-radar.pro/internet-marketolog-rasshirennyj-kurs-netologiya.html
+2026-11-23,smm-menedzher-prodvinutyj-kurs-ii-netologiya,Нетология,SMM-менеджер: продвинутый курс + ИИ,86400,курс,86400,225889,https://kurs-radar.pro/smm-menedzher-prodvinutyj-kurs-ii-netologiya.html
+2026-11-23,analitik-na-marketplejsah-netologiya,Нетология,Аналитик на маркетплейсах,76100,курс,76100,198889,https://kurs-radar.pro/analitik-na-marketplejsah-netologiya.html
+2026-11-23,menedzher-po-marketplejsam-rasshirennyj-netologiya,Нетология,Менеджер по маркетплейсам: расширенный,58400,курс,58400,137500,https://kurs-radar.pro/menedzher-po-marketplejsam-rasshirennyj-netologiya.html
+2026-11-23,dizajner-interera-ii-netologiya,Нетология,Дизайнер интерьера + ИИ,125900,курс,125900,329072,https://kurs-radar.pro/dizajner-interera-ii-netologiya.html
+2026-11-23,analitik-dannyh-rasshirennyj-kurs-netologiya,Нетология,Аналитик данных: расширенный курс,115400,курс,115400,315700,https://kurs-radar.pro/analitik-dannyh-rasshirennyj-kurs-netologiya.html
+2026-11-23,inzhener-po-testirovaniyu-rasshirennyj-kurs-netologiya,Нетология,Инженер по тестированию: расширенный курс,101700,курс,101700,266005,https://kurs-radar.pro/inzhener-po-testirovaniyu-rasshirennyj-kurs-netologiya.html
+2026-11-23,ux-ui-dizajner-rasshirennyj-ii-netologiya,Нетология,UX/UI-дизайнер. Расширенный + ИИ,154000,курс,154000,402600,https://kurs-radar.pro/ux-ui-dizajner-rasshirennyj-ii-netologiya.html
+2026-11-23,specialist-po-informacionnoj-bezopasnosti-netologiya,Нетология,Специалист по информационной безопасности,117300,курс,117300,276100,https://kurs-radar.pro/specialist-po-informacionnoj-bezopasnosti-netologiya.html
+2026-11-23,devops-inzhener-s-nulya-netologiya,Нетология,DevOps-инженер с нуля,121100,курс,121100,316652,https://kurs-radar.pro/devops-inzhener-s-nulya-netologiya.html
+2026-11-23,python-razrabotchik-rasshirennyj-kurs-netologiya,Нетология,Python-разработчик: расширенный курс,104200,курс,104200,272371,https://kurs-radar.pro/python-razrabotchik-rasshirennyj-kurs-netologiya.html
+2026-11-23,specialist-po-glubokomu-obucheniyu-netologiya,Нетология,Специалист по глубокому обучению,142000,курс,142000,334080,https://kurs-radar.pro/specialist-po-glubokomu-obucheniyu-netologiya.html
+2026-11-23,graficheskij-dizajner-rasshirennyj-ii-netologiya,Нетология,Графический дизайнер. Расширенный + ИИ,129200,курс,129200,337720,https://kurs-radar.pro/graficheskij-dizajner-rasshirennyj-ii-netologiya.html
+2026-11-23,sistemnyj-administrator-netologiya,Нетология,Системный администратор,73300,курс,73300,200640,https://kurs-radar.pro/sistemnyj-administrator-netologiya.html
+2026-11-23,menedzher-po-marketplejsam-netologiya,Нетология,Менеджер по маркетплейсам,39900,курс,39900,85255,https://kurs-radar.pro/menedzher-po-marketplejsam-netologiya.html
+2026-11-23,sistemnyj-i-biznes-analitik-netologiya,Нетология,Системный и бизнес-аналитик,136000,курс,136000,320000,https://kurs-radar.pro/sistemnyj-i-biznes-analitik-netologiya.html
+2026-11-23,landshaftnyj-dizajner-rasshirennyj-ii-netologiya,Нетология,Ландшафтный дизайнер. Расширенный + ИИ,99500,курс,99500,260120,https://kurs-radar.pro/landshaftnyj-dizajner-rasshirennyj-ii-netologiya.html
+2026-11-23,devops-inzhener-pro-netologiya,Нетология,DevOps-инженер PRO,88400,курс,88400,216660,https://kurs-radar.pro/devops-inzhener-pro-netologiya.html
+2026-11-23,setevoj-inzhener-netologiya,Нетология,Сетевой инженер,85800,курс,85800,183500,https://kurs-radar.pro/setevoj-inzhener-netologiya.html
+2026-11-23,gejm-dizajner-netologiya,Нетология,Гейм-дизайнер,102600,курс,102600,241312,https://kurs-radar.pro/gejm-dizajner-netologiya.html
+2026-11-23,analitik-dannyh-netologiya,Нетология,Аналитик данных,78100,курс,78100,204134,https://kurs-radar.pro/analitik-dannyh-netologiya.html
+2026-11-23,trafik-menedzher-netologiya,Нетология,Трафик-менеджер,72400,курс,72400,212927,https://kurs-radar.pro/trafik-menedzher-netologiya.html
+2026-11-23,1s-programmist-netologiya,Нетология,1С-программист,85000,курс,85000,222335,https://kurs-radar.pro/1s-programmist-netologiya.html
+2026-11-23,inzhener-mashinnogo-obucheniya-s-nulya-netologiya,Нетология,Инженер машинного обучения с нуля,112800,курс,112800,265527,https://kurs-radar.pro/inzhener-mashinnogo-obucheniya-s-nulya-netologiya.html
+2026-11-23,menedzher-proektov-rasshirennyj-kurs-ii-netologiya,Нетология,Менеджер проектов: расширенный курс + ИИ,124200,курс,124200,324633,https://kurs-radar.pro/menedzher-proektov-rasshirennyj-kurs-ii-netologiya.html
+2026-11-23,smm-menedzher-netologiya,Нетология,SMM-менеджер,47900,курс,47900,161111,https://kurs-radar.pro/smm-menedzher-netologiya.html
+2026-11-23,razrabotchik-igr-na-unity-netologiya,Нетология,Разработчик игр на Unity,95700,курс,95700,225146,https://kurs-radar.pro/razrabotchik-igr-na-unity-netologiya.html
+2026-11-23,veb-dizajner-rasshirennyj-kurs-ii-netologiya,Нетология,Веб-дизайнер. Расширенный курс + ИИ,120900,курс,120900,284359,https://kurs-radar.pro/veb-dizajner-rasshirennyj-kurs-ii-netologiya.html
+2026-11-23,moushen-dizajner-v-2d-i-3d-s-nulya-netologiya,Нетология,Моушен-дизайнер в 2D и 3D с нуля,119800,курс,119800,281937,https://kurs-radar.pro/moushen-dizajner-v-2d-i-3d-s-nulya-netologiya.html
+2026-11-23,go-razrabotchik-s-nulya-netologiya,Нетология,Go-разработчик с нуля,94400,курс,94400,246667,https://kurs-radar.pro/go-razrabotchik-s-nulya-netologiya.html
+2026-11-23,internet-marketolog-netologiya,Нетология,Интернет-маркетолог,86200,курс,86200,225289,https://kurs-radar.pro/internet-marketolog-netologiya.html
+2026-11-23,data-inzhener-netologiya,Нетология,Дата-инженер,105200,курс,105200,247577,https://kurs-radar.pro/data-inzhener-netologiya.html
+2026-11-23,prodakt-menedzher-rasshirennyj-kurs-netologiya,Нетология,Продакт-менеджер: расширенный курс,111200,курс,111200,373822,https://kurs-radar.pro/prodakt-menedzher-rasshirennyj-kurs-netologiya.html
+2026-11-23,menedzher-proektov-netologiya,Нетология,Менеджер проектов,83600,курс,83600,218658,https://kurs-radar.pro/menedzher-proektov-netologiya.html
+2026-11-23,smm-menedzher-ii-netologiya,Нетология,SMM-менеджер + ИИ,65700,курс,65700,193333,https://kurs-radar.pro/smm-menedzher-ii-netologiya.html
+2026-11-23,3d-dzheneralist-netologiya,Нетология,3D-дженералист,140500,курс,140500,330540,https://kurs-radar.pro/3d-dzheneralist-netologiya.html
+2026-11-23,landshaftnyj-dizajner-netologiya,Нетология,Ландшафтный дизайнер,70200,курс,70200,183655,https://kurs-radar.pro/landshaftnyj-dizajner-netologiya.html
+2026-11-23,sistemnyj-analitik-s-nulya-netologiya,Нетология,Системный аналитик с нуля,89700,курс,89700,191935,https://kurs-radar.pro/sistemnyj-analitik-s-nulya-netologiya.html
+2026-11-23,razrabotchik-na-python-s-mfti-netologiya,Нетология,Разработчик на Python (с МФТИ),500000,курс,500000,500000,https://kurs-radar.pro/razrabotchik-na-python-s-mfti-netologiya.html
+2026-11-23,biznes-analitik-netologiya,Нетология,Бизнес-аналитик,101700,курс,101700,265960,https://kurs-radar.pro/biznes-analitik-netologiya.html
+2026-11-23,android-razrabotchik-netologiya,Нетология,Android-разработчик,128400,курс,128400,302182,https://kurs-radar.pro/android-razrabotchik-netologiya.html
+2026-11-23,python-razrabotchik-s-nulya-netologiya,Нетология,Python‑разработчик с нуля,81800,курс,81800,213967,https://kurs-radar.pro/python-razrabotchik-s-nulya-netologiya.html
+2026-11-23,java-razrabotchik-netologiya,Нетология,Java-разработчик,99500,курс,99500,292622,https://kurs-radar.pro/java-razrabotchik-netologiya.html
+2026-11-23,inzhener-mashinnogo-obucheniya-pro-netologiya,Нетология,Инженер машинного обучения PRO,100000,курс,100000,261360,https://kurs-radar.pro/inzhener-mashinnogo-obucheniya-pro-netologiya.html
+2026-11-23,seo-specialist-netologiya,Нетология,SEO‑специалист,87400,курс,87400,228444,https://kurs-radar.pro/seo-specialist-netologiya.html
+2026-11-23,data-scientist-s-nulya-netologiya,Нетология,Data Scientist с нуля,83400,курс,83400,196309,https://kurs-radar.pro/data-scientist-s-nulya-netologiya.html
+2026-11-23,produktovyj-dizajner-pro-netologiya,Нетология,Продуктовый дизайнер ПРО,62200,курс,62200,133091,https://kurs-radar.pro/produktovyj-dizajner-pro-netologiya.html
+2026-11-23,analitik-dannyh-karpov-courses,Karpov.Courses,Аналитик данных,5467,мес,93450,,https://kurs-radar.pro/analitik-dannyh-karpov-courses.html
+2026-11-23,prodvinutaya-analitika-dannyh-hard-karpov-courses,Karpov.Courses,Продвинутая аналитика данных (Hard),7017,мес,168408,,https://kurs-radar.pro/prodvinutaya-analitika-dannyh-hard-karpov-courses.html
+2026-11-23,inzhener-dannyh-s-nulya-karpov-courses,Karpov.Courses,Инженер данных с нуля,6079,мес,103950,,https://kurs-radar.pro/inzhener-dannyh-s-nulya-karpov-courses.html
+2026-11-23,deep-learning-engineer-karpov-courses,Karpov.Courses,Deep Learning Engineer,5467,мес,131208,,https://kurs-radar.pro/deep-learning-engineer-karpov-courses.html
+2026-11-23,ml-design-proektirovanie-ml-sistem-karpov-courses,Karpov.Courses,ML Design: проектирование ML-систем,11054,мес,265296,,https://kurs-radar.pro/ml-design-proektirovanie-ml-sistem-karpov-courses.html
+2026-11-23,arhitekturnyj-dizajn-mitm,МИТМ,Архитектурный дизайн,5830,мес,315000,,https://kurs-radar.pro/arhitekturnyj-dizajn-mitm.html
+2026-11-23,dizajn-upakovki-i-vizualnaya-kommunikaciya-mitm,МИТМ,Дизайн упаковки и визуальная коммуникация,5830,мес,315000,,https://kurs-radar.pro/dizajn-upakovki-i-vizualnaya-kommunikaciya-mitm.html
+2026-11-23,graficheskij-dizajn-i-virtualnaya-dopolnennaya-realnost-mitm,МИТМ,Графический дизайн и виртуальная дополненная реальность,5830,мес,315000,,https://kurs-radar.pro/graficheskij-dizajn-i-virtualnaya-dopolnennaya-realnost-mitm.html
+2026-11-23,hudozhnik-animacii-i-kompyuternoj-grafiki-mitm,МИТМ,Художник анимации и компьютерной графики,45830,мес,2475000,,https://kurs-radar.pro/hudozhnik-animacii-i-kompyuternoj-grafiki-mitm.html
+2026-11-23,hudozhnik-graficheskih-iskusstv-mitm,МИТМ,Художник графических искусств,13330,мес,720000,,https://kurs-radar.pro/hudozhnik-graficheskih-iskusstv-mitm.html
+2026-11-23,iskusstvovedenie-i-art-biznes-mitm,МИТМ,Искусствоведение и арт-бизнес,5830,мес,315000,,https://kurs-radar.pro/iskusstvovedenie-i-art-biznes-mitm.html
+2026-11-23,kommunikacionnyj-dizajn-mitm,МИТМ,Коммуникационный дизайн,5830,мес,315000,,https://kurs-radar.pro/kommunikacionnyj-dizajn-mitm.html
+2026-11-23,landshaftnyj-dizajn-mitm,МИТМ,Ландшафтный дизайн,5830,мес,315000,,https://kurs-radar.pro/landshaftnyj-dizajn-mitm.html
+2026-11-23,nejroanimaciya-i-cifrovoe-kino-mitm,МИТМ,Нейроанимация и цифровое кино,5830,мес,315000,,https://kurs-radar.pro/nejroanimaciya-i-cifrovoe-kino-mitm.html
+2026-11-23,promyshlennyj-dizajn-mitm,МИТМ,Промышленный дизайн,5830,мес,315000,,https://kurs-radar.pro/promyshlennyj-dizajn-mitm.html
+2026-11-23,dizajn-i-sovremennoe-iskusstvo-mitm,МИТМ,Дизайн и современное искусство,5830,мес,315000,,https://kurs-radar.pro/dizajn-i-sovremennoe-iskusstvo-mitm.html
+2026-11-23,dizajner-interfejsov-mitm,МИТМ,Дизайнер интерфейсов,5830,мес,315000,,https://kurs-radar.pro/dizajner-interfejsov-mitm.html
+2026-11-23,buhgalterskij-uchet-analiz-i-audit-mitm,МИТМ,"Бухгалтерский учёт, анализ и аудит",6250,мес,337500,,https://kurs-radar.pro/buhgalterskij-uchet-analiz-i-audit-mitm.html
+2026-11-23,ekonomika-gornoj-promyshlennosti-mitm,МИТМ,Экономика горной промышленности,5830,мес,315000,,https://kurs-radar.pro/ekonomika-gornoj-promyshlennosti-mitm.html
+2026-11-23,ekonomika-i-statistika-mitm,МИТМ,Экономика и статистика,6250,мес,337500,,https://kurs-radar.pro/ekonomika-i-statistika-mitm.html
+2026-11-23,ekonomika-i-upravlenie-na-predpriyatii-mitm,МИТМ,Экономика и управление на предприятии,6250,мес,337500,,https://kurs-radar.pro/ekonomika-i-upravlenie-na-predpriyatii-mitm.html
+2026-11-23,ekonomiko-pravovoe-obespechenie-ekonomicheskoj-bezopasnosti-mitm,МИТМ,Экономико-правовое обеспечение экономической безопасности,5830,мес,315000,,https://kurs-radar.pro/ekonomiko-pravovoe-obespechenie-ekonomicheskoj-bezopasnosti-mitm.html
+2026-11-23,finansovyj-kontrol-i-ekonomicheskij-analiz-mitm,МИТМ,Финансовый контроль и экономический анализ,6250,мес,337500,,https://kurs-radar.pro/finansovyj-kontrol-i-ekonomicheskij-analiz-mitm.html
+2026-11-23,finansy-i-kredit-mitm,МИТМ,Финансы и кредит,6250,мес,337500,,https://kurs-radar.pro/finansy-i-kredit-mitm.html
+2026-11-23,finansy-v-korporacii-mitm,МИТМ,Финансы в корпорации,5830,мес,315000,,https://kurs-radar.pro/finansy-v-korporacii-mitm.html
+2026-11-23,korporativnye-finansy-mitm,МИТМ,Корпоративные финансы,5830,мес,315000,,https://kurs-radar.pro/korporativnye-finansy-mitm.html
+2026-11-23,mezhdunarodnaya-ekonomika-i-finansy-mitm,МИТМ,Международная экономика и финансы,6250,мес,337500,,https://kurs-radar.pro/mezhdunarodnaya-ekonomika-i-finansy-mitm.html
+2026-11-23,nalogi-i-nalogooblozhenie-mitm,МИТМ,Налоги и налогообложение,6250,мес,337500,,https://kurs-radar.pro/nalogi-i-nalogooblozhenie-mitm.html
+2026-11-23,ocenka-biznesa-i-riska-mitm,МИТМ,Оценка бизнеса и риска,6250,мес,337500,,https://kurs-radar.pro/ocenka-biznesa-i-riska-mitm.html
+2026-11-23,predprinimatelstvo-mitm,МИТМ,Предпринимательство,5830,мес,315000,,https://kurs-radar.pro/predprinimatelstvo-mitm.html
+2026-11-23,sovremennyj-bankovskij-biznes-mitm,МИТМ,Современный банковский бизнес,5830,мес,315000,,https://kurs-radar.pro/sovremennyj-bankovskij-biznes-mitm.html
+2026-11-23,avtomatizirovannye-sistemy-upravleniya-elektroenergeticheskih-sistem-i-kompleksov-mitm,МИТМ,Автоматизированные системы управления электроэнергетических систем и комплексов,5830,мес,315000,,https://kurs-radar.pro/avtomatizirovannye-sistemy-upravleniya-elektroenergeticheskih-sistem-i-kompleksov-mitm.html
+2026-11-23,ekonomika-i-upravlenie-v-elektroenergetike-mitm,МИТМ,Экономика и управление в электроэнергетике,5830,мес,315000,,https://kurs-radar.pro/ekonomika-i-upravlenie-v-elektroenergetike-mitm.html
+2026-11-23,elektroenergeticheskie-sistemy-i-seti-mitm,МИТМ,Электроэнергетические системы и сети,5830,мес,315000,,https://kurs-radar.pro/elektroenergeticheskie-sistemy-i-seti-mitm.html
+2026-11-23,elektrooborudovanie-i-elektrohozyajstvo-predpriyatij-organizacij-i-uchrezhdenij-mitm,МИТМ,"Электрооборудование и электрохозяйство предприятий, организаций и учреждений",5830,мес,315000,,https://kurs-radar.pro/elektrooborudovanie-i-elektrohozyajstvo-predpriyatij-organizacij-i-uchrezhdenij-mitm.html
+2026-11-23,elektrosnabzhenie-proizvodstvennyh-obektov-mitm,МИТМ,Электроснабжение производственных объектов,5830,мес,315000,,https://kurs-radar.pro/elektrosnabzhenie-proizvodstvennyh-obektov-mitm.html
+2026-11-23,gejmdizajn-i-dizajn-igr-mitm,МИТМ,Геймдизайн и дизайн игр,5830,мес,315000,,https://kurs-radar.pro/gejmdizajn-i-dizajn-igr-mitm.html
+2026-11-23,prodyuser-v-igrovoj-industrii-i-kibersporte-mitm,МИТМ,Продюсер в игровой индустрии и киберспорте,5830,мес,315000,,https://kurs-radar.pro/prodyuser-v-igrovoj-industrii-i-kibersporte-mitm.html
+2026-11-23,ekspluataciya-i-obsluzhivanie-bespilotnyh-robototehnicheskih-aviacionnyh-sistem-mitm,МИТМ,Эксплуатация и обслуживание беспилотных робототехнических авиационных систем,5830,мес,315000,,https://kurs-radar.pro/ekspluataciya-i-obsluzhivanie-bespilotnyh-robototehnicheskih-aviacionnyh-sistem-mitm.html
+2026-11-23,robotizirovannye-kosmicheskie-informacionno-izmeritelnye-i-telekommunikacionnye-sistemy-mitm,МИТМ,Роботизированные космические информационно-измерительные и телекоммуникационные системы,5830,мес,315000,,https://kurs-radar.pro/robotizirovannye-kosmicheskie-informacionno-izmeritelnye-i-telekommunikacionnye-sistemy-mitm.html
+2026-11-23,robototehnicheskie-i-mehatronnye-sistemy-avtomatizacii-mitm,МИТМ,Робототехнические и мехатронные системы автоматизации,5830,мес,315000,,https://kurs-radar.pro/robototehnicheskie-i-mehatronnye-sistemy-avtomatizacii-mitm.html
+2026-11-23,servisnye-i-promyshlennye-mobilnye-robototehnicheskie-sistemy-mitm,МИТМ,Сервисные и промышленные мобильные робототехнические системы,5830,мес,315000,,https://kurs-radar.pro/servisnye-i-promyshlennye-mobilnye-robototehnicheskie-sistemy-mitm.html
+2026-11-23,brend-menedzhment-v-mediaprostranstve-mitm,МИТМ,Бренд-менеджмент в медиапространстве,10000,мес,540000,,https://kurs-radar.pro/brend-menedzhment-v-mediaprostranstve-mitm.html
+2026-11-23,elektronnaya-kommerciya-mitm,МИТМ,Электронная коммерция,5830,мес,315000,,https://kurs-radar.pro/elektronnaya-kommerciya-mitm.html
+2026-11-23,upravlenie-proektami-v-mediaindustrii-mitm,МИТМ,Управление проектами в медиаиндустрии,5830,мес,315000,,https://kurs-radar.pro/upravlenie-proektami-v-mediaindustrii-mitm.html
+2026-11-23,antikrizisnyj-menedzhment-mitm,МИТМ,Антикризисный менеджмент,6250,мес,337500,,https://kurs-radar.pro/antikrizisnyj-menedzhment-mitm.html
+2026-11-23,finansovyj-menedzhment-mitm,МИТМ,Финансовый менеджмент,6250,мес,337500,,https://kurs-radar.pro/finansovyj-menedzhment-mitm.html
+2026-11-23,gosudarstvennaya-i-municipalnaya-sluzhba-mitm,МИТМ,Государственная и муниципальная служба,5830,мес,315000,,https://kurs-radar.pro/gosudarstvennaya-i-municipalnaya-sluzhba-mitm.html
+2026-11-23,informacionnyj-menedzhment-mitm,МИТМ,Информационный менеджмент,5830,мес,315000,,https://kurs-radar.pro/informacionnyj-menedzhment-mitm.html
+2026-11-23,internet-marketing-mitm,МИТМ,Интернет-маркетинг,6250,мес,337500,,https://kurs-radar.pro/internet-marketing-mitm.html
+2026-11-23,kachestvo-i-upravlenie-v-tehnicheskih-sistemah-mitm,МИТМ,Качество и управление в технических системах,5830,мес,315000,,https://kurs-radar.pro/kachestvo-i-upravlenie-v-tehnicheskih-sistemah-mitm.html
+2026-11-23,kadrovyj-menedzhment-mitm,МИТМ,Кадровый менеджмент,6250,мес,337500,,https://kurs-radar.pro/kadrovyj-menedzhment-mitm.html
+2026-11-23,logistika-mitm,МИТМ,Логистика,5830,мес,315000,,https://kurs-radar.pro/logistika-mitm.html
+2026-11-23,logistika-i-upravlenie-cepyami-postavok-mitm,МИТМ,Логистика и управление цепями поставок,5830,мес,315000,,https://kurs-radar.pro/logistika-i-upravlenie-cepyami-postavok-mitm.html
+2026-11-23,menedzhment-gostinichnyh-i-restorannyh-predpriyatij-mitm,МИТМ,Менеджмент гостиничных и ресторанных предприятий,6250,мес,337500,,https://kurs-radar.pro/menedzhment-gostinichnyh-i-restorannyh-predpriyatij-mitm.html
+2026-11-23,menedzhment-naukoemkih-proizvodstv-neftegazohimicheskogo-kompleksa-mitm,МИТМ,Менеджмент наукоемких производств нефтегазохимического комплекса,5830,мес,315000,,https://kurs-radar.pro/menedzhment-naukoemkih-proizvodstv-neftegazohimicheskogo-kompleksa-mitm.html
+2026-11-23,menedzhment-v-energetike-mitm,МИТМ,Менеджмент в энергетике,6250,мес,337500,,https://kurs-radar.pro/menedzhment-v-energetike-mitm.html
+2026-11-23,menedzhment-v-gostinichnom-i-restorannom-biznese-mitm,МИТМ,Менеджмент в гостиничном и ресторанном бизнесе,5830,мес,315000,,https://kurs-radar.pro/menedzhment-v-gostinichnom-i-restorannom-biznese-mitm.html
+2026-11-23,menedzhment-v-mashinostroenii-mitm,МИТМ,Менеджмент в машиностроении,6250,мес,337500,,https://kurs-radar.pro/menedzhment-v-mashinostroenii-mitm.html
+2026-11-23,menedzhment-v-neftegazovom-komplekse-mitm,МИТМ,Менеджмент в нефтегазовом комплексе,6250,мес,337500,,https://kurs-radar.pro/menedzhment-v-neftegazovom-komplekse-mitm.html
+2026-11-23,menedzhment-v-obrazovanii-mitm,МИТМ,Менеджмент в образовании,6250,мес,337500,,https://kurs-radar.pro/menedzhment-v-obrazovanii-mitm.html
+2026-11-23,menedzhment-v-stroitelstve-mitm,МИТМ,Менеджмент в строительстве,6250,мес,337500,,https://kurs-radar.pro/menedzhment-v-stroitelstve-mitm.html
+2026-11-23,menedzhment-v-turizme-mitm,МИТМ,Менеджмент в туризме,6250,мес,337500,,https://kurs-radar.pro/menedzhment-v-turizme-mitm.html
+2026-11-23,menedzhment-v-zdravoohranenii-mitm,МИТМ,Менеджмент в здравоохранении,6250,мес,337500,,https://kurs-radar.pro/menedzhment-v-zdravoohranenii-mitm.html
+2026-11-23,organizacionnyj-menedzhment-mitm,МИТМ,Организационный менеджмент,6250,мес,337500,,https://kurs-radar.pro/organizacionnyj-menedzhment-mitm.html
+2026-11-23,organizaciya-raboty-s-molodezhyu-mitm,МИТМ,Организация работы с молодёжью,12500,мес,585000,,https://kurs-radar.pro/organizaciya-raboty-s-molodezhyu-mitm.html
+2026-11-23,proizvodstvennyj-menedzhment-mitm,МИТМ,Производственный менеджмент,6250,мес,337500,,https://kurs-radar.pro/proizvodstvennyj-menedzhment-mitm.html
+2026-11-23,sportivnyj-menedzhment-mitm,МИТМ,Спортивный менеджмент,6250,мес,337500,,https://kurs-radar.pro/sportivnyj-menedzhment-mitm.html
+2026-11-23,strategicheskij-menedzhment-mitm,МИТМ,Стратегический менеджмент,6250,мес,337500,,https://kurs-radar.pro/strategicheskij-menedzhment-mitm.html
+2026-11-23,upravlenie-bankovskoj-i-informacionnoj-bezopasnostyu-mitm,МИТМ,Управление банковской и информационной безопасностью,6250,мес,337500,,https://kurs-radar.pro/upravlenie-bankovskoj-i-informacionnoj-bezopasnostyu-mitm.html
+2026-11-23,upravlenie-gosudarstvennym-i-municipalnym-sektorom-mitm,МИТМ,Управление государственным и муниципальным сектором,6250,мес,337500,,https://kurs-radar.pro/upravlenie-gosudarstvennym-i-municipalnym-sektorom-mitm.html
+2026-11-23,upravlenie-i-tehnologii-internet-prodazh-na-marketplejsah-mitm,МИТМ,Управление и технологии интернет-продаж на маркетплейсах,5830,мес,315000,,https://kurs-radar.pro/upravlenie-i-tehnologii-internet-prodazh-na-marketplejsah-mitm.html
+2026-11-23,upravlenie-malym-biznesom-mitm,МИТМ,Управление малым бизнесом,6250,мес,337500,,https://kurs-radar.pro/upravlenie-malym-biznesom-mitm.html
+2026-11-23,upravlenie-na-transporte-mitm,МИТМ,Управление на транспорте,6250,мес,337500,,https://kurs-radar.pro/upravlenie-na-transporte-mitm.html
+2026-11-23,upravlenie-personalom-mitm,МИТМ,Управление персоналом,6250,мес,337500,,https://kurs-radar.pro/upravlenie-personalom-mitm.html
+2026-11-23,upravlenie-proektami-mitm,МИТМ,Управление проектами,6250,мес,337500,,https://kurs-radar.pro/upravlenie-proektami-mitm.html
+2026-11-23,upravlenie-zhkh-mitm,МИТМ,Управление ЖКХ,6250,мес,337500,,https://kurs-radar.pro/upravlenie-zhkh-mitm.html
+2026-11-23,vysshaya-shkola-otelerov-restoratorov-i-turoperatorov-mitm,МИТМ,"Высшая школа отельеров, рестораторов и туроператоров",5830,мес,315000,,https://kurs-radar.pro/vysshaya-shkola-otelerov-restoratorov-i-turoperatorov-mitm.html
+2026-11-23,doshkolnoe-obrazovanie-mitm,МИТМ,Дошкольное образование,5830,мес,315000,,https://kurs-radar.pro/doshkolnoe-obrazovanie-mitm.html
+2026-11-23,fizicheskaya-kultura-mitm,МИТМ,Физическая культура,5830,мес,315000,,https://kurs-radar.pro/fizicheskaya-kultura-mitm.html
+2026-11-23,informatika-i-informacionnye-tehnologii-v-obrazovanii-mitm,МИТМ,Информатика и информационные технологии в образовании,5830,мес,315000,,https://kurs-radar.pro/informatika-i-informacionnye-tehnologii-v-obrazovanii-mitm.html
+2026-11-23,matematika-i-informatika-mitm,МИТМ,Математика и информатика,5830,мес,315000,,https://kurs-radar.pro/matematika-i-informatika-mitm.html
+2026-11-23,nachalnoe-obrazovanie-mitm,МИТМ,Начальное образование,5830,мес,315000,,https://kurs-radar.pro/nachalnoe-obrazovanie-mitm.html
+2026-11-23,nachalnoe-obrazovanie-i-inostrannyj-yazyk-mitm,МИТМ,Начальное образование и иностранный язык,5830,мес,315000,,https://kurs-radar.pro/nachalnoe-obrazovanie-i-inostrannyj-yazyk-mitm.html
+2026-11-23,pedagogicheskoe-proektirovanie-obrazovatelnogo-kontenta-mitm,МИТМ,Педагогическое проектирование образовательного контента,5830,мес,315000,,https://kurs-radar.pro/pedagogicheskoe-proektirovanie-obrazovatelnogo-kontenta-mitm.html
+2026-11-23,perevod-i-mezhkulturnaya-kommunikaciya-mitm,МИТМ,Перевод и межкультурная коммуникация,5830,мес,315000,,https://kurs-radar.pro/perevod-i-mezhkulturnaya-kommunikaciya-mitm.html
+2026-11-23,prepodavatel-upravlencheskih-ekonomicheskih-i-pravovyh-disciplin-mitm,МИТМ,"Преподаватель управленческих, экономических и правовых дисциплин",5830,мес,315000,,https://kurs-radar.pro/prepodavatel-upravlencheskih-ekonomicheskih-i-pravovyh-disciplin-mitm.html
+2026-11-23,psihologiya-i-pedagogika-doshkolnogo-obrazovaniya-mitm,МИТМ,Психология и педагогика дошкольного образования,5830,мес,315000,,https://kurs-radar.pro/psihologiya-i-pedagogika-doshkolnogo-obrazovaniya-mitm.html
+2026-11-23,psihologiya-i-pedagogika-nachalnogo-obrazovaniya-mitm,МИТМ,Психология и педагогика начального образования,5830,мес,315000,,https://kurs-radar.pro/psihologiya-i-pedagogika-nachalnogo-obrazovaniya-mitm.html
+2026-11-23,psihologiya-razvitiya-mitm,МИТМ,Психология развития,5830,мес,315000,,https://kurs-radar.pro/psihologiya-razvitiya-mitm.html
+2026-11-23,teoriya-i-praktika-perevoda-mitm,МИТМ,Теория и практика перевода,5830,мес,315000,,https://kurs-radar.pro/teoriya-i-praktika-perevoda-mitm.html
+2026-11-23,teoriya-i-praktika-perevoda-anglijskij-i-ispanskij-yazyki-mitm,МИТМ,Теория и практика перевода (английский и испанский языки),5830,мес,315000,,https://kurs-radar.pro/teoriya-i-praktika-perevoda-anglijskij-i-ispanskij-yazyki-mitm.html
+2026-11-23,teoriya-i-praktika-perevoda-anglijskij-i-kitajskij-yazyki-mitm,МИТМ,Теория и практика перевода (английский и китайский языки),5830,мес,315000,,https://kurs-radar.pro/teoriya-i-praktika-perevoda-anglijskij-i-kitajskij-yazyki-mitm.html
+2026-11-23,uchitel-istorii-i-obschestvoznaniya-mitm,МИТМ,Учитель истории и обществознания,5830,мес,315000,,https://kurs-radar.pro/uchitel-istorii-i-obschestvoznaniya-mitm.html
+2026-11-23,uchitel-russkogo-yazyka-i-literatury-mitm,МИТМ,Учитель русского языка и литературы,5830,мес,385000,,https://kurs-radar.pro/uchitel-russkogo-yazyka-i-literatury-mitm.html
+2026-11-23,bezopasnost-kompyuternyh-sistem-v-sfere-professionalnoj-deyatelnosti-mitm,МИТМ,Безопасность компьютерных систем в сфере профессиональной деятельности,5830,мес,315000,,https://kurs-radar.pro/bezopasnost-kompyuternyh-sistem-v-sfere-professionalnoj-deyatelnosti-mitm.html
+2026-11-23,cifrovaya-transformaciya-upravleniya-biznesom-mitm,МИТМ,Цифровая трансформация управления бизнесом,15000,мес,675000,,https://kurs-radar.pro/cifrovaya-transformaciya-upravleniya-biznesom-mitm.html
+2026-11-23,gejmdizajn-i-razrabotka-igr-mitm,МИТМ,Геймдизайн и разработка игр,5830,мес,315000,,https://kurs-radar.pro/gejmdizajn-i-razrabotka-igr-mitm.html
+2026-11-23,graficheskij-dizajn-mitm,МИТМ,Графический дизайн,15000,мес,675000,,https://kurs-radar.pro/graficheskij-dizajn-mitm.html
+2026-11-23,informacionnye-upravlyayuschie-kompleksy-sistem-bezopasnosti-obektov-mitm,МИТМ,Информационные управляющие комплексы систем безопасности объектов,15000,мес,675000,,https://kurs-radar.pro/informacionnye-upravlyayuschie-kompleksy-sistem-bezopasnosti-obektov-mitm.html
+2026-11-23,upravlenie-it-proektami-i-it-processami-mitm,МИТМ,Управление ИТ-проектами и ИТ-процессами,15000,мес,675000,,https://kurs-radar.pro/upravlenie-it-proektami-i-it-processami-mitm.html
+2026-11-23,intellektualnye-sredstva-obrabotki-informacii-mitm,МИТМ,Интеллектуальные средства обработки информации,5830,мес,315000,,https://kurs-radar.pro/intellektualnye-sredstva-obrabotki-informacii-mitm.html
+2026-11-23,internet-tehnologii-i-mobilnye-prilozheniya-mitm,МИТМ,Интернет технологии и мобильные приложения,5830,мес,315000,,https://kurs-radar.pro/internet-tehnologii-i-mobilnye-prilozheniya-mitm.html
+2026-11-23,inzhener-iskusstvennogo-intellekta-mitm,МИТМ,Инженер искусственного интеллекта,5830,мес,315000,,https://kurs-radar.pro/inzhener-iskusstvennogo-intellekta-mitm.html
+2026-11-23,it-menedzhment-v-biznese-mitm,МИТМ,ИТ-менеджмент в бизнесе,5830,мес,315000,,https://kurs-radar.pro/it-menedzhment-v-biznese-mitm.html
+2026-11-23,kiberbezopasnost-v-informacionnyh-sistemah-mitm,МИТМ,Кибербезопасность в информационных системах,5830,мес,315000,,https://kurs-radar.pro/kiberbezopasnost-v-informacionnyh-sistemah-mitm.html
+2026-11-23,kompleksnye-sistemy-bezopasnosti-mitm,МИТМ,Комплексные системы безопасности,5830,мес,315000,,https://kurs-radar.pro/kompleksnye-sistemy-bezopasnosti-mitm.html
+2026-11-23,prikladnaya-informatika-v-ekonomike-mitm,МИТМ,Прикладная информатика в экономике,5830,мес,315000,,https://kurs-radar.pro/prikladnaya-informatika-v-ekonomike-mitm.html
+2026-11-23,razrabotka-programmnogo-obespecheniya-i-veb-prilozhenij-mitm,МИТМ,Разработка программного обеспечения и веб-приложений,15000,мес,675000,,https://kurs-radar.pro/razrabotka-programmnogo-obespecheniya-i-veb-prilozhenij-mitm.html
+2026-11-23,razrabotka-i-testirovanie-programmnogo-obespecheniya-mitm,МИТМ,Разработка и тестирование программного обеспечения,5830,мес,315000,,https://kurs-radar.pro/razrabotka-i-testirovanie-programmnogo-obespecheniya-mitm.html
+2026-11-23,razrabotka-kompyuternyh-igr-i-ispolzovanie-multimedijnyh-prilozhenij-mitm,МИТМ,Разработка компьютерных игр и использование мультимедийных приложений,15000,мес,675000,,https://kurs-radar.pro/razrabotka-kompyuternyh-igr-i-ispolzovanie-multimedijnyh-prilozhenij-mitm.html
+2026-11-23,razrabotka-kompyuternyh-igr-dopolnennoj-i-virtualnoj-realnosti-mitm,МИТМ,"Разработка компьютерных игр, дополненной и виртуальной реальности",5830,мес,315000,,https://kurs-radar.pro/razrabotka-kompyuternyh-igr-dopolnennoj-i-virtualnoj-realnosti-mitm.html
+2026-11-23,razrabotka-soprovozhdenie-i-obespechenie-bezopasnosti-informacionnyh-sistem-mitm,МИТМ,"Разработка, сопровождение и обеспечение безопасности информационных систем",5830,мес,315000,,https://kurs-radar.pro/razrabotka-soprovozhdenie-i-obespechenie-bezopasnosti-informacionnyh-sistem-mitm.html
+2026-11-23,robototehnika-i-iskusstvennyj-intellekt-mitm,МИТМ,Робототехника и искусственный интеллект,5830,мес,315000,,https://kurs-radar.pro/robototehnika-i-iskusstvennyj-intellekt-mitm.html
+2026-11-23,sistemy-i-sredstva-avtomatizacii-tehnologicheskih-processov-mitm,МИТМ,Системы и средства автоматизации технологических процессов,5830,мес,315000,,https://kurs-radar.pro/sistemy-i-sredstva-avtomatizacii-tehnologicheskih-processov-mitm.html
+2026-11-23,tehnologii-iskusstvennogo-intellekta-mitm,МИТМ,Технологии искусственного интеллекта,5830,мес,315000,,https://kurs-radar.pro/tehnologii-iskusstvennogo-intellekta-mitm.html
+2026-11-23,upravlenie-informacionnymi-sistemami-mitm,МИТМ,Управление информационными системами,5830,мес,315000,,https://kurs-radar.pro/upravlenie-informacionnymi-sistemami-mitm.html
+2026-11-23,vychislitelnye-mashiny-kompleksy-sistemy-i-seti-mitm,МИТМ,"Вычислительные машины, комплексы, системы и сети",15000,мес,675000,,https://kurs-radar.pro/vychislitelnye-mashiny-kompleksy-sistemy-i-seti-mitm.html
+2026-11-23,korrekcionnaya-psihologiya-s-osnovami-logopedii-mitm,МИТМ,Коррекционная психология с основами логопедии,10830,мес,585000,,https://kurs-radar.pro/korrekcionnaya-psihologiya-s-osnovami-logopedii-mitm.html
+2026-11-23,psihoanaliz-kak-metod-raboty-psihologa-mitm,МИТМ,Психоанализ как метод работы психолога,10830,мес,585000,,https://kurs-radar.pro/psihoanaliz-kak-metod-raboty-psihologa-mitm.html
+2026-11-23,psiholog-pedagog-mitm,МИТМ,Психолог-педагог,10830,мес,585000,,https://kurs-radar.pro/psiholog-pedagog-mitm.html
+2026-11-23,psihologicheskoe-konsultirovanie-mitm,МИТМ,Психологическое консультирование,10830,мес,585000,,https://kurs-radar.pro/psihologicheskoe-konsultirovanie-mitm.html
+2026-11-23,psihologiya-mitm,МИТМ,Психология,10830,мес,585000,,https://kurs-radar.pro/psihologiya-mitm.html
+2026-11-23,psihologiya-semejnyh-otnoshenij-mitm,МИТМ,Психология семейных отношений,10830,мес,585000,,https://kurs-radar.pro/psihologiya-semejnyh-otnoshenij-mitm.html
+2026-11-23,psihologiya-upravleniya-mitm,МИТМ,Психология управления,10830,мес,585000,,https://kurs-radar.pro/psihologiya-upravleniya-mitm.html
+2026-11-23,psihologo-pedagogicheskoe-obrazovanie-mitm,МИТМ,Психолого-педагогическое образование,15000,мес,630000,,https://kurs-radar.pro/psihologo-pedagogicheskoe-obrazovanie-mitm.html
+2026-11-23,avtomobilnye-dorogi-mitm,МИТМ,Автомобильные дороги,5830,мес,315000,,https://kurs-radar.pro/avtomobilnye-dorogi-mitm.html
+2026-11-23,ekspertiza-i-upravlenie-nedvizhimostyu-mitm,МИТМ,Экспертиза и управление недвижимостью,5830,мес,315000,,https://kurs-radar.pro/ekspertiza-i-upravlenie-nedvizhimostyu-mitm.html
+2026-11-23,gorodskoe-stroitelstvo-i-hozyajstvo-mitm,МИТМ,Городское строительство и хозяйство,5830,мес,315000,,https://kurs-radar.pro/gorodskoe-stroitelstvo-i-hozyajstvo-mitm.html
+2026-11-23,proizvodstvo-stroitelnyh-materialov-izdelij-i-konstrukcij-mitm,МИТМ,"Производство строительных материалов, изделий и конструкций",5830,мес,315000,,https://kurs-radar.pro/proizvodstvo-stroitelnyh-materialov-izdelij-i-konstrukcij-mitm.html
+2026-11-23,promyshlennoe-i-grazhdanskoe-stroitelstvo-mitm,МИТМ,Промышленное и гражданское строительство,5830,мес,315000,,https://kurs-radar.pro/promyshlennoe-i-grazhdanskoe-stroitelstvo-mitm.html
+2026-11-23,teplogazosnabzhenie-i-ventilyaciya-mitm,МИТМ,Теплогазоснабжение и вентиляция,5830,мес,315000,,https://kurs-radar.pro/teplogazosnabzhenie-i-ventilyaciya-mitm.html
+2026-11-23,vodosnabzhenie-i-vodootvedenie-mitm,МИТМ,Водоснабжение и водоотведение,5830,мес,315000,,https://kurs-radar.pro/vodosnabzhenie-i-vodootvedenie-mitm.html
+2026-11-23,bezopasnost-tehnologicheskih-processov-i-proizvodstv-mitm,МИТМ,Безопасность технологических процессов и производств,5830,мес,315000,,https://kurs-radar.pro/bezopasnost-tehnologicheskih-processov-i-proizvodstv-mitm.html
+2026-11-23,bezopasnost-truda-mitm,МИТМ,Безопасность труда,5830,мес,315000,,https://kurs-radar.pro/bezopasnost-truda-mitm.html
+2026-11-23,ekologicheskaya-bezopasnost-mitm,МИТМ,Экологическая безопасность,5830,мес,315000,,https://kurs-radar.pro/ekologicheskaya-bezopasnost-mitm.html
+2026-11-23,ekonomika-i-upravlenie-v-tehnosfernoj-bezopasnosti-mitm,МИТМ,Экономика и управление в техносферной безопасности,5830,мес,315000,,https://kurs-radar.pro/ekonomika-i-upravlenie-v-tehnosfernoj-bezopasnosti-mitm.html
+2026-11-23,pozharnaya-bezopasnost-mitm,МИТМ,Пожарная безопасность,5830,мес,315000,,https://kurs-radar.pro/pozharnaya-bezopasnost-mitm.html
+2026-11-23,promyshlennaya-bezopasnost-mitm,МИТМ,Промышленная безопасность,5830,мес,315000,,https://kurs-radar.pro/promyshlennaya-bezopasnost-mitm.html
+2026-11-23,avtomatizaciya-tehnologicheskih-processov-i-proizvodstv-v-teploenergetike-i-teplotehnike-mitm,МИТМ,Автоматизация технологических процессов и производств в теплоэнергетике и теплотехнике,5830,мес,315000,,https://kurs-radar.pro/avtomatizaciya-tehnologicheskih-processov-i-proizvodstv-v-teploenergetike-i-teplotehnike-mitm.html
+2026-11-23,avtonomnye-energeticheskie-sistemy-mitm,МИТМ,Автономные энергетические системы,5830,мес,315000,,https://kurs-radar.pro/avtonomnye-energeticheskie-sistemy-mitm.html
+2026-11-23,ekonomika-i-upravlenie-v-teploenergetike-mitm,МИТМ,Экономика и управление в теплоэнергетике,5830,мес,315000,,https://kurs-radar.pro/ekonomika-i-upravlenie-v-teploenergetike-mitm.html
+2026-11-23,holodosnabzhenie-ventilyaciya-i-kondicionirovanie-mitm,МИТМ,"Холодоснабжение, вентиляция и кондиционирование",5830,мес,315000,,https://kurs-radar.pro/holodosnabzhenie-ventilyaciya-i-kondicionirovanie-mitm.html
+2026-11-23,promyshlennaya-teploenergetika-mitm,МИТМ,Промышленная теплоэнергетика,5830,мес,315000,,https://kurs-radar.pro/promyshlennaya-teploenergetika-mitm.html
+2026-11-23,grazhdanskoe-pravo-mitm,МИТМ,Гражданское право,5830,мес,315000,,https://kurs-radar.pro/grazhdanskoe-pravo-mitm.html
+2026-11-23,ugolovnoe-pravo-mitm,МИТМ,Уголовное право,5830,мес,315000,,https://kurs-radar.pro/ugolovnoe-pravo-mitm.html
+2026-11-23,dizajner-mitm,МИТМ,Дизайнер,8330,мес,383333,,https://kurs-radar.pro/dizajner-mitm.html
+2026-11-23,specialist-po-animacii-i-animacionnomu-kino-mitm,МИТМ,Специалист по анимации и анимационному кино,16670,мес,766667,,https://kurs-radar.pro/specialist-po-animacii-i-animacionnomu-kino-mitm.html
+2026-11-23,specialist-po-animacii-i-animacionnomu-kino-komiksy-mitm,МИТМ,Специалист по анимации и анимационному кино (Комиксы),11670,мес,536667,,https://kurs-radar.pro/specialist-po-animacii-i-animacionnomu-kino-komiksy-mitm.html
+2026-11-23,specialist-po-animacii-i-animacionnomu-kino-nejroanimaciya-mitm,МИТМ,Специалист по анимации и анимационному кино (нейроанимация),31670,мес,1456667,,https://kurs-radar.pro/specialist-po-animacii-i-animacionnomu-kino-nejroanimaciya-mitm.html
+2026-11-23,bankovskoe-delo-mitm,МИТМ,Банковское дело,7500,мес,225000,,https://kurs-radar.pro/bankovskoe-delo-mitm.html
+2026-11-23,buhgalter-mitm,МИТМ,Бухгалтер,4170,мес,191667,,https://kurs-radar.pro/buhgalter-mitm.html
+2026-11-23,deloproizvoditel-mitm,МИТМ,Делопроизводитель,8750,мес,90000,,https://kurs-radar.pro/deloproizvoditel-mitm.html
+2026-11-23,ekonomika-i-buhgalterskij-uchet-po-otraslyam-mitm,МИТМ,Экономика и бухгалтерский учет (по отраслям),7500,мес,225000,,https://kurs-radar.pro/ekonomika-i-buhgalterskij-uchet-po-otraslyam-mitm.html
+2026-11-23,finansist-mitm,МИТМ,Финансист,5830,мес,268333,,https://kurs-radar.pro/finansist-mitm.html
+2026-11-23,specialist-bankovskogo-dela-mitm,МИТМ,Специалист банковского дела,6670,мес,306667,,https://kurs-radar.pro/specialist-bankovskogo-dela-mitm.html
+2026-11-23,specialist-po-animacii-i-animacionnomu-kino-hudozhnik-v-igrah-mitm,МИТМ,Специалист по анимации и анимационному кино (художник в играх),5830,мес,268333,,https://kurs-radar.pro/specialist-po-animacii-i-animacionnomu-kino-hudozhnik-v-igrah-mitm.html
+2026-11-23,specialist-po-kino-i-teleproizvodstvu-igrovaya-industriya-i-kibersport-mitm,МИТМ,Специалист по кино - и телепроизводству (игровая индустрия и киберспорт),10000,мес,420000,,https://kurs-radar.pro/specialist-po-kino-i-teleproizvodstvu-igrovaya-industriya-i-kibersport-mitm.html
+2026-11-23,operacionnyj-logist-mitm,МИТМ,Операционный логист,5830,мес,268333,,https://kurs-radar.pro/operacionnyj-logist-mitm.html
+2026-11-23,internet-marketing-mitm-2,МИТМ,Интернет-маркетинг,5830,мес,268333,,https://kurs-radar.pro/internet-marketing-mitm-2.html
+2026-11-23,specialist-po-reklame-mitm,МИТМ,Специалист по рекламе,5830,мес,268333,,https://kurs-radar.pro/specialist-po-reklame-mitm.html
+2026-11-23,specialist-po-reklame-piar-reklama-i-menedzhment-soobschestv-mitm,МИТМ,"Специалист по рекламе (Пиар, реклама и менеджмент сообществ)",10000,мес,460000,,https://kurs-radar.pro/specialist-po-reklame-piar-reklama-i-menedzhment-soobschestv-mitm.html
+2026-11-23,specialist-torgovogo-dela-mitm,МИТМ,Специалист торгового дела,5830,мес,268333,,https://kurs-radar.pro/specialist-torgovogo-dela-mitm.html
+2026-11-23,specialist-torgovogo-dela-menedzher-marketplejsov-mitm,МИТМ,Специалист торгового дела (менеджер маркетплейсов),5830,мес,268333,,https://kurs-radar.pro/specialist-torgovogo-dela-menedzher-marketplejsov-mitm.html
+2026-11-23,specialist-torgovogo-dela-upravlenie-torgovym-biznesom-mitm,МИТМ,Специалист торгового дела (Управление торговым бизнесом),5830,мес,268333,,https://kurs-radar.pro/specialist-torgovogo-dela-upravlenie-torgovym-biznesom-mitm.html
+2026-11-23,torgovoe-delo-mitm,МИТМ,Торговое дело,7500,мес,225000,,https://kurs-radar.pro/torgovoe-delo-mitm.html
+2026-11-23,specialist-po-turizmu-i-gostepriimstvu-mitm,МИТМ,Специалист по туризму и гостеприимству,4170,мес,191667,,https://kurs-radar.pro/specialist-po-turizmu-i-gostepriimstvu-mitm.html
+2026-11-23,uchitel-nachalnyh-klassov-mitm,МИТМ,Учитель начальных классов,5830,мес,268333,,https://kurs-radar.pro/uchitel-nachalnyh-klassov-mitm.html
+2026-11-23,vospitatel-detej-doshkolnogo-vozrasta-mitm,МИТМ,Воспитатель детей дошкольного возраста,6670,мес,320000,,https://kurs-radar.pro/vospitatel-detej-doshkolnogo-vozrasta-mitm.html
+2026-11-23,informacionnye-sistemy-i-programmirovanie-mitm,МИТМ,Информационные системы и программирование,7500,мес,315000,,https://kurs-radar.pro/informacionnye-sistemy-i-programmirovanie-mitm.html
+2026-11-23,operator-informacionnyh-sistem-i-resursov-mitm,МИТМ,Оператор информационных систем и ресурсов,8750,мес,90000,,https://kurs-radar.pro/operator-informacionnyh-sistem-i-resursov-mitm.html
+2026-11-23,programmist-mitm,МИТМ,Программист,10000,мес,580000,,https://kurs-radar.pro/programmist-mitm.html
+2026-11-23,razrabotchik-veb-prilozhenij-mitm,МИТМ,Разработчик веб-приложений,5830,мес,268333,,https://kurs-radar.pro/razrabotchik-veb-prilozhenij-mitm.html
+2026-11-23,razrabotka-i-upravlenie-programmnym-obespecheniem-mitm,МИТМ,Разработка и управление программным обеспечением,8750,мес,255000,,https://kurs-radar.pro/razrabotka-i-upravlenie-programmnym-obespecheniem-mitm.html
+2026-11-23,specialist-po-mehatronike-i-robototehnike-mitm,МИТМ,Специалист по мехатронике и робототехнике,5830,мес,338333,,https://kurs-radar.pro/specialist-po-mehatronike-i-robototehnike-mitm.html
+2026-11-23,chertezhnik-konstruktor-mitm,МИТМ,Чертежник-конструктор,13330,мес,160000,,https://kurs-radar.pro/chertezhnik-konstruktor-mitm.html
+2026-11-23,montazh-naladka-i-ekspluataciya-elektrooborudovaniya-promyshlennyh-i-grazhdanskih-sooruzhenij-mitm,МИТМ,"Монтаж, наладка и эксплуатация электрооборудования промышленных и гражданских сооружений",7500,мес,225000,,https://kurs-radar.pro/montazh-naladka-i-ekspluataciya-elektrooborudovaniya-promyshlennyh-i-grazhdanskih-sooruzhenij-mitm.html
+2026-11-23,stroitelstvo-i-ekspluataciya-zdanij-i-sooruzhenij-mitm,МИТМ,Строительство и эксплуатация зданий и сооружений,7500,мес,315000,,https://kurs-radar.pro/stroitelstvo-i-ekspluataciya-zdanij-i-sooruzhenij-mitm.html
+2026-11-23,yurist-mitm,МИТМ,Юрист,4170,мес,191667,,https://kurs-radar.pro/yurist-mitm.html
+2026-11-23,cifrovoe-prodyusirovanie-i-mediadistribuciya-mitm,МИТМ,Цифровое продюсирование и медиадистрибуция,30000,мес,900000,,https://kurs-radar.pro/cifrovoe-prodyusirovanie-i-mediadistribuciya-mitm.html
+2026-11-23,cifrovoj-dizajn-mitm,МИТМ,Цифровой дизайн,7500,мес,225000,,https://kurs-radar.pro/cifrovoj-dizajn-mitm.html
+2026-11-23,dizajn-i-prodvizhenie-cifrovogo-produkta-mitm,МИТМ,Дизайн и продвижение цифрового продукта,7500,мес,225000,,https://kurs-radar.pro/dizajn-i-prodvizhenie-cifrovogo-produkta-mitm.html
+2026-11-23,buhgalterskij-uchet-analiz-i-audit-mitm-2,МИТМ,"Бухгалтерский учет, анализ и аудит",7500,мес,225000,,https://kurs-radar.pro/buhgalterskij-uchet-analiz-i-audit-mitm-2.html
+2026-11-23,cifrovaya-ekonomika-i-iskusstvennyj-intellekt-mitm,МИТМ,Цифровая экономика и искусственный интеллект,7500,мес,225000,,https://kurs-radar.pro/cifrovaya-ekonomika-i-iskusstvennyj-intellekt-mitm.html
+2026-11-23,finansy-mitm,МИТМ,Финансы,7500,мес,225000,,https://kurs-radar.pro/finansy-mitm.html
+2026-11-23,instrumentalnye-metody-i-modeli-v-cifrovoj-ekonomike-mitm,МИТМ,Инструментальные методы и модели в цифровой экономике,7500,мес,225000,,https://kurs-radar.pro/instrumentalnye-metody-i-modeli-v-cifrovoj-ekonomike-mitm.html
+2026-11-23,brend-strategiya-v-cifrovyh-kommunikaciyah-mitm,МИТМ,Бренд-стратегия в цифровых коммуникациях,7500,мес,225000,,https://kurs-radar.pro/brend-strategiya-v-cifrovyh-kommunikaciyah-mitm.html
+2026-11-23,internet-marketing-mitm-3,МИТМ,Интернет-маркетинг,7500,мес,225000,,https://kurs-radar.pro/internet-marketing-mitm-3.html
+2026-11-23,bankovskij-menedzhment-i-upravlenie-riskami-mitm,МИТМ,Банковский менеджмент и управление рисками,7500,мес,225000,,https://kurs-radar.pro/bankovskij-menedzhment-i-upravlenie-riskami-mitm.html
+2026-11-23,cifrovoe-razvitie-gosudarstvennogo-upravleniya-mitm,МИТМ,Цифровое развитие государственного управления,7500,мес,225000,,https://kurs-radar.pro/cifrovoe-razvitie-gosudarstvennogo-upravleniya-mitm.html
+2026-11-23,elektronnyj-biznes-i-cifrovye-innovacii-mitm,МИТМ,Электронный бизнес и цифровые инновации,7500,мес,225000,,https://kurs-radar.pro/elektronnyj-biznes-i-cifrovye-innovacii-mitm.html
+2026-11-23,upravlenie-personalom-mitm-2,МИТМ,Управление персоналом,7500,мес,225000,,https://kurs-radar.pro/upravlenie-personalom-mitm-2.html
+2026-11-23,menedzhment-v-kibersporte-i-fidzhital-sporte-mitm,МИТМ,Менеджмент в киберспорте и фиджитал спорте,10000,мес,300000,,https://kurs-radar.pro/menedzhment-v-kibersporte-i-fidzhital-sporte-mitm.html
+2026-11-23,menedzhment-v-obrazovanii-mitm-2,МИТМ,Менеджмент в образовании,7500,мес,225000,,https://kurs-radar.pro/menedzhment-v-obrazovanii-mitm-2.html
+2026-11-23,predprinimatelstvo-mitm-2,МИТМ,Предпринимательство,7500,мес,217500,,https://kurs-radar.pro/predprinimatelstvo-mitm-2.html
+2026-11-23,proektnyj-menedzhment-mitm,МИТМ,Проектный менеджмент,6250,мес,187500,,https://kurs-radar.pro/proektnyj-menedzhment-mitm.html
+2026-11-23,strategicheskij-i-finansovyj-menedzhment-v-sovremennyh-organizaciyah-mitm,МИТМ,Стратегический и финансовый менеджмент в современных организациях,7500,мес,180000,,https://kurs-radar.pro/strategicheskij-i-finansovyj-menedzhment-v-sovremennyh-organizaciyah-mitm.html
+2026-11-23,strategicheskij-menedzhment-mitm-2,МИТМ,Стратегический менеджмент,7500,мес,225000,,https://kurs-radar.pro/strategicheskij-menedzhment-mitm-2.html
+2026-11-23,strategicheskoe-upravlenie-i-innovacionnye-tehnologii-v-industrii-gostepriimstva-mitm,МИТМ,Стратегическое управление и инновационные технологии в индустрии гостеприимства,7500,мес,225000,,https://kurs-radar.pro/strategicheskoe-upravlenie-i-innovacionnye-tehnologii-v-industrii-gostepriimstva-mitm.html
+2026-11-23,strategicheskoe-upravlenie-organizaciej-mitm,МИТМ,Стратегическое управление организацией,7500,мес,225000,,https://kurs-radar.pro/strategicheskoe-upravlenie-organizaciej-mitm.html
+2026-11-23,upravlenie-biznesom-mitm,МИТМ,Управление бизнесом,7500,мес,217500,,https://kurs-radar.pro/upravlenie-biznesom-mitm.html
+2026-11-23,upravlenie-igrovymi-komandami-mitm,МИТМ,Управление игровыми командами,7500,мес,225000,,https://kurs-radar.pro/upravlenie-igrovymi-komandami-mitm.html
+2026-11-23,upravlenie-informacionnymi-tehnologiyami-v-organizacii-mitm,МИТМ,Управление информационными технологиями в организации,7500,мес,225000,,https://kurs-radar.pro/upravlenie-informacionnymi-tehnologiyami-v-organizacii-mitm.html
+2026-11-23,upravlenie-personalom-organizacii-mitm,МИТМ,Управление персоналом организации,8330,мес,241667,,https://kurs-radar.pro/upravlenie-personalom-organizacii-mitm.html
+2026-11-23,upravlenie-sportivnoj-organizaciej-mitm,МИТМ,Управление спортивной организацией,7500,мес,225000,,https://kurs-radar.pro/upravlenie-sportivnoj-organizaciej-mitm.html
+2026-11-23,mezhyazykovye-i-mezhkulturnye-kommunikacii-mitm,МИТМ,Межъязыковые и межкультурные коммуникации,7500,мес,225000,,https://kurs-radar.pro/mezhyazykovye-i-mezhkulturnye-kommunikacii-mitm.html
+2026-11-23,cifrovoj-biznes-mitm,МИТМ,Цифровой бизнес,7500,мес,225000,,https://kurs-radar.pro/cifrovoj-biznes-mitm.html
+2026-11-23,cifrovye-tehnologii-v-biznese-mitm,МИТМ,Цифровые технологии в бизнесе,6250,мес,187500,,https://kurs-radar.pro/cifrovye-tehnologii-v-biznese-mitm.html
+2026-11-23,intellektualnye-vstraivaemye-sistemy-mitm,МИТМ,Интеллектуальные встраиваемые системы,7500,мес,180000,,https://kurs-radar.pro/intellektualnye-vstraivaemye-sistemy-mitm.html
+2026-11-23,upravlenie-cifrovymi-proektami-produktami-i-innovaciyami-mitm,МИТМ,"Управление цифровыми проектами, продуктами и инновациями",7500,мес,225000,,https://kurs-radar.pro/upravlenie-cifrovymi-proektami-produktami-i-innovaciyami-mitm.html
+2026-11-23,kouching-i-psihologicheskoe-konsultirovanie-mitm,МИТМ,Коучинг и психологическое консультирование,7500,мес,217500,,https://kurs-radar.pro/kouching-i-psihologicheskoe-konsultirovanie-mitm.html
+2026-11-23,organizacionnaya-psihologiya-mitm,МИТМ,Организационная психология,7500,мес,225000,,https://kurs-radar.pro/organizacionnaya-psihologiya-mitm.html
+2026-11-23,psihologiya-i-pedagogika-dopolnitelnogo-obrazovaniya-detej-mitm,МИТМ,Психология и педагогика дополнительного образования детей,7500,мес,225000,,https://kurs-radar.pro/psihologiya-i-pedagogika-dopolnitelnogo-obrazovaniya-detej-mitm.html
+2026-11-23,psihologiya-obrazovaniya-mitm,МИТМ,Психология образования,7500,мес,225000,,https://kurs-radar.pro/psihologiya-obrazovaniya-mitm.html
+2026-11-23,informacionnoe-modelirovanie-v-stroitelstve-mitm,МИТМ,Информационное моделирование в строительстве,7500,мес,180000,,https://kurs-radar.pro/informacionnoe-modelirovanie-v-stroitelstve-mitm.html
+2026-11-23,proizvodstvo-i-primenenie-stroitelnyh-materialov-izdelij-i-konstrukcij-mitm,МИТМ,"Производство и применение строительных материалов, изделий и конструкций",7500,мес,217500,,https://kurs-radar.pro/proizvodstvo-i-primenenie-stroitelnyh-materialov-izdelij-i-konstrukcij-mitm.html
+2026-11-23,promyshlennoe-i-grazhdanskoe-stroitelstvo-tehnologiya-i-organizaciya-mitm,МИТМ,Промышленное и гражданское строительство: технология и организация,7500,мес,217500,,https://kurs-radar.pro/promyshlennoe-i-grazhdanskoe-stroitelstvo-tehnologiya-i-organizaciya-mitm.html
+2026-11-23,grazhdanskoe-pravo-mitm-2,МИТМ,Гражданское право,7500,мес,225000,,https://kurs-radar.pro/grazhdanskoe-pravo-mitm-2.html
+2026-11-23,magistr-ugolovnogo-grazhdanskogo-i-administrativnogo-sudoproizvodstva-mitm,МИТМ,"Магистр уголовного, гражданского и административного судопроизводства",7500,мес,225000,,https://kurs-radar.pro/magistr-ugolovnogo-grazhdanskogo-i-administrativnogo-sudoproizvodstva-mitm.html
+2026-11-23,ugolovnoe-pravo-mitm-2,МИТМ,Уголовное право,7500,мес,225000,,https://kurs-radar.pro/ugolovnoe-pravo-mitm-2.html
+2026-11-23,yurist-v-korporacii-mitm,МИТМ,Юрист в корпорации,7500,мес,225000,,https://kurs-radar.pro/yurist-v-korporacii-mitm.html
+2026-11-23,upravlenie-finansami-mitm,МИТМ,Управление финансами,11920,мес,286000,,https://kurs-radar.pro/upravlenie-finansami-mitm.html
+2026-11-23,rukovoditel-otdela-prodazh-mitm,МИТМ,Руководитель отдела продаж,11920,мес,286000,,https://kurs-radar.pro/rukovoditel-otdela-prodazh-mitm.html
+2026-11-23,upravlenie-marketingom-i-prodazhami-mitm,МИТМ,Управление маркетингом и продажами,11920,мес,286000,,https://kurs-radar.pro/upravlenie-marketingom-i-prodazhami-mitm.html
+2026-11-23,antikrizisnoe-upravlenie-mitm,МИТМ,Антикризисное управление,11920,мес,286000,,https://kurs-radar.pro/antikrizisnoe-upravlenie-mitm.html
+2026-11-23,biznes-analitika-mitm,МИТМ,Бизнес-аналитика,11920,мес,286000,,https://kurs-radar.pro/biznes-analitika-mitm.html
+2026-11-23,menedzhment-organizacii-v-zdravoohranenii-mitm,МИТМ,Менеджмент организации в здравоохранении,11920,мес,286000,,https://kurs-radar.pro/menedzhment-organizacii-v-zdravoohranenii-mitm.html
+2026-11-23,menedzhment-v-restorannom-biznese-mitm,МИТМ,Менеджмент в ресторанном бизнесе,11920,мес,286000,,https://kurs-radar.pro/menedzhment-v-restorannom-biznese-mitm.html
+2026-11-23,prodakt-menedzhment-mitm,МИТМ,Продакт-Менеджмент,11920,мес,286000,,https://kurs-radar.pro/prodakt-menedzhment-mitm.html
+2026-11-23,menedzhment-v-gostinichnom-biznese-mitm,МИТМ,Менеджмент в гостиничном бизнесе,11920,мес,286000,,https://kurs-radar.pro/menedzhment-v-gostinichnom-biznese-mitm.html
+2026-11-23,menedzhment-it-proektov-mitm,МИТМ,Менеджмент ИТ-проектов,11920,мес,286000,,https://kurs-radar.pro/menedzhment-it-proektov-mitm.html
+2026-11-23,dizajner-interera-mitm,МИТМ,Дизайнер интерьера,5500,мес,66000,23833,https://kurs-radar.pro/dizajner-interera-mitm.html
+2026-11-23,graficheskij-dizajner-mitm,МИТМ,Графический дизайнер,8000,мес,96000,23833,https://kurs-radar.pro/graficheskij-dizajner-mitm.html
+2026-11-23,landshaftnyj-dizajn-i-sadovo-parkovoe-stroitelstvo-mitm,МИТМ,Ландшафтный дизайн и садово-парковое строительство,6800,мес,81600,23833,https://kurs-radar.pro/landshaftnyj-dizajn-i-sadovo-parkovoe-stroitelstvo-mitm.html
+2026-11-23,internet-marketolog-mitm,МИТМ,Интернет-маркетолог,6300,мес,75600,23833,https://kurs-radar.pro/internet-marketolog-mitm.html
+2026-11-23,biznes-analitik-mitm,МИТМ,Бизнес-аналитик,8500,мес,102000,23833,https://kurs-radar.pro/biznes-analitik-mitm.html
+2026-11-23,finansovyj-direktor-mitm,МИТМ,Финансовый директор,5330,мес,191880,7944,https://kurs-radar.pro/finansovyj-direktor-mitm.html
+2026-11-23,menedzher-po-personalu-s-nulya-mitm,МИТМ,Менеджер по персоналу (с нуля),6500,мес,78000,23833,https://kurs-radar.pro/menedzher-po-personalu-s-nulya-mitm.html
+2026-11-23,menedzher-it-proektov-mitm,МИТМ,Менеджер ИТ-проектов,4300,мес,51600,23833,https://kurs-radar.pro/menedzher-it-proektov-mitm.html
+2026-11-23,prodakt-menedzher-mitm,МИТМ,Продакт-менеджер,6000,мес,72000,23833,https://kurs-radar.pro/prodakt-menedzher-mitm.html
+2026-11-23,upravlenie-personalom-mitm-3,МИТМ,Управление персоналом,4800,мес,57600,23833,https://kurs-radar.pro/upravlenie-personalom-mitm-3.html
+2026-11-23,upravlenie-proektami-mitm-2,МИТМ,Управление проектами,7500,мес,90000,23833,https://kurs-radar.pro/upravlenie-proektami-mitm-2.html
+2026-11-23,informacionnaya-bezopasnost-bazovyj-uroven-mitm,МИТМ,Информационная безопасность: базовый уровень,7500,мес,90000,23833,https://kurs-radar.pro/informacionnaya-bezopasnost-bazovyj-uroven-mitm.html
+2026-11-23,kadrovyj-analitik-hr-analitik-mitm,МИТМ,Кадровый аналитик (HR-аналитик),4920,мес,59000,23833,https://kurs-radar.pro/kadrovyj-analitik-hr-analitik-mitm.html
+2026-11-23,razrabotchik-kompyuternyh-igr-i-ispolzovanie-multimedijnyh-prilozhenij-mitm,МИТМ,Разработчик компьютерных игр и использование мультимедийных приложений,7500,мес,90000,23833,https://kurs-radar.pro/razrabotchik-kompyuternyh-igr-i-ispolzovanie-multimedijnyh-prilozhenij-mitm.html
+2026-11-23,rabota-s-tablicami-excel-bazovyj-mitm,МИТМ,Работа с таблицами Excel: Базовый,1920,мес,23000,23833,https://kurs-radar.pro/rabota-s-tablicami-excel-bazovyj-mitm.html
+2026-11-23,rabota-s-tablicami-excel-rasshirennyj-mitm,МИТМ,Работа с таблицами Excel: Расширенный,2670,мес,32000,23833,https://kurs-radar.pro/rabota-s-tablicami-excel-rasshirennyj-mitm.html
+2026-11-23,detskij-psiholog-mitm,МИТМ,Детский психолог,6250,мес,75000,23833,https://kurs-radar.pro/detskij-psiholog-mitm.html
+2026-11-23,klinicheskij-psiholog-mitm,МИТМ,Клинический психолог,7500,мес,90000,23833,https://kurs-radar.pro/klinicheskij-psiholog-mitm.html
+2026-11-23,klinicheskij-nutriciolog-mitm,МИТМ,Клинический нутрициолог,11670,мес,140000,23833,https://kurs-radar.pro/klinicheskij-nutriciolog-mitm.html
+2026-11-23,konfliktologiya-mitm,МИТМ,Конфликтология,3600,мес,43200,23833,https://kurs-radar.pro/konfliktologiya-mitm.html
+2026-11-23,korrekcionnaya-psihologiya-s-osnovami-logopedii-mitm-2,МИТМ,Коррекционная психология с основами логопедии,7500,мес,90000,23833,https://kurs-radar.pro/korrekcionnaya-psihologiya-s-osnovami-logopedii-mitm-2.html
+2026-11-23,krizisnyj-psiholog-mitm,МИТМ,Кризисный психолог,4000,мес,48000,23833,https://kurs-radar.pro/krizisnyj-psiholog-mitm.html
+2026-11-23,nejropsihologiya-mitm,МИТМ,Нейропсихология,6000,мес,72000,23833,https://kurs-radar.pro/nejropsihologiya-mitm.html
+2026-11-23,nutriciolog-mitm,МИТМ,Нутрициолог,6670,мес,80000,23833,https://kurs-radar.pro/nutriciolog-mitm.html
+2026-11-23,pedagog-psiholog-v-obrazovatelnoj-srede-mitm,МИТМ,Педагог-психолог в образовательной среде,4170,мес,50000,23833,https://kurs-radar.pro/pedagog-psiholog-v-obrazovatelnoj-srede-mitm.html
+2026-11-23,psiholog-nutriciolog-mitm,МИТМ,Психолог-нутрициолог,7500,мес,90000,23833,https://kurs-radar.pro/psiholog-nutriciolog-mitm.html
+2026-11-23,psihologiya-upravleniya-mitm-2,МИТМ,Психология управления,3330,мес,39960,23833,https://kurs-radar.pro/psihologiya-upravleniya-mitm-2.html
+2026-11-23,seksolog-konsultant-mitm,МИТМ,Сексолог-консультант,7080,мес,84960,23833,https://kurs-radar.pro/seksolog-konsultant-mitm.html
+2026-11-23,semejnyj-psiholog-mitm,МИТМ,Семейный психолог,7080,мес,84960,23833,https://kurs-radar.pro/semejnyj-psiholog-mitm.html
+2026-11-23,socialnyj-psiholog-mitm,МИТМ,Социальный психолог,4000,мес,48000,23833,https://kurs-radar.pro/socialnyj-psiholog-mitm.html
+2026-11-23,sportivnaya-psihologiya-mitm,МИТМ,Спортивная психология,2000,мес,24000,23833,https://kurs-radar.pro/sportivnaya-psihologiya-mitm.html
+2026-11-23,sportivnyj-nutriciolog-mitm,МИТМ,Спортивный нутрициолог,6670,мес,80000,23833,https://kurs-radar.pro/sportivnyj-nutriciolog-mitm.html
+2026-11-23,suggestivnaya-psihologiya-gipnoz-v-psihologicheskom-konsultirovanii-mitm,МИТМ,Суггестивная психология. Гипноз в психологическом консультировании,4400,мес,52800,23833,https://kurs-radar.pro/suggestivnaya-psihologiya-gipnoz-v-psihologicheskom-konsultirovanii-mitm.html
+2026-11-23,zoopsiholog-mitm,МИТМ,Зоопсихолог,2700,мес,32400,23833,https://kurs-radar.pro/zoopsiholog-mitm.html
+2026-11-23,art-terapiya-mitm,МИТМ,АРТ-терапия,9170,мес,110000,23833,https://kurs-radar.pro/art-terapiya-mitm.html
+2026-11-23,art-terapiya-v-praktike-psihologa-mitm,МИТМ,Арт-терапия в практике психолога,2920,мес,35000,23833,https://kurs-radar.pro/art-terapiya-v-praktike-psihologa-mitm.html
+2026-11-23,geshtalt-podhod-v-praktike-psihologa-mitm,МИТМ,Гештальт-подход в практике психолога,2920,мес,35000,23833,https://kurs-radar.pro/geshtalt-podhod-v-praktike-psihologa-mitm.html
+2026-11-23,geshtalt-terapevt-mitm,МИТМ,Гештальт-терапевт,9170,мес,110000,23833,https://kurs-radar.pro/geshtalt-terapevt-mitm.html
+2026-11-23,kognitivno-povedencheskaya-psihoterapiya-kpt-mitm,МИТМ,Когнитивно-поведенческая психотерапия (КПТ),9170,мес,110000,23833,https://kurs-radar.pro/kognitivno-povedencheskaya-psihoterapiya-kpt-mitm.html
+2026-11-23,kognitivno-povedencheskij-podhod-v-praktike-psihologa-mitm,МИТМ,Когнитивно-поведенческий подход в практике психолога,2920,мес,35000,23833,https://kurs-radar.pro/kognitivno-povedencheskij-podhod-v-praktike-psihologa-mitm.html
+2026-11-23,kpt-v-rabote-s-narusheniyami-pischevogo-povedeniya-mitm,МИТМ,КПТ в работе с нарушениями пищевого поведения,910,мес,10900,23833,https://kurs-radar.pro/kpt-v-rabote-s-narusheniyami-pischevogo-povedeniya-mitm.html
+2026-11-23,metod-psihoanaliza-v-rabote-psihologa-mitm,МИТМ,Метод психоанализа в работе психолога,1750,мес,21000,23833,https://kurs-radar.pro/metod-psihoanaliza-v-rabote-psihologa-mitm.html
+2026-11-23,psiholog-konsultant-mitm,МИТМ,Психолог-консультант,9170,мес,110000,23833,https://kurs-radar.pro/psiholog-konsultant-mitm.html
+2026-11-23,telesno-orientirovannaya-terapiya-mitm,МИТМ,Телесно-ориентированная терапия,9170,мес,110000,23833,https://kurs-radar.pro/telesno-orientirovannaya-terapiya-mitm.html
+2026-11-23,telesno-orientirovannyj-podhod-v-praktike-psihologa-mitm,МИТМ,Телесно-ориентированный подход в практике психолога,2920,мес,35000,23833,https://kurs-radar.pro/telesno-orientirovannyj-podhod-v-praktike-psihologa-mitm.html
+2026-11-23,tranzaktnyj-analiz-v-psihologicheskom-konsultirovanii-mitm,МИТМ,Транзактный анализ в психологическом консультировании,1650,мес,19750,23833,https://kurs-radar.pro/tranzaktnyj-analiz-v-psihologicheskom-konsultirovanii-mitm.html
+2026-11-23,1s-buhgalteriya-8-redakciya-3-0-skillbox,Skillbox,"«1С:Бухгалтерия 8, редакция 3.0»",3729,мес,27972,9323,https://kurs-radar.pro/1s-buhgalteriya-8-redakciya-3-0-skillbox.html
+2026-11-23,1s-zarplata-i-upravlenie-personalom-8-skillbox,Skillbox,1С: Зарплата и управление персоналом 8,4165,мес,24990,8330,https://kurs-radar.pro/1s-zarplata-i-upravlenie-personalom-8-skillbox.html
+2026-11-23,kurs-1s-programmist-skillbox,Skillbox,Курс 1С-программист,4035,мес,78696,8070,https://kurs-radar.pro/kurs-1s-programmist-skillbox.html
+2026-11-23,3d-animator-s-nulya-do-pro-skillbox,Skillbox,3D-аниматор с нуля до PRO,1564,мес,37536,3128,https://kurs-radar.pro/3d-animator-s-nulya-do-pro-skillbox.html
+2026-11-23,3d-hudozhnik-po-personazham-skillbox,Skillbox,3D-художник по персонажам,6255,мес,37530,12510,https://kurs-radar.pro/3d-hudozhnik-po-personazham-skillbox.html
+2026-11-23,3d-hudozhnik-po-okruzheniyu-skillbox,Skillbox,3D-художник по окружению,3649,мес,43788,7298,https://kurs-radar.pro/3d-hudozhnik-po-okruzheniyu-skillbox.html
+2026-11-23,3d-dzheneralist-ii-skillbox,Skillbox,3D-дженералист + ИИ,6772,мес,209932,16930,https://kurs-radar.pro/3d-dzheneralist-ii-skillbox.html
+2026-11-23,3d-modelirovanie-dlya-nachinayuschih-skillbox,Skillbox,3D-моделирование для начинающих,7716,мес,92592,15432,https://kurs-radar.pro/3d-modelirovanie-dlya-nachinayuschih-skillbox.html
+2026-11-23,tehnologii-3d-pechati-skillbox,Skillbox,Технологии 3D-печати,6250,мес,75000,12500,https://kurs-radar.pro/tehnologii-3d-pechati-skillbox.html
+2026-11-23,3d-vizualizator-portfolio-i-karera-skillbox,Skillbox,3D-визуализатор: портфолио и карьера,1733,мес,41592,2889,https://kurs-radar.pro/3d-vizualizator-portfolio-i-karera-skillbox.html
+2026-11-23,instrumenty-buhgaltera-1s-buhgalteriya-1s-zup-skillbox,Skillbox,"Инструменты бухгалтера. 1С: Бухгалтерия, 1С: ЗУП",3729,мес,50904,9323,https://kurs-radar.pro/instrumenty-buhgaltera-1s-buhgalteriya-1s-zup-skillbox.html
+2026-11-23,nejroseti-dlya-infografiki-na-marketplejsah-skillbox,Skillbox,Нейросети для инфографики на маркетплейсах,13238,мес,39714,29418,https://kurs-radar.pro/nejroseti-dlya-infografiki-na-marketplejsah-skillbox.html
+2026-11-23,avtomatizirovannoe-testirovanie-na-java-skillbox,Skillbox,Автоматизированное тестирование на Java,3533,мес,42396,7066,https://kurs-radar.pro/avtomatizirovannoe-testirovanie-na-java-skillbox.html
+2026-11-23,osnovy-vizualizacii-intererov-v-3ds-max-skillbox,Skillbox,Основы визуализации интерьеров в 3ds Max,6716,мес,40296,11194,https://kurs-radar.pro/osnovy-vizualizacii-intererov-v-3ds-max-skillbox.html
+2026-11-23,buhgalteriya-dlya-marketplejsov-skillbox,Skillbox,Бухгалтерия для маркетплейсов,4667,мес,28002,9334,https://kurs-radar.pro/buhgalteriya-dlya-marketplejsov-skillbox.html
+2026-11-23,sozdanie-3d-personazha-skillbox,Skillbox,Создание 3D-персонажа,3096,мес,18576,6192,https://kurs-radar.pro/sozdanie-3d-personazha-skillbox.html
+2026-11-23,clo-3d-dlya-fashion-dizajnerov-skillbox,Skillbox,Clo 3D для fashion-дизайнеров,5310,мес,63720,10620,https://kurs-radar.pro/clo-3d-dlya-fashion-dizajnerov-skillbox.html
+2026-11-23,analitik-dannyh-s-nulya-skillbox,Skillbox,Аналитик данных с нуля,3950,мес,122450,13167,https://kurs-radar.pro/analitik-dannyh-s-nulya-skillbox.html
+2026-11-23,dekorirovanie-v-dizajne-interera-skillbox,Skillbox,Декорирование в дизайне интерьера,4218,мес,50616,8436,https://kurs-radar.pro/dekorirovanie-v-dizajne-interera-skillbox.html
+2026-11-23,python-frejmvork-django-skillbox,Skillbox,Python-фреймворк Django,4628,мес,58398,9256,https://kurs-radar.pro/python-frejmvork-django-skillbox.html
+2026-11-23,excel-google-tablicy-s-nulya-do-pro-ii-skillbox,Skillbox,Excel + «Google Таблицы» с нуля до PRO + ИИ,1992,мес,23904,3985,https://kurs-radar.pro/excel-google-tablicy-s-nulya-do-pro-ii-skillbox.html
+2026-11-23,excel-makrosy-skillbox,Skillbox,Excel: макросы,5665,мес,16995,11330,https://kurs-radar.pro/excel-makrosy-skillbox.html
+2026-11-23,finansovyj-analitik-skillbox,Skillbox,Финансовый аналитик (8 месяцев),3877,мес,115104,8616,https://kurs-radar.pro/finansovyj-analitik-skillbox.html
+2026-11-23,finansovyj-direktor-skillbox,Skillbox,Финансовый директор,5719,мес,177289,11438,https://kurs-radar.pro/finansovyj-direktor-skillbox.html
+2026-11-23,finansovoe-modelirovanie-skillbox,Skillbox,Финансовое моделирование,3877,мес,57132,8616,https://kurs-radar.pro/finansovoe-modelirovanie-skillbox.html
+2026-11-23,frontend-razrabotchik-ii-skillbox,Skillbox,Фронтенд-разработчик + ИИ,4893,мес,166362,9786,https://kurs-radar.pro/frontend-razrabotchik-ii-skillbox.html
+2026-11-23,osnovy-proektirovaniya-i-3d-modelirovaniya-skillbox,Skillbox,Основы проектирования и 3D-моделирования,7604,мес,91248,15209,https://kurs-radar.pro/osnovy-proektirovaniya-i-3d-modelirovaniya-skillbox.html
+2026-11-23,soobschestvo-razrabotchikov-igr-sozdavajte-igry-vmeste-skillbox,Skillbox,Сообщество разработчиков игр: создавайте игры вместе,3896,мес,120776,7792,https://kurs-radar.pro/soobschestvo-razrabotchikov-igr-sozdavajte-igry-vmeste-skillbox.html
+2026-11-23,prodyuser-igr-skillbox,Skillbox,Продюсер игр (3 месяца),3649,мес,43788,7298,https://kurs-radar.pro/prodyuser-igr-skillbox.html
+2026-11-23,graficheskij-dizajner-s-nulya-skillbox,Skillbox,Графический дизайнер с нуля,4475,мес,107400,11188,https://kurs-radar.pro/graficheskij-dizajner-s-nulya-skillbox.html
+2026-11-23,hr-analitika-s-nulya-skillbox,Skillbox,HR-аналитика с нуля,2550,мес,61200,5100,https://kurs-radar.pro/hr-analitika-s-nulya-skillbox.html
+2026-11-23,hr-menedzher-kurs-i-trenazher-skillbox,Skillbox,HR-менеджер: курс и тренажёр,2881,мес,69144,5762,https://kurs-radar.pro/hr-menedzher-kurs-i-trenazher-skillbox.html
+2026-11-23,infografika-i-nejroseti-dlya-marketplejsov-skillbox,Skillbox,Инфографика и нейросети для маркетплейсов,2583,мес,56826,5166,https://kurs-radar.pro/infografika-i-nejroseti-dlya-marketplejsov-skillbox.html
+2026-11-23,istoriya-dizajna-intererov-skillbox,Skillbox,История дизайна интерьеров,3532,мес,42384,7064,https://kurs-radar.pro/istoriya-dizajna-intererov-skillbox.html
+2026-11-23,dizajner-interera-bystryj-start-skillbox,Skillbox,Дизайнер интерьера: быстрый старт,4459,мес,160524,7432,https://kurs-radar.pro/dizajner-interera-bystryj-start-skillbox.html
+2026-11-23,sketching-dlya-dizajnerov-interera-skillbox,Skillbox,Скетчинг для дизайнеров интерьера,5455,мес,32730,10910,https://kurs-radar.pro/sketching-dlya-dizajnerov-interera-skillbox.html
+2026-11-23,mezhdunarodnoe-seo-skillbox,Skillbox,Международное SEO,5892,мес,70704,11784,https://kurs-radar.pro/mezhdunarodnoe-seo-skillbox.html
+2026-11-23,internet-marketolog-s-nulya-skillbox,Skillbox,Интернет-маркетолог с нуля,2708,мес,64992,5416,https://kurs-radar.pro/internet-marketolog-s-nulya-skillbox.html
+2026-11-23,upravlenie-proektami-skillbox,Skillbox,Управление проектами,3985,мес,95640,7970,https://kurs-radar.pro/upravlenie-proektami-skillbox.html
+2026-11-23,java-spring-framework-skillbox,Skillbox,Java Spring Framework,3971,мес,47652,7942,https://kurs-radar.pro/java-spring-framework-skillbox.html
+2026-11-23,kurs-java-razrabotchik-skillbox,Skillbox,Курс Java-разработчик,3889,мес,93336,7778,https://kurs-radar.pro/kurs-java-razrabotchik-skillbox.html
+2026-11-23,kurs-javascript-skillbox,Skillbox,Курс «JavaScript»,4439,мес,63876,8878,https://kurs-radar.pro/kurs-javascript-skillbox.html
+2026-11-23,landshaftnyj-dizajn-s-nulya-skillbox,Skillbox,Ландшафтный дизайн с нуля,3601,мес,86424,7202,https://kurs-radar.pro/landshaftnyj-dizajn-s-nulya-skillbox.html
+2026-11-23,landshaftnyj-dizajner-bazovyj-kurs-skillbox,Skillbox,Ландшафтный дизайнер. Базовый курс,4335,мес,104040,7225,https://kurs-radar.pro/landshaftnyj-dizajner-bazovyj-kurs-skillbox.html
+2026-11-23,landshaftnyj-sketching-skillbox,Skillbox,Ландшафтный скетчинг,4902,мес,32730,9804,https://kurs-radar.pro/landshaftnyj-sketching-skillbox.html
+2026-11-23,ruchnoe-testirovanie-manual-qa-skillbox,Skillbox,Ручное тестирование (Manual QA),4355,мес,98040,8710,https://kurs-radar.pro/ruchnoe-testirovanie-manual-qa-skillbox.html
+2026-11-23,bystryj-start-na-marketplejsah-skillbox,Skillbox,Быстрый старт на маркетплейсах,2555,мес,37080,6388,https://kurs-radar.pro/bystryj-start-na-marketplejsah-skillbox.html
+2026-11-23,matematika-dlya-data-science-skillbox,Skillbox,Математика для Data Science,3650,мес,43800,7300,https://kurs-radar.pro/matematika-dlya-data-science-skillbox.html
+2026-11-23,menedzher-proektov-v-it-ii-skillbox,Skillbox,Менеджер проектов в IT + ИИ,3416,мес,105896,6832,https://kurs-radar.pro/menedzher-proektov-v-it-ii-skillbox.html
+2026-11-23,motion-dizajn-osnova-ii-skillbox,Skillbox,Motion-дизайн. Основа + ИИ,3149,мес,69278,6298,https://kurs-radar.pro/motion-dizajn-osnova-ii-skillbox.html
+2026-11-23,ms-office-i-instrumenty-google-skillbox,Skillbox,MS Office и инструменты Google,4463,мес,53556,9918,https://kurs-radar.pro/ms-office-i-instrumenty-google-skillbox.html
+2026-11-23,nejroseti-dlya-buhgalterov-i-finansistov-skillbox,Skillbox,Нейросети для бухгалтеров и финансистов,5215,мес,31290,13038,https://kurs-radar.pro/nejroseti-dlya-buhgalterov-i-finansistov-skillbox.html
+2026-11-23,data-analyst-s-nulya-do-junior-skillbox,Skillbox,Data Analyst с нуля до Junior,5616,мес,123552,11232,https://kurs-radar.pro/data-analyst-s-nulya-do-junior-skillbox.html
+2026-11-23,data-scientist-s-nulya-do-junior-skillbox,Skillbox,Data Scientist с нуля до Junior,4593,мес,110232,9186,https://kurs-radar.pro/data-scientist-s-nulya-do-junior-skillbox.html
+2026-11-23,machine-learning-s-nulya-do-junior-skillbox,Skillbox,Machine Learning с нуля до Junior,5616,мес,123552,11232,https://kurs-radar.pro/machine-learning-s-nulya-do-junior-skillbox.html
+2026-11-23,lichnye-finansy-investicii-i-trejding-skillbox,Skillbox,Личные финансы: инвестиции и трейдинг,2910,мес,104760,5820,https://kurs-radar.pro/lichnye-finansy-investicii-i-trejding-skillbox.html
+2026-11-23,personalnyj-stilist-skillbox,Skillbox,Персональный стилист,5459,мес,65508,10918,https://kurs-radar.pro/personalnyj-stilist-skillbox.html
+2026-11-23,photoshop-dlya-arhitektorov-i-dizajnerov-interera-skillbox,Skillbox,Photoshop для архитекторов и дизайнеров интерьера,6003,мес,36018,12006,https://kurs-radar.pro/photoshop-dlya-arhitektorov-i-dizajnerov-interera-skillbox.html
+2026-11-23,prodakt-menedzhment-skillbox,Skillbox,Продакт-менеджмент,3775,мес,90600,7550,https://kurs-radar.pro/prodakt-menedzhment-skillbox.html
+2026-11-23,prodakt-menedzhment-trenazher-dlya-middle-urovnya-skillbox,Skillbox,Продакт-менеджмент: тренажёр для middle-уровня,4187,мес,92114,8374,https://kurs-radar.pro/prodakt-menedzhment-trenazher-dlya-middle-urovnya-skillbox.html
+2026-11-23,prodakt-menedzher-skillbox,Skillbox,Продакт-менеджер,4911,мес,152241,9822,https://kurs-radar.pro/prodakt-menedzher-skillbox.html
+2026-11-23,1s-programmist-skillbox,Skillbox,1С-программист,4035,мес,145260,8070,https://kurs-radar.pro/1s-programmist-skillbox.html
+2026-11-23,3d-animator-skillbox,Skillbox,3D-аниматор,5785,мес,179335,11570,https://kurs-radar.pro/3d-animator-skillbox.html
+2026-11-23,3d-hudozhnik-okruzheniya-s-nulya-do-pro-skillbox,Skillbox,3D-художник окружения с нуля до PRO,7226,мес,170368,18065,https://kurs-radar.pro/3d-hudozhnik-okruzheniya-s-nulya-do-pro-skillbox.html
+2026-11-23,3d-vizualizator-skillbox,Skillbox,3D-визуализатор,6631,мес,165198,13262,https://kurs-radar.pro/3d-vizualizator-skillbox.html
+2026-11-23,glavnyj-buhgalter-skillbox,Skillbox,Главный бухгалтер,5178,мес,113916,10356,https://kurs-radar.pro/glavnyj-buhgalter-skillbox.html
+2026-11-23,nalogi-i-nalogooblozhenie-skillbox,Skillbox,Налоги и налогообложение,3310,мес,19860,6620,https://kurs-radar.pro/nalogi-i-nalogooblozhenie-skillbox.html
+2026-11-23,buhgalter-ii-skillbox,Skillbox,Бухгалтер + ИИ,2977,мес,83356,5954,https://kurs-radar.pro/buhgalter-ii-skillbox.html
+2026-11-23,biznes-analitik-ii-skillbox,Skillbox,Бизнес-аналитик + ИИ,3409,мес,105679,8523,https://kurs-radar.pro/biznes-analitik-ii-skillbox.html
+2026-11-23,personazhi-3d-s-nulya-do-pro-skillbox,Skillbox,Персонажи 3D с нуля до PRO,4732,мес,170352,9464,https://kurs-radar.pro/personazhi-3d-s-nulya-do-pro-skillbox.html
+2026-11-23,kontent-menedzher-v-smm-ii-skillbox,Skillbox,Контент-менеджер в SMM + ИИ,3908,мес,121148,9770,https://kurs-radar.pro/kontent-menedzher-v-smm-ii-skillbox.html
+2026-11-23,kontent-marketolog-pro-skillbox,Skillbox,Контент-маркетолог PRO,4170,мес,91740,8340,https://kurs-radar.pro/kontent-marketolog-pro-skillbox.html
+2026-11-23,specialist-po-kiberbezopasnosti-ii-skillbox,Skillbox,Специалист по кибербезопасности + ИИ,5759,мес,178529,11518,https://kurs-radar.pro/specialist-po-kiberbezopasnosti-ii-skillbox.html
+2026-11-23,data-analitik-ii-skillbox,Skillbox,Data-аналитик + ИИ,5613,мес,174003,11226,https://kurs-radar.pro/data-analitik-ii-skillbox.html
+2026-11-23,dekorator-interera-skillbox,Skillbox,Декоратор интерьера,7087,мес,170088,11812,https://kurs-radar.pro/dekorator-interera-skillbox.html
+2026-11-23,dizajner-intererov-i-landshaftnoj-sredy-skillbox,Skillbox,Дизайнер интерьеров и ландшафтной среды,8811,мес,273141,14685,https://kurs-radar.pro/dizajner-intererov-i-landshaftnoj-sredy-skillbox.html
+2026-11-23,dizajner-zhilyh-i-kommercheskih-intererov-skillbox,Skillbox,Дизайнер жилых и коммерческих интерьеров,7804,мес,241924,15609,https://kurs-radar.pro/dizajner-zhilyh-i-kommercheskih-intererov-skillbox.html
+2026-11-23,devops-inzhener-pro-skillbox,Skillbox,DevOps-инженер PRO,4378,мес,105072,8756,https://kurs-radar.pro/devops-inzhener-pro-skillbox.html
+2026-11-23,devops-inzhener-s-nulya-ii-skillbox,Skillbox,DevOps-инженер с нуля + ИИ,3335,мес,120060,6670,https://kurs-radar.pro/devops-inzhener-s-nulya-ii-skillbox.html
+2026-11-23,etichnyj-haker-skillbox,Skillbox,Этичный хакер,5759,мес,178529,11518,https://kurs-radar.pro/etichnyj-haker-skillbox.html
+2026-11-23,finansovyj-menedzher-skillbox,Skillbox,Финансовый менеджер,2871,мес,89001,5742,https://kurs-radar.pro/finansovyj-menedzher-skillbox.html
+2026-11-23,finansovyj-analitik-skillbox-2,Skillbox,Финансовый аналитик (3 месяца),3353,мес,80472,6706,https://kurs-radar.pro/finansovyj-analitik-skillbox-2.html
+2026-11-23,razrabotchik-igr-ii-skillbox,Skillbox,Разработчик игр + ИИ,3896,мес,120776,7792,https://kurs-radar.pro/razrabotchik-igr-ii-skillbox.html
+2026-11-23,prodyuser-igr-skillbox-2,Skillbox,Продюсер игр (6 месяцев),5646,мес,135504,11292,https://kurs-radar.pro/prodyuser-igr-skillbox-2.html
+2026-11-23,graficheskij-dizajner-pro-ii-skillbox,Skillbox,Графический дизайнер PRO + ИИ,5435,мес,168485,10870,https://kurs-radar.pro/graficheskij-dizajner-pro-ii-skillbox.html
+2026-11-23,hr-biznes-partner-ii-skillbox,Skillbox,HR Бизнес-партнёр + ИИ,4172,мес,100128,8344,https://kurs-radar.pro/hr-biznes-partner-ii-skillbox.html
+2026-11-23,menedzher-po-rabote-s-personalom-ii-skillbox,Skillbox,Менеджер по работе с персоналом + ИИ,3469,мес,107539,6938,https://kurs-radar.pro/menedzher-po-rabote-s-personalom-ii-skillbox.html
+2026-11-23,dizajner-intererov-skillbox,Skillbox,Дизайнер интерьеров,6694,мес,207514,13388,https://kurs-radar.pro/dizajner-intererov-skillbox.html
+2026-11-23,investicionnyj-analitik-skillbox,Skillbox,Инвестиционный аналитик,3877,мес,116784,8616,https://kurs-radar.pro/investicionnyj-analitik-skillbox.html
+2026-11-23,java-razrabotchik-ii-skillbox,Skillbox,Java-разработчик + ИИ,5629,мес,191386,11258,https://kurs-radar.pro/java-razrabotchik-ii-skillbox.html
+2026-11-23,yuvelirnyj-3d-modeller-skillbox,Skillbox,Ювелирный 3D-моделлер,7127,мес,156794,14254,https://kurs-radar.pro/yuvelirnyj-3d-modeller-skillbox.html
+2026-11-23,landshaftnyj-dizajner-skillbox,Skillbox,Ландшафтный дизайнер,4902,мес,151962,9804,https://kurs-radar.pro/landshaftnyj-dizajner-skillbox.html
+2026-11-23,landshaftnyj-dizajner-pro-skillbox,Skillbox,Ландшафтный дизайнер PRO,6200,мес,192200,10334,https://kurs-radar.pro/landshaftnyj-dizajner-pro-skillbox.html
+2026-11-23,internet-marketolog-ii-skillbox,Skillbox,Интернет-маркетолог + ИИ,3290,мес,118440,7312,https://kurs-radar.pro/internet-marketolog-ii-skillbox.html
+2026-11-23,menedzher-marketplejsov-prodvinutyj-kurs-s-nulya-ii-skillbox,Skillbox,Менеджер маркетплейсов: продвинутый курс с нуля + ИИ,2555,мес,86870,6388,https://kurs-radar.pro/menedzher-marketplejsov-prodvinutyj-kurs-s-nulya-ii-skillbox.html
+2026-11-23,specialist-po-prodvizheniyu-na-marketplejsah-skillbox,Skillbox,Специалист по продвижению на маркетплейсах,3090,мес,49440,6180,https://kurs-radar.pro/specialist-po-prodvizheniyu-na-marketplejsah-skillbox.html
+2026-11-23,moushen-dizajner-ii-skillbox,Skillbox,Моушен-дизайнер +ИИ,4835,мес,149885,9670,https://kurs-radar.pro/moushen-dizajner-ii-skillbox.html
+2026-11-23,upravlenie-personalom-skillbox,Skillbox,Управление персоналом,3469,мес,107539,6938,https://kurs-radar.pro/upravlenie-personalom-skillbox.html
+2026-11-23,product-owner-skillbox,Skillbox,Product Owner,4911,мес,152241,9822,https://kurs-radar.pro/product-owner-skillbox.html
+2026-11-23,menedzher-proektov-ii-skillbox,Skillbox,Менеджер проектов + ИИ,3416,мес,105896,6832,https://kurs-radar.pro/menedzher-proektov-ii-skillbox.html
+2026-11-23,python-razrabotchik-ii-skillbox,Skillbox,Python-разработчик + ИИ,4628,мес,157352,9256,https://kurs-radar.pro/python-razrabotchik-ii-skillbox.html
+2026-11-23,smm-specialist-ii-skillbox,Skillbox,SMM специалист + ИИ,3019,мес,93589,7548,https://kurs-radar.pro/smm-specialist-ii-skillbox.html
+2026-11-23,sistemnyj-analitik-ii-skillbox,Skillbox,Системный аналитик + ИИ,3485,мес,118490,6970,https://kurs-radar.pro/sistemnyj-analitik-ii-skillbox.html
+2026-11-23,targetolog-s-nulya-do-pro-ii-skillbox,Skillbox,Таргетолог с нуля до PRO + ИИ,2324,мес,72044,4648,https://kurs-radar.pro/targetolog-s-nulya-do-pro-ii-skillbox.html
+2026-11-23,inzhener-po-testirovaniyu-ii-skillbox,Skillbox,Инженер по тестированию + ИИ,4355,мес,135005,8710,https://kurs-radar.pro/inzhener-po-testirovaniyu-ii-skillbox.html
+2026-11-23,inzhener-po-avtomatizacii-testirovaniya-skillbox,Skillbox,Инженер по автоматизации тестирования,5778,мес,138672,11556,https://kurs-radar.pro/inzhener-po-avtomatizacii-testirovaniya-skillbox.html
+2026-11-23,razrabotchik-igr-na-unreal-engine-s-nulya-do-middle-skillbox,Skillbox,Разработчик игр на Unreal Engine с нуля до Middle,5472,мес,196992,10944,https://kurs-radar.pro/razrabotchik-igr-na-unreal-engine-s-nulya-do-middle-skillbox.html
+2026-11-23,razrabotchik-igr-na-unity-s-nulya-skillbox,Skillbox,Разработчик игр на Unity с нуля,4272,мес,132432,10680,https://kurs-radar.pro/razrabotchik-igr-na-unity-s-nulya-skillbox.html
+2026-11-23,razrabotchik-igr-na-unreal-engine-5-s-nulya-skillbox,Skillbox,Разработчик игр на Unreal Engine 5 с нуля,6369,мес,197439,12738,https://kurs-radar.pro/razrabotchik-igr-na-unreal-engine-5-s-nulya-skillbox.html
+2026-11-23,ux-ui-dizajner-ii-skillbox,Skillbox,UX/UI-дизайнер + ИИ,5453,мес,119966,13633,https://kurs-radar.pro/ux-ui-dizajner-ii-skillbox.html
+2026-11-23,veb-dizajner-ii-skillbox,Skillbox,Веб-дизайнер + ИИ,5857,мес,181567,11714,https://kurs-radar.pro/veb-dizajner-ii-skillbox.html
+2026-11-23,psihologiya-sportivnyh-pobed-skillbox,Skillbox,Психология спортивных побед,3127,мес,37524,6254,https://kurs-radar.pro/psihologiya-sportivnyh-pobed-skillbox.html
+2026-11-23,avtomatizirovannoe-testirovanie-na-python-skillbox,Skillbox,Автоматизированное тестирование на Python,5398,мес,118756,10796,https://kurs-radar.pro/avtomatizirovannoe-testirovanie-na-python-skillbox.html
+2026-11-23,python-skillbox,Skillbox,Python,3805,мес,74676,9513,https://kurs-radar.pro/python-skillbox.html
+2026-11-23,revit-dlya-dizajnerov-intererov-skillbox,Skillbox,Revit для дизайнеров интерьеров,6694,мес,50166,13388,https://kurs-radar.pro/revit-dlya-dizajnerov-intererov-skillbox.html
+2026-11-23,3d-modelirovanie-ukrashenij-v-rhinoceros-skillbox,Skillbox,3D-моделирование украшений в Rhinoceros,6600,мес,80592,13200,https://kurs-radar.pro/3d-modelirovanie-ukrashenij-v-rhinoceros-skillbox.html
+2026-11-23,seo-pro-skillbox,Skillbox,SEO PRO,5611,мес,67332,11222,https://kurs-radar.pro/seo-pro-skillbox.html
+2026-11-23,seo-specialist-c-nulya-do-pro-ii-skillbox,Skillbox,SEO-специалист с нуля до PRO + ИИ,4385,мес,96470,8770,https://kurs-radar.pro/seo-specialist-c-nulya-do-pro-ii-skillbox.html
+2026-11-23,seo-specialist-kurs-ot-amdg-skillbox,Skillbox,SEO-специалист: курс от AMDG,4385,мес,57492,8770,https://kurs-radar.pro/seo-specialist-kurs-ot-amdg-skillbox.html
+2026-11-23,sketchup-dlya-landshaftnyh-dizajnerov-skillbox,Skillbox,SketchUp для ландшафтных дизайнеров,4902,мес,36006,9804,https://kurs-radar.pro/sketchup-dlya-landshaftnyh-dizajnerov-skillbox.html
+2026-11-23,smm-specialist-s-nulya-skillbox,Skillbox,SMM-специалист с нуля,5024,мес,60288,10048,https://kurs-radar.pro/smm-specialist-s-nulya-skillbox.html
+2026-11-23,smm-strategiya-skillbox,Skillbox,SMM-стратегия,4507,мес,54084,9014,https://kurs-radar.pro/smm-strategiya-skillbox.html
+2026-11-23,landshaftnyj-dizajn-obschestvennyh-prostranstv-skillbox,Skillbox,Ландшафтный дизайн общественных пространств,6200,мес,77148,10334,https://kurs-radar.pro/landshaftnyj-dizajn-obschestvennyh-prostranstv-skillbox.html
+2026-11-23,substance-painter-dlya-igr-skillbox,Skillbox,Substance Painter для игр,3649,мес,43788,7298,https://kurs-radar.pro/substance-painter-dlya-igr-skillbox.html
+2026-11-23,sistemnyj-administrator-s-nulya-skillbox,Skillbox,Системный администратор с нуля,8197,мес,98364,16394,https://kurs-radar.pro/sistemnyj-administrator-s-nulya-skillbox.html
+2026-11-23,targetolog-3-0-skillbox,Skillbox,Таргетолог 3.0,3114,мес,77640,7785,https://kurs-radar.pro/targetolog-3-0-skillbox.html
+2026-11-23,nalogovaya-reforma-2026-vse-o-klyuchevyh-izmeneniyah-skillbox,Skillbox,Налоговая реформа-2026: всё о ключевых изменениях,2667,мес,8001,5334,https://kurs-radar.pro/nalogovaya-reforma-2026-vse-o-klyuchevyh-izmeneniyah-skillbox.html
+2026-11-23,menedzher-po-obucheniyu-i-razvitiyu-personala-skillbox,Skillbox,Менеджер по обучению и развитию персонала,3936,мес,47232,7872,https://kurs-radar.pro/menedzher-po-obucheniyu-i-razvitiyu-personala-skillbox.html
+2026-11-23,top-seller-na-marketplejsah-skillbox,Skillbox,Топ-селлер на маркетплейсах,3654,мес,124236,9135,https://kurs-radar.pro/top-seller-na-marketplejsah-skillbox.html
+2026-11-23,trejding-skillbox,Skillbox,Трейдинг,3107,мес,56412,7768,https://kurs-radar.pro/trejding-skillbox.html
+2026-11-23,videoprodakshn-v-unreal-engine-4-skillbox,Skillbox,Видеопродакшн в Unreal Engine 4,2606,мес,31272,5212,https://kurs-radar.pro/videoprodakshn-v-unreal-engine-4-skillbox.html
+2026-11-23,scenarist-videoigr-skillbox,Skillbox,Сценарист видеоигр,2606,мес,31272,5212,https://kurs-radar.pro/scenarist-videoigr-skillbox.html
+2026-11-23,vr-razrabotchik-na-unreal-engine-4-skillbox,Skillbox,VR-разработчик на Unreal Engine 4,2606,мес,31272,5212,https://kurs-radar.pro/vr-razrabotchik-na-unreal-engine-4-skillbox.html
+2026-11-23,3d-artist-contented,Contented,3D Artist,5127,мес,184572,10254,https://kurs-radar.pro/3d-artist-contented.html
+2026-11-23,dizajner-intererov-contented,Contented,Дизайнер-интерьеров,3598,мес,129528,7197,https://kurs-radar.pro/dizajner-intererov-contented.html
+2026-11-23,graficheskij-dizajner-contented,Contented,Графический дизайнер,3715,мес,133737,7430,https://kurs-radar.pro/graficheskij-dizajner-contented.html
+2026-11-23,dizajner-zhilyh-i-kommercheskih-intererov-contented,Contented,Дизайнер жилых и коммерческих интерьеров,5535,мес,199260,11071,https://kurs-radar.pro/dizajner-zhilyh-i-kommercheskih-intererov-contented.html
+2026-11-23,ux-ui-dizajner-contented,Contented,UX/UI-дизайнер,3295,мес,118620,6591,https://kurs-radar.pro/ux-ui-dizajner-contented.html
+2026-11-23,veb-dizajner-contented,Contented,Веб-дизайнер,3041,мес,109464,6081,https://kurs-radar.pro/veb-dizajner-contented.html
+2026-11-23,biznes-analitik-tarif-pro-edyuson,Эдюсон,Бизнес-аналитик: тариф PRO,5683,мес,136395,18943,https://kurs-radar.pro/biznes-analitik-tarif-pro-edyuson.html
+2026-11-23,analitik-dannyh-stazhirovka-edyuson,Эдюсон,Аналитик данных + стажировка,4579,мес,109900,15263,https://kurs-radar.pro/analitik-dannyh-stazhirovka-edyuson.html
+2026-11-23,internet-marketolog-s-ii-edyuson,Эдюсон,Интернет-маркетолог с ИИ,5875,мес,70510,19586,https://kurs-radar.pro/internet-marketolog-s-ii-edyuson.html
+2026-11-23,buhgalter-sertifikat-1s-edyuson,Эдюсон,«Бухгалтер» + сертификат 1С,4999,мес,59990,16663,https://kurs-radar.pro/buhgalter-sertifikat-1s-edyuson.html
+2026-11-23,1s-i-excel-dlya-buhgaltera-edyuson,Эдюсон,1С и Excel для бухгалтера,3166,мес,38000,10555,https://kurs-radar.pro/1s-i-excel-dlya-buhgaltera-edyuson.html
+2026-11-23,smm-menedzher-tarif-pro-edyuson,Эдюсон,SMM-менеджер: тариф PRO,3919,мес,47039,13066,https://kurs-radar.pro/smm-menedzher-tarif-pro-edyuson.html
+2026-11-23,hr-menedzher-edyuson,Эдюсон,HR-менеджер,5529,мес,66350,18430,https://kurs-radar.pro/hr-menedzher-edyuson.html
+2026-11-23,direktor-po-obucheniyu-personala-edyuson,Эдюсон,Директор по обучению персонала,6389,мес,76669,21296,https://kurs-radar.pro/direktor-po-obucheniyu-personala-edyuson.html
+2026-11-23,finansovyj-direktor-nejroseti-dlya-finansista-edyuson,Эдюсон,Финансовый директор + нейросети для финансиста,9400,мес,112800,31333,https://kurs-radar.pro/finansovyj-direktor-nejroseti-dlya-finansista-edyuson.html
+2026-11-23,finansovoe-modelirovanie-edyuson,Эдюсон,Финансовое моделирование,3375,мес,40500,11250,https://kurs-radar.pro/finansovoe-modelirovanie-edyuson.html
+2026-11-23,1s-buhgalteriya-8-3-edyuson,Эдюсон,1С: Бухгалтерия 8.3,2625,мес,31500,8750,https://kurs-radar.pro/1s-buhgalteriya-8-3-edyuson.html
+2026-11-23,hr-analitika-edyuson,Эдюсон,HR-аналитика,4682,мес,56192,15608,https://kurs-radar.pro/hr-analitika-edyuson.html
+2026-11-23,menedzher-proektov-tarif-optimalnyj-edyuson,Эдюсон,Менеджер проектов: тариф Оптимальный,9966,мес,119600,33222,https://kurs-radar.pro/menedzher-proektov-tarif-optimalnyj-edyuson.html
+2026-11-23,biznes-analitik-tarif-master-edyuson,Эдюсон,Бизнес-аналитик: тариф Мастер,7345,мес,176295,24485,https://kurs-radar.pro/biznes-analitik-tarif-master-edyuson.html
+2026-11-23,menedzher-po-rabote-s-marketplejsami-edyuson,Эдюсон,Менеджер по работе с маркетплейсами,4347,мес,52174,14492,https://kurs-radar.pro/menedzher-po-rabote-s-marketplejsami-edyuson.html
+2026-11-23,python-razrabotchik-ii-edyuson,Эдюсон,Python-разработчик + ИИ,3746,мес,89919,12488,https://kurs-radar.pro/python-razrabotchik-ii-edyuson.html
+2026-11-23,finansovyj-analitik-ii-edyuson,Эдюсон,Финансовый аналитик + ИИ,6850,мес,82200,22833,https://kurs-radar.pro/finansovyj-analitik-ii-edyuson.html
+2026-11-23,power-bi-ii-edyuson,Эдюсон,Power BI + ИИ,4158,мес,49900,13861,https://kurs-radar.pro/power-bi-ii-edyuson.html
+2026-11-23,pro-seller-na-marketplejsah-edyuson,Эдюсон,PRO-селлер на маркетплейсах,10658,мес,127900,35527,https://kurs-radar.pro/pro-seller-na-marketplejsah-edyuson.html
+2026-11-23,prodakt-menedzher-edyuson,Эдюсон,Продакт-менеджер,3742,мес,89820,12475,https://kurs-radar.pro/prodakt-menedzher-edyuson.html
+2026-11-23,direktor-po-upravleniyu-personalom-edyuson,Эдюсон,Директор по управлению персоналом,8026,мес,96323,26756,https://kurs-radar.pro/direktor-po-upravleniyu-personalom-edyuson.html
+2026-11-23,hr-biznes-partner-edyuson,Эдюсон,HR бизнес-партнер,6480,мес,77761,21600,https://kurs-radar.pro/hr-biznes-partner-edyuson.html
+2026-11-23,finansy-dlya-predprinimatelej-edyuson,Эдюсон,Финансы для предпринимателей,6300,мес,75600,21000,https://kurs-radar.pro/finansy-dlya-predprinimatelej-edyuson.html
+2026-11-23,mba-upravlenie-personalom-edyuson,Эдюсон,MBA: Управление персоналом,10969,мес,131631,36564,https://kurs-radar.pro/mba-upravlenie-personalom-edyuson.html
+2026-11-23,kak-sozdat-produkt-i-zapustit-startap-edyuson,Эдюсон,Как создать продукт и запустить стартап,8737,мес,104846,29123,https://kurs-radar.pro/kak-sozdat-produkt-i-zapustit-startap-edyuson.html
+2026-11-23,glavnyj-buhgalter-edyuson,Эдюсон,Главный бухгалтер,7500,мес,90000,25000,https://kurs-radar.pro/glavnyj-buhgalter-edyuson.html
+2026-11-23,excel-i-google-tablicy-dlya-buhgaltera-tarif-pro-edyuson,Эдюсон,Excel и Google-таблицы для бухгалтера: тариф PRO,2416,мес,29000,8055,https://kurs-radar.pro/excel-i-google-tablicy-dlya-buhgaltera-tarif-pro-edyuson.html
+2026-11-23,excel-i-google-tablicy-dlya-upravleniya-finansami-edyuson,Эдюсон,Excel и Google-таблицы для управления финансами,3458,мес,41500,11527,https://kurs-radar.pro/excel-i-google-tablicy-dlya-upravleniya-finansami-edyuson.html
+2026-11-23,excel-i-google-tablicy-tarif-master-edyuson,Эдюсон,Excel и Google-таблицы: тариф Мастер,3325,мес,39900,11083,https://kurs-radar.pro/excel-i-google-tablicy-tarif-master-edyuson.html
+2026-11-23,frontend-razrabotchik-ii-edyuson,Эдюсон,Frontend-разработчик + ИИ,3637,мес,87300,12125,https://kurs-radar.pro/frontend-razrabotchik-ii-edyuson.html
+2026-11-23,produktovyj-issledovatel-edyuson,Эдюсон,Продуктовый исследователь,6944,мес,83328,23146,https://kurs-radar.pro/produktovyj-issledovatel-edyuson.html
+2026-11-23,upravlenie-proektami-edyuson,Эдюсон,Управление проектами,8250,мес,99011,27503,https://kurs-radar.pro/upravlenie-proektami-edyuson.html
+2026-11-23,finansovyj-analitik-tarif-pro-edyuson,Эдюсон,Финансовый аналитик: тариф PRO,7600,мес,91200,25333,https://kurs-radar.pro/finansovyj-analitik-tarif-pro-edyuson.html
+2026-11-23,project-manager-v-it-edyuson,Эдюсон,Project manager в IT,12226,мес,146714,40753,https://kurs-radar.pro/project-manager-v-it-edyuson.html
+2026-11-23,menedzher-po-obucheniyu-personala-edyuson,Эдюсон,Менеджер по обучению персонала,4335,мес,52023,14450,https://kurs-radar.pro/menedzher-po-obucheniyu-personala-edyuson.html
+2026-11-23,fullstack-razrabotchik-na-python-ii-edyuson,Эдюсон,Fullstack-разработчик на Python + ИИ,4961,мес,119070,16537,https://kurs-radar.pro/fullstack-razrabotchik-na-python-ii-edyuson.html
+2026-11-23,dizajner-intererov-ii-edyuson,Эдюсон,Дизайнер интерьеров + ИИ,5049,мес,121176,16830,https://kurs-radar.pro/dizajner-intererov-ii-edyuson.html
+2026-11-23,osnovy-python-edyuson,Эдюсон,Основы Python,2500,мес,30000,8333,https://kurs-radar.pro/osnovy-python-edyuson.html
+2026-11-23,osnovy-msfo-edyuson,Эдюсон,Основы МСФО,3050,мес,36600,10166,https://kurs-radar.pro/osnovy-msfo-edyuson.html
+2026-11-23,veb-dizajner-ii-edyuson,Эдюсон,Веб-дизайнер + ИИ,7839,мес,94069,26130,https://kurs-radar.pro/veb-dizajner-ii-edyuson.html
+2026-11-23,smm-specialist-ii-edyuson,Эдюсон,SMM-специалист + ИИ,5444,мес,65328,18146,https://kurs-radar.pro/smm-specialist-ii-edyuson.html
+2026-11-23,produktovyj-analitik-ii-edyuson,Эдюсон,Продуктовый аналитик + ИИ,3329,мес,79900,11097,https://kurs-radar.pro/produktovyj-analitik-ii-edyuson.html
+2026-11-23,1s-razrabotchik-edyuson,Эдюсон,1С-разработчик,4583,мес,110004,15278,https://kurs-radar.pro/1s-razrabotchik-edyuson.html
+2026-11-23,devops-inzhener-ii-edyuson,Эдюсон,DevOps-инженер + ИИ,4995,мес,119900,16652,https://kurs-radar.pro/devops-inzhener-ii-edyuson.html
+2026-11-23,machine-learning-edyuson,Эдюсон,Machine Learning,6079,мес,145900,20263,https://kurs-radar.pro/machine-learning-edyuson.html
+2026-11-23,product-manager-v-it-edyuson,Эдюсон,Product manager в IT,4117,мес,98820,13725,https://kurs-radar.pro/product-manager-v-it-edyuson.html
+2026-11-23,investicionnyj-analitik-ii-edyuson,Эдюсон,Инвестиционный аналитик + ИИ,7075,мес,84900,23583,https://kurs-radar.pro/investicionnyj-analitik-ii-edyuson.html
+2026-11-23,specialist-po-kiberbezopasnosti-edyuson,Эдюсон,Специалист по кибербезопасности,6079,мес,145900,20263,https://kurs-radar.pro/specialist-po-kiberbezopasnosti-edyuson.html
+2026-11-23,buhgalter-dlya-ip-edyuson,Эдюсон,Бухгалтер для ИП,6633,мес,79600,22111,https://kurs-radar.pro/buhgalter-dlya-ip-edyuson.html
+2026-11-23,direktor-po-logistike-edyuson,Эдюсон,Директор по логистике,9170,мес,110040,30566,https://kurs-radar.pro/direktor-po-logistike-edyuson.html
+2026-11-23,legalnaya-nalogovaya-optimizaciya-belye-shemy-edyuson,Эдюсон,Легальная налоговая оптимизация: белые схемы,3150,мес,37800,10500,https://kurs-radar.pro/legalnaya-nalogovaya-optimizaciya-belye-shemy-edyuson.html
+2026-11-23,excel-dlya-raboty-edyuson,Эдюсон,Excel для работы,1375,мес,16500,4583,https://kurs-radar.pro/excel-dlya-raboty-edyuson.html
+2026-11-23,java-razrabotchik-ii-edyuson,Эдюсон,Java-разработчик + ИИ,5579,мес,133900,18597,https://kurs-radar.pro/java-razrabotchik-ii-edyuson.html
+2026-11-23,mini-mba-obuchenie-i-razvitie-personala-edyuson,Эдюсон,Mini MBA: Обучение и развитие персонала,6639,мес,79669,22130,https://kurs-radar.pro/mini-mba-obuchenie-i-razvitie-personala-edyuson.html
+2026-11-23,direktor-po-produktu-cpo-edyuson,Эдюсон,Директор по продукту (CPO),5242,мес,125820,17475,https://kurs-radar.pro/direktor-po-produktu-cpo-edyuson.html
+2026-11-23,android-razrabotchik-ii-edyuson,Эдюсон,Android-разработчик + ИИ,5579,мес,133900,18597,https://kurs-radar.pro/android-razrabotchik-ii-edyuson.html
+2026-11-23,fullstack-razrabotchik-na-javascript-ii-edyuson,Эдюсон,Fullstack-разработчик на JavaScript + ИИ,4961,мес,119070,16537,https://kurs-radar.pro/fullstack-razrabotchik-na-javascript-ii-edyuson.html
+2026-11-23,dizajn-interera-dlya-sebya-edyuson,Эдюсон,Дизайн интерьера для себя,2988,мес,71727,9962,https://kurs-radar.pro/dizajn-interera-dlya-sebya-edyuson.html
+2026-11-23,produktovyj-marketolog-edyuson,Эдюсон,Продуктовый маркетолог,5503,мес,66045,18345,https://kurs-radar.pro/produktovyj-marketolog-edyuson.html
+2026-11-23,razrabotchik-igr-na-unreal-engine-ii-edyuson,Эдюсон,Разработчик игр на Unreal Engine + ИИ,5655,мес,135720,18850,https://kurs-radar.pro/razrabotchik-igr-na-unreal-engine-ii-edyuson.html
+2026-11-23,finansy-na-marketplejsah-edyuson,Эдюсон,Финансы на маркетплейсах,5575,мес,66900,18583,https://kurs-radar.pro/finansy-na-marketplejsah-edyuson.html
+2026-11-23,testirovschik-po-ii-edyuson,Эдюсон,Тестировщик ПО + ИИ,3547,мес,85130,11823,https://kurs-radar.pro/testirovschik-po-ii-edyuson.html
+2026-11-23,mba-upravlenie-logistikoj-i-cepyami-postavok-edyuson,Эдюсон,MBA: Управление логистикой и цепями поставок,12438,мес,149260,41461,https://kurs-radar.pro/mba-upravlenie-logistikoj-i-cepyami-postavok-edyuson.html
+2026-11-23,avtotestirovschik-na-python-edyuson,Эдюсон,Автотестировщик на Python,3700,мес,88800,12333,https://kurs-radar.pro/avtotestirovschik-na-python-edyuson.html
+2026-11-23,upravlenie-logistikoj-edyuson,Эдюсон,Управление логистикой,5525,мес,66310,18419,https://kurs-radar.pro/upravlenie-logistikoj-edyuson.html
+2026-11-23,inzhener-pto-edyuson,Эдюсон,Инженер ПТО,5731,мес,68775,19104,https://kurs-radar.pro/inzhener-pto-edyuson.html
+2026-11-23,data-science-ii-edyuson,Эдюсон,Data Science + ИИ,4579,мес,109900,15263,https://kurs-radar.pro/data-science-ii-edyuson.html
+2026-11-23,arhiv-ii-menedzher-po-rabote-s-marketplejsami-edyuson,Эдюсон,[Архив] ИИ-менеджер по работе с маркетплейсами,2628,мес,63076,6570,https://kurs-radar.pro/arhiv-ii-menedzher-po-rabote-s-marketplejsami-edyuson.html
+2026-11-23,sistemnyj-analitik-s-nulya-tarif-pro-edyuson,Эдюсон,Системный аналитик с нуля: тариф PRO,5683,мес,136395,18943,https://kurs-radar.pro/sistemnyj-analitik-s-nulya-tarif-pro-edyuson.html
+2026-11-23,razrabotchik-igr-na-unity-ii-edyuson,Эдюсон,Разработчик игр на Unity + ИИ,5412,мес,129900,18041,https://kurs-radar.pro/razrabotchik-igr-na-unity-ii-edyuson.html
+2026-11-23,autocad-dlya-inzhenerov-edyuson,Эдюсон,Autocad для инженеров,4158,мес,49900,13861,https://kurs-radar.pro/autocad-dlya-inzhenerov-edyuson.html
+2026-11-23,inzhener-smetchik-edyuson,Эдюсон,Инженер-сметчик,4595,мес,55146,15318,https://kurs-radar.pro/inzhener-smetchik-edyuson.html
+2026-11-23,microsoft-office-tarif-pro-edyuson,Эдюсон,Microsoft Office: тариф PRO,4191,мес,50300,13972,https://kurs-radar.pro/microsoft-office-tarif-pro-edyuson.html
+2026-11-23,product-owner-v-it-edyuson,Эдюсон,Product Owner в IT,3718,мес,89250,12395,https://kurs-radar.pro/product-owner-v-it-edyuson.html
+2026-11-23,nejroseti-v-stroitelstve-edyuson,Эдюсон,Нейросети в строительстве,7491,мес,89892,24970,https://kurs-radar.pro/nejroseti-v-stroitelstve-edyuson.html
+2026-11-23,glavnyj-inzhener-proekta-edyuson,Эдюсон,Главный инженер проекта,3441,мес,82584,11470,https://kurs-radar.pro/glavnyj-inzhener-proekta-edyuson.html
+2026-11-23,vnutrennij-auditor-edyuson,Эдюсон,Внутренний аудитор,5416,мес,65000,18055,https://kurs-radar.pro/vnutrennij-auditor-edyuson.html
+2026-11-23,nejroseti-dlya-hr-edyuson,Эдюсон,Нейросети для HR,5084,мес,61016,16948,https://kurs-radar.pro/nejroseti-dlya-hr-edyuson.html
+2026-11-23,cifrovoe-predprinimatelstvo-edyuson,Эдюсон,Цифровое предпринимательство,6351,мес,152424,21170,https://kurs-radar.pro/cifrovoe-predprinimatelstvo-edyuson.html
+2026-11-23,3d-vizualizator-intererov-ii-edyuson,Эдюсон,3D-визуализатор интерьеров + ИИ,6479,мес,77755,21598,https://kurs-radar.pro/3d-vizualizator-intererov-ii-edyuson.html
+2026-11-23,3ds-max-edyuson,Эдюсон,3Ds Max,2944,мес,35333,9814,https://kurs-radar.pro/3ds-max-edyuson.html
+2026-11-23,buhgalter-ekonomist-edyuson,Эдюсон,Бухгалтер Экономист,7916,мес,95000,26388,https://kurs-radar.pro/buhgalter-ekonomist-edyuson.html
+2026-11-23,turagent-edyuson,Эдюсон,Турагент,4158,мес,49900,13861,https://kurs-radar.pro/turagent-edyuson.html
+2026-11-23,dizajner-kartochek-na-marketplejsah-edyuson,Эдюсон,Дизайнер карточек на маркетплейсах,4277,мес,51332,14258,https://kurs-radar.pro/dizajner-kartochek-na-marketplejsah-edyuson.html
+2026-11-23,prodvizhenie-tovarov-na-marketplejsah-edyuson,Эдюсон,Продвижение товаров на маркетплейсах,4748,мес,56984,15828,https://kurs-radar.pro/prodvizhenie-tovarov-na-marketplejsah-edyuson.html
+2026-11-23,nejroseti-dlya-buhgaltera-edyuson,Эдюсон,Нейросети для Бухгалтера,4125,мес,49500,13750,https://kurs-radar.pro/nejroseti-dlya-buhgaltera-edyuson.html
+2026-11-23,nejroseti-dlya-excel-i-google-tablic-edyuson,Эдюсон,Нейросети для Excel и Google Таблиц,2916,мес,35000,9722,https://kurs-radar.pro/nejroseti-dlya-excel-i-google-tablic-edyuson.html
+2026-11-23,ruchnoe-testirovanie-po-ii-edyuson,Эдюсон,Ручное тестирование ПО + ИИ,4500,мес,54000,15000,https://kurs-radar.pro/ruchnoe-testirovanie-po-ii-edyuson.html
+2026-11-23,psihologiya-dlya-sebya-edyuson,Эдюсон,Психология для себя,5983,мес,71796,19943,https://kurs-radar.pro/psihologiya-dlya-sebya-edyuson.html
+2026-11-23,finansovyj-direktor-tarif-premium-edyuson,Эдюсон,Финансовый директор: тариф Премиум,10575,мес,126900,35250,https://kurs-radar.pro/finansovyj-direktor-tarif-premium-edyuson.html
+2026-11-23,kompas-3d-dlya-inzhenerov-edyuson,Эдюсон,КОМПАС-3D для инженеров,3833,мес,46000,12777,https://kurs-radar.pro/kompas-3d-dlya-inzhenerov-edyuson.html
+2026-11-23,nejroseti-dlya-testirovschikov-edyuson,Эдюсон,Нейросети для тестировщиков,3245,мес,77880,10816,https://kurs-radar.pro/nejroseti-dlya-testirovschikov-edyuson.html
+2026-11-23,qa-lead-edyuson,Эдюсон,QA-lead,3990,мес,95760,13300,https://kurs-radar.pro/qa-lead-edyuson.html
+2026-11-23,buhgalter-byudzhetnoj-organizacii-edyuson,Эдюсон,Бухгалтер бюджетной организации,4992,мес,59904,16640,https://kurs-radar.pro/buhgalter-byudzhetnoj-organizacii-edyuson.html
+2026-11-23,buhgalter-dlya-ooo-edyuson,Эдюсон,Бухгалтер для ООО,4999,мес,59990,16663,https://kurs-radar.pro/buhgalter-dlya-ooo-edyuson.html
+2026-11-23,landshaftnyj-dizajner-ii-edyuson,Эдюсон,Ландшафтный дизайнер + ИИ,5032,мес,60384,16773,https://kurs-radar.pro/landshaftnyj-dizajner-ii-edyuson.html
+2026-11-23,buhgalterskij-biznes-s-nulya-edyuson,Эдюсон,Бухгалтерский бизнес с нуля,8000,мес,96000,20000,https://kurs-radar.pro/buhgalterskij-biznes-s-nulya-edyuson.html
+2026-11-23,nalogovaya-strategiya-biznesa-edyuson,Эдюсон,Налоговая стратегия бизнеса,8000,мес,96000,26666,https://kurs-radar.pro/nalogovaya-strategiya-biznesa-edyuson.html
+2026-11-23,nalogovyj-konsultant-edyuson,Эдюсон,Налоговый консультант,5833,мес,70000,14583,https://kurs-radar.pro/nalogovyj-konsultant-edyuson.html
+2026-11-23,java-razrabotchik-hekslet,Хекслет,Java-разработчик,4786,мес,85000,,https://kurs-radar.pro/java-razrabotchik-hekslet.html
+2026-11-23,frontend-razrabotchik-hekslet,Хекслет,Фронтенд-разработчик,4786,мес,85000,,https://kurs-radar.pro/frontend-razrabotchik-hekslet.html
+2026-11-23,analitik-dannyh-hekslet,Хекслет,Аналитик данных,4448,мес,79000,,https://kurs-radar.pro/analitik-dannyh-hekslet.html
+2026-11-23,python-razrabotchik-hekslet,Хекслет,Python-разработчик,4786,мес,85000,,https://kurs-radar.pro/python-razrabotchik-hekslet.html
+2026-11-23,avtomatizator-testirovaniya-na-javascript-hekslet,Хекслет,Автоматизатор тестирования на JavaScript,3378,мес,60000,,https://kurs-radar.pro/avtomatizator-testirovaniya-na-javascript-hekslet.html
+2026-11-23,inzhener-po-testirovaniyu-hekslet,Хекслет,Инженер по тестированию,2533,мес,45000,,https://kurs-radar.pro/inzhener-po-testirovaniyu-hekslet.html
+2026-11-23,inzhener-po-testirovaniyu-na-javascript-s-nulya-do-avtomatizatora-hekslet,Хекслет,Инженер по тестированию на JavaScript: с нуля до автоматизатора,4786,мес,85000,,https://kurs-radar.pro/inzhener-po-testirovaniyu-na-javascript-s-nulya-do-avtomatizatora-hekslet.html
+2026-11-23,devops-inzhener-s-nulya-hekslet,Хекслет,DevOps-инженер с нуля,5574,мес,99000,,https://kurs-radar.pro/devops-inzhener-s-nulya-hekslet.html
+2026-11-23,analitik-dannyh-ii-sf-education,SF Education,Аналитик данных + ИИ,4278,мес,77000,13368,https://kurs-radar.pro/analitik-dannyh-ii-sf-education.html
+2026-11-23,kreditnyj-analitik-sf-education,SF Education,Кредитный аналитик,3889,мес,70000,11111,https://kurs-radar.pro/kreditnyj-analitik-sf-education.html
+2026-11-23,finansovyj-analitik-ii-sf-education,SF Education,Финансовый аналитик + ИИ,3722,мес,66996,10635,https://kurs-radar.pro/finansovyj-analitik-ii-sf-education.html
+2026-11-23,finansovyj-direktor-ii-sf-education,SF Education,Финансовый директор + ИИ,5444,мес,97992,15556,https://kurs-radar.pro/finansovyj-direktor-ii-sf-education.html
+2026-11-23,investicionnyj-analitik-ii-sf-education,SF Education,Инвестиционный аналитик + ИИ,4667,мес,84000,13333,https://kurs-radar.pro/investicionnyj-analitik-ii-sf-education.html
+2026-11-23,glavnyj-buhgalter-ii-sf-education,SF Education,Главный бухгалтер + ИИ,2778,мес,50001,7937,https://kurs-radar.pro/glavnyj-buhgalter-ii-sf-education.html
+2026-11-23,direktor-po-strategii-sf-education,SF Education,Директор по стратегии,3333,мес,59990,9522,https://kurs-radar.pro/direktor-po-strategii-sf-education.html
+2026-11-23,shkola-investicij-sf-education,SF Education,Школа инвестиций,3208,мес,57744,9167,https://kurs-radar.pro/shkola-investicij-sf-education.html
+2026-11-23,investicionnyj-sovetnik-sf-education,SF Education,Инвестиционный советник,4375,мес,78750,12500,https://kurs-radar.pro/investicionnyj-sovetnik-sf-education.html
+2026-11-23,finansy-dlya-predprinimatelej-sf-education,SF Education,Финансы для предпринимателей,3235,мес,38815,9242,https://kurs-radar.pro/finansy-dlya-predprinimatelej-sf-education.html
+2026-11-23,lichnye-finansy-sf-education,SF Education,Личные финансы (расширенный),2500,мес,29995,7142,https://kurs-radar.pro/lichnye-finansy-sf-education.html
+2026-11-23,data-science-academy-sf-education,SF Education,Data Science Academy,2581,мес,30972,7375,https://kurs-radar.pro/data-science-academy-sf-education.html
+2026-11-23,finansovyj-uchet-i-analiz-sf-education,SF Education,Финансовый учёт и анализ,2917,мес,35000,8333,https://kurs-radar.pro/finansovyj-uchet-i-analiz-sf-education.html
+2026-11-23,podgotovka-k-ekzamenu-cfa-level-1-sf-education,SF Education,Подготовка к экзамену CFA level 1,7055,мес,126990,10854,https://kurs-radar.pro/podgotovka-k-ekzamenu-cfa-level-1-sf-education.html
+2026-11-23,akademiya-trejdinga-sf-education,SF Education,Академия трейдинга,2508,мес,30096,7167,https://kurs-radar.pro/akademiya-trejdinga-sf-education.html
+2026-11-23,finansovoe-modelirovanie-sf-education,SF Education,Финансовое моделирование,1944,мес,34992,5556,https://kurs-radar.pro/finansovoe-modelirovanie-sf-education.html
+2026-11-23,lichnye-finansy-sf-education-2,SF Education,Личные финансы (базовый),674,мес,8085,1925,https://kurs-radar.pro/lichnye-finansy-sf-education-2.html
+2026-11-23,bekend-razrabotchik-na-python-sf-education,SF Education,Бекенд-разработчик на Python,3611,мес,64995,10317,https://kurs-radar.pro/bekend-razrabotchik-na-python-sf-education.html
+2026-11-23,mini-mba-cifrovoj-finansovyj-direktor-digital-cfo-sf-education,SF Education,Mini-MBA: Цифровой финансовый директор (Digital CFO),10889,мес,196000,31111,https://kurs-radar.pro/mini-mba-cifrovoj-finansovyj-direktor-digital-cfo-sf-education.html
+2026-11-23,mini-mba-finansovyj-direktor-sf-education,SF Education,Mini-MBA Финансовый директор,10014,мес,180250,28611,https://kurs-radar.pro/mini-mba-finansovyj-direktor-sf-education.html
+2026-11-23,mini-mba-finansovyj-analitik-sf-education,SF Education,Mini-MBA: Финансовый аналитик,7389,мес,133000,21111,https://kurs-radar.pro/mini-mba-finansovyj-analitik-sf-education.html
+2026-11-23,ms-office-pack-sf-education,SF Education,MS Office Pack,2917,мес,35000,8333,https://kurs-radar.pro/ms-office-pack-sf-education.html
+2026-11-23,biznes-analitik-professiya-ii-sf-education,SF Education,Бизнес-аналитик (профессия) + ИИ,4389,мес,78995,12539,https://kurs-radar.pro/biznes-analitik-professiya-ii-sf-education.html
+2026-11-23,mini-mba-biznes-analitik-sf-education,SF Education,Mini-MBA: Бизнес-аналитик,9722,мес,174996,27778,https://kurs-radar.pro/mini-mba-biznes-analitik-sf-education.html
+2026-11-23,mini-mba-investicionnyj-analitik-sf-education,SF Education,Mini-MBA: Инвестиционный аналитик,9722,мес,174996,27778,https://kurs-radar.pro/mini-mba-investicionnyj-analitik-sf-education.html
+2026-11-23,specialist-po-rabote-s-zadolzhennostyu-sf-education,SF Education,Специалист по работе с задолженностью,2778,мес,49995,7936,https://kurs-radar.pro/specialist-po-rabote-s-zadolzhennostyu-sf-education.html
+2026-11-23,liderstvo-v-usloviyah-izmenenij-master-delovogo-administrirovaniya-mba-master-delovogo-administrirovaniya-mva-mbs,MBS,Лидерство в условиях изменений. Мастер делового администрирования (MBA). Мастер делового администрирования (МВА),479000,мес,479000,,https://kurs-radar.pro/liderstvo-v-usloviyah-izmenenij-master-delovogo-administrirovaniya-mba-master-delovogo-administrirovaniya-mva-mbs.html
+2026-11-23,lider-izmenenij-profperepodgotovka-intensiv-mba-master-delovogo-administrirovaniya-mva-mbs,MBS,Лидер изменений. Профпереподготовка (Интенсив-MBA). Мастер делового администрирования (МВА),199000,мес,199000,,https://kurs-radar.pro/lider-izmenenij-profperepodgotovka-intensiv-mba-master-delovogo-administrirovaniya-mva-mbs.html
+2026-11-23,rasti-i-lidiruj-grow-lead-razvitie-personala-v-novoj-realnosti-navyki-stress-menedzhment-komandy-professiya-mbs,MBS,"Расти и лидируй / Grow & Lead: развитие персонала в новой реальности (навыки, стресс-менеджмент, команды). Профессия",149000,мес,149000,,https://kurs-radar.pro/rasti-i-lidiruj-grow-lead-razvitie-personala-v-novoj-realnosti-navyki-stress-menedzhment-komandy-professiya-mbs.html
+2026-11-23,finansovaya-strategiya-ot-otchetnosti-k-razvitiyu-onlajn-intensiv-mbs,MBS,Финансовая стратегия: от отчетности к развитию. Онлайн-интенсив,39900,мес,39900,,https://kurs-radar.pro/finansovaya-strategiya-ot-otchetnosti-k-razvitiyu-onlajn-intensiv-mbs.html
+2026-11-23,upravlenie-proektami-v-oblasti-it-povyshenie-kvalifikacii-mbs,MBS,Управление проектами в области ИT. Повышение квалификации,23900,мес,23900,,https://kurs-radar.pro/upravlenie-proektami-v-oblasti-it-povyshenie-kvalifikacii-mbs.html
+2026-11-23,finansy-dlya-nefinansistov-finansovyj-i-upravlencheskij-uchet-dlya-rukovoditelej-povyshenie-kvalifikacii-mbs,MBS,Финансы для нефинансистов. Финансовый и управленческий учет для руководителей. Повышение квалификации,45900,мес,45900,,https://kurs-radar.pro/finansy-dlya-nefinansistov-finansovyj-i-upravlencheskij-uchet-dlya-rukovoditelej-povyshenie-kvalifikacii-mbs.html
+2026-11-23,nalogooblozhenie-i-buhgalteriya-v-oae-professiya-mbs,MBS,Налогообложение и бухгалтерия в ОАЭ. Профессия,237500,мес,237500,,https://kurs-radar.pro/nalogooblozhenie-i-buhgalteriya-v-oae-professiya-mbs.html
+2026-11-23,analiz-dannyh-i-optimizaciya-processov-na-osnove-analitiki-povyshenie-kvalifikacii-mbs,MBS,Анализ данных и оптимизация процессов на основе аналитики. Повышение квалификации,45900,мес,45900,,https://kurs-radar.pro/analiz-dannyh-i-optimizaciya-processov-na-osnove-analitiki-povyshenie-kvalifikacii-mbs.html
+2026-11-23,internet-magazin-elektronnaya-torgovlya-e-commerce-vne-marketplejsov-ekonomika-sistema-rost-povyshenie-kvalifikacii-mbs,MBS,"Интернет-магазин: электронная торговля (E-commerce) вне маркетплейсов: экономика, система, рост. Повышение квалификации",45900,мес,45900,,https://kurs-radar.pro/internet-magazin-elektronnaya-torgovlya-e-commerce-vne-marketplejsov-ekonomika-sistema-rost-povyshenie-kvalifikacii-mbs.html
+2026-11-23,proektnye-prodazhi-poetapnaya-organizaciya-sbyta-tehnicheskih-reshenij-slozhnyh-produktov-i-uslug-s-dlinnym-ciklom-povyshenie-kvalifikacii-mbs,MBS,"Проектные продажи: поэтапная организация сбыта технических решений, сложных продуктов и услуг с длинным циклом. Повышение квалификации",45900,мес,45900,,https://kurs-radar.pro/proektnye-prodazhi-poetapnaya-organizaciya-sbyta-tehnicheskih-reshenij-slozhnyh-produktov-i-uslug-s-dlinnym-ciklom-povyshenie-kvalifikacii-mbs.html
+2026-11-23,psihotipologiya-i-psihometriya-v-biznese-podbor-personala-upravlenie-i-liderstvo-povyshenie-kvalifikacii-mbs,MBS,"Психотипология и психометрия в бизнесе: подбор персонала, управление и лидерство. Повышение квалификации",59900,мес,59900,,https://kurs-radar.pro/psihotipologiya-i-psihometriya-v-biznese-podbor-personala-upravlenie-i-liderstvo-povyshenie-kvalifikacii-mbs.html
+2026-11-23,upravlenie-personalom-hr-v-cifrovoj-srede-analitika-i-avtomatizaciya-onlajn-intensiv-mbs,MBS,Управление персоналом (HR) в цифровой среде: аналитика и автоматизация. Онлайн-интенсив,39900,мес,39900,,https://kurs-radar.pro/upravlenie-personalom-hr-v-cifrovoj-srede-analitika-i-avtomatizaciya-onlajn-intensiv-mbs.html
+2026-11-23,upravlenie-personalom-hr-cherez-dannye-analitika-avtomatizaciya-professiya-mbs,MBS,Управление персоналом (HR) через данные: аналитика + автоматизация. Профессия,149000,мес,149000,,https://kurs-radar.pro/upravlenie-personalom-hr-cherez-dannye-analitika-avtomatizaciya-professiya-mbs.html
+2026-11-23,mba-start-master-delovogo-administrirovaniya-mva-mbs,MBS,MBA Start. Мастер делового администрирования (МВА),449000,мес,449000,,https://kurs-radar.pro/mba-start-master-delovogo-administrirovaniya-mva-mbs.html
+2026-11-23,ocenka-finansovyh-i-nalogovyh-riskov-v-proektah-i-sdelkah-povyshenie-kvalifikacii-ipb-rossii-povyshenie-kvalifikacii-mbs,MBS,Оценка финансовых и налоговых рисков в проектах и сделках. Повышение квалификации ИПБ России. Повышение квалификации,49900,мес,49900,,https://kurs-radar.pro/ocenka-finansovyh-i-nalogovyh-riskov-v-proektah-i-sdelkah-povyshenie-kvalifikacii-ipb-rossii-povyshenie-kvalifikacii-mbs.html
+2026-11-23,ocenka-finansovyh-i-nalogovyh-riskov-v-proektah-i-sdelkah-povyshenie-kvalifikacii-mbs,MBS,Оценка финансовых и налоговых рисков в проектах и сделках. Повышение квалификации,45900,мес,45900,,https://kurs-radar.pro/ocenka-finansovyh-i-nalogovyh-riskov-v-proektah-i-sdelkah-povyshenie-kvalifikacii-mbs.html
+2026-11-23,rabota-s-personalom-koll-centra-motivaciya-obuchenie-standarty-povyshenie-kvalifikacii-mbs,MBS,"Работа с персоналом колл-центра: мотивация, обучение, стандарты. Повышение квалификации",45900,мес,45900,,https://kurs-radar.pro/rabota-s-personalom-koll-centra-motivaciya-obuchenie-standarty-povyshenie-kvalifikacii-mbs.html
+2026-11-23,klientoorientirovannyj-personal-povyshenie-kachestva-obsluzhivaniya-klientov-povyshenie-kvalifikacii-mbs,MBS,Клиентоориентированный персонал: повышение качества обслуживания клиентов. Повышение квалификации,23900,мес,23900,,https://kurs-radar.pro/klientoorientirovannyj-personal-povyshenie-kachestva-obsluzhivaniya-klientov-povyshenie-kvalifikacii-mbs.html
+2026-11-23,rabota-na-marketplejsah-s-maksimalnoj-effektivnostyu-povyshenie-kvalifikacii-mbs,MBS,Работа на маркетплейсах с максимальной эффективностью. Повышение квалификации,45900,мес,45900,,https://kurs-radar.pro/rabota-na-marketplejsah-s-maksimalnoj-effektivnostyu-povyshenie-kvalifikacii-mbs.html
+2026-11-23,menedzher-po-personalu-hr-poisk-podbor-i-adaptaciya-povyshenie-kvalifikacii-mbs,MBS,"Менеджер по персоналу (HR): поиск, подбор и адаптация. Повышение квалификации",59900,мес,59900,,https://kurs-radar.pro/menedzher-po-personalu-hr-poisk-podbor-i-adaptaciya-povyshenie-kvalifikacii-mbs.html
+2026-11-23,polnyj-kurs-kadrovika-upravlenie-dokumentami-audit-i-pravovye-aspekty-povyshenie-kvalifikacii-mbs,MBS,"Полный курс кадровика: управление документами, аудит и правовые аспекты. Повышение квалификации",69900,мес,69900,,https://kurs-radar.pro/polnyj-kurs-kadrovika-upravlenie-dokumentami-audit-i-pravovye-aspekty-povyshenie-kvalifikacii-mbs.html
+2026-11-23,nalogooblozhenie-i-valyutnyj-kontrol-vneshnetorgovyh-operacij-povyshenie-kvalifikacii-mbs,MBS,Налогообложение и валютный контроль внешнеторговых операций. Повышение квалификации,45900,мес,45900,,https://kurs-radar.pro/nalogooblozhenie-i-valyutnyj-kontrol-vneshnetorgovyh-operacij-povyshenie-kvalifikacii-mbs.html
+2026-11-23,nalogooblozhenie-i-valyutnyj-kontrol-vneshnetorgovyh-operacij-povyshenie-kvalifikacii-ipb-rossii-povyshenie-kvalifikacii-mbs,MBS,Налогообложение и валютный контроль внешнеторговых операций. Повышение квалификации ИПБ России. Повышение квалификации,49900,мес,49900,,https://kurs-radar.pro/nalogooblozhenie-i-valyutnyj-kontrol-vneshnetorgovyh-operacij-povyshenie-kvalifikacii-ipb-rossii-povyshenie-kvalifikacii-mbs.html
+2026-11-23,upravlenie-proektami-vse-etapy-ot-a-do-ya-povyshenie-kvalifikacii-mbs,MBS,Управление проектами. Все этапы от А до Я. Повышение квалификации,45900,мес,45900,,https://kurs-radar.pro/upravlenie-proektami-vse-etapy-ot-a-do-ya-povyshenie-kvalifikacii-mbs.html
+2026-11-23,upravlenie-proektami-v-sovremennyh-kompaniyah-povyshenie-kvalifikacii-mbs,MBS,Управление проектами в современных компаниях. Повышение квалификации,59900,мес,59900,,https://kurs-radar.pro/upravlenie-proektami-v-sovremennyh-kompaniyah-povyshenie-kvalifikacii-mbs.html
+2026-11-23,master-kommunikacii-v-delovom-obschenii-konfliktologiya-povyshenie-kvalifikacii-mbs,MBS,Мастер коммуникации в деловом общении. Конфликтология. Повышение квалификации,45900,мес,45900,,https://kurs-radar.pro/master-kommunikacii-v-delovom-obschenii-konfliktologiya-povyshenie-kvalifikacii-mbs.html
+2026-11-23,adaptaciya-personala-povyshenie-kvalifikacii-mbs,MBS,Адаптация персонала. Повышение квалификации,23900,мес,23900,,https://kurs-radar.pro/adaptaciya-personala-povyshenie-kvalifikacii-mbs.html
+2026-11-23,informacionnaya-bezopasnost-kompanii-povyshenie-kvalifikacii-mbs,MBS,Информационная безопасность компании. Повышение квалификации,23900,мес,23900,,https://kurs-radar.pro/informacionnaya-bezopasnost-kompanii-povyshenie-kvalifikacii-mbs.html
+2026-11-23,menedzher-po-produktu-product-manager-povyshenie-kvalifikacii-mbs,MBS,Менеджер по продукту / Product manager. Повышение квалификации,59900,мес,59900,,https://kurs-radar.pro/menedzher-po-produktu-product-manager-povyshenie-kvalifikacii-mbs.html
+2026-11-23,administrator-it-proektov-povyshenie-kvalifikacii-mbs,MBS,Администратор ИТ-проектов. Повышение квалификации,45900,мес,45900,,https://kurs-radar.pro/administrator-it-proektov-povyshenie-kvalifikacii-mbs.html
+2026-11-23,farmacevticheskij-marketing-brending-i-reklama-opyt-veduschih-kompanij-v-rossii-i-za-rubezhom-povyshenie-kvalifikacii-mbs,MBS,Фармацевтический маркетинг: брендинг и реклама. Опыт ведущих компаний в России и за рубежом. Повышение квалификации,45900,мес,45900,,https://kurs-radar.pro/farmacevticheskij-marketing-brending-i-reklama-opyt-veduschih-kompanij-v-rossii-i-za-rubezhom-povyshenie-kvalifikacii-mbs.html
+2026-11-23,upravlenie-personalom-hr-v-epohu-ii-rekruting-onbording-uderzhanie-povyshenie-kvalifikacii-mbs,MBS,"Управление персоналом (HR) в эпоху ИИ: рекрутинг, онбординг, удержание. Повышение квалификации",59900,мес,59900,,https://kurs-radar.pro/upravlenie-personalom-hr-v-epohu-ii-rekruting-onbording-uderzhanie-povyshenie-kvalifikacii-mbs.html
+2026-11-23,investicionnyj-analitik-polnyj-cikl-proekta-professiya-mbs,MBS,Инвестиционный аналитик: полный цикл проекта. Профессия,219000,мес,219000,,https://kurs-radar.pro/investicionnyj-analitik-polnyj-cikl-proekta-professiya-mbs.html
+2026-11-23,direktor-po-personalu-hrd-upravlenie-personalom-i-razvitiem-biznesa-professiya-mbs,MBS,Директор по персоналу (HRD): управление персоналом и развитием бизнеса. Профессия,279000,мес,279000,,https://kurs-radar.pro/direktor-po-personalu-hrd-upravlenie-personalom-i-razvitiem-biznesa-professiya-mbs.html
+2026-11-23,direktor-po-personalu-hrd-upravlenie-lyudmi-v-cifrovuyu-epohu-profperepodgotovka-mbs,MBS,Директор по персоналу (HRD): управление людьми в цифровую эпоху. Профпереподготовка,199000,мес,199000,,https://kurs-radar.pro/direktor-po-personalu-hrd-upravlenie-lyudmi-v-cifrovuyu-epohu-profperepodgotovka-mbs.html
+2026-11-23,menedzher-po-personalu-hr-s-nulya-do-uverennogo-specialista-professiya-mbs,MBS,Менеджер по персоналу (HR): с нуля до уверенного специалиста. Профессия,219000,мес,219000,,https://kurs-radar.pro/menedzher-po-personalu-hr-s-nulya-do-uverennogo-specialista-professiya-mbs.html
+2026-11-23,biznes-analitika-s-nulya-do-starshego-analitika-professiya-mbs,MBS,Бизнес-аналитика с нуля до старшего аналитика. Профессия,219000,мес,219000,,https://kurs-radar.pro/biznes-analitika-s-nulya-do-starshego-analitika-professiya-mbs.html
+2026-11-23,optimizaciya-nalogooblozheniya-metody-snizheniya-riskov-povyshenie-kvalifikacii-mbs,MBS,Оптимизация налогообложения. Методы снижения рисков. Повышение квалификации,45900,мес,45900,,https://kurs-radar.pro/optimizaciya-nalogooblozheniya-metody-snizheniya-riskov-povyshenie-kvalifikacii-mbs.html
+2026-11-23,sovremennyj-klining-tehnologii-personal-i-prodvizhenie-povyshenie-kvalifikacii-mbs,MBS,"Современный клининг: технологии, персонал и продвижение. Повышение квалификации",45900,мес,45900,,https://kurs-radar.pro/sovremennyj-klining-tehnologii-personal-i-prodvizhenie-povyshenie-kvalifikacii-mbs.html
+2026-11-23,finansovyj-menedzher-korporativnye-finansy-finansovoe-modelirovanie-ocenka-investicionnyh-proektov-i-stoimosti-biznesa-povyshenie-kvalifikacii-mbs,MBS,"Финансовый менеджер: корпоративные финансы, финансовое моделирование, оценка инвестиционных проектов и стоимости бизнеса. Повышение квалификации",69900,мес,69900,,https://kurs-radar.pro/finansovyj-menedzher-korporativnye-finansy-finansovoe-modelirovanie-ocenka-investicionnyh-proektov-i-stoimosti-biznesa-povyshenie-kvalifikacii-mbs.html
+2026-11-23,upravlenie-v-sfere-energetiki-mba-professional-mbs,MBS,Управление в сфере энергетики. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/upravlenie-v-sfere-energetiki-mba-professional-mbs.html
+2026-11-23,ispolnitelnyj-magistr-delovogo-administrirovaniya-emva-master-delovogo-administrirovaniya-mva-mbs,MBS,Исполнительный магистр делового администрирования (ЕМВА). Мастер делового администрирования (МВА),1580000,мес,1580000,,https://kurs-radar.pro/ispolnitelnyj-magistr-delovogo-administrirovaniya-emva-master-delovogo-administrirovaniya-mva-mbs.html
+2026-11-23,menedzhment-obrazovatelnyh-tehnologij-i-programm-mba-professional-mbs,MBS,Менеджмент образовательных технологий и программ. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/menedzhment-obrazovatelnyh-tehnologij-i-programm-mba-professional-mbs.html
+2026-11-23,upravlenie-snabzheniem-i-zakupkami-mba-professional-mbs,MBS,Управление снабжением и закупками. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/upravlenie-snabzheniem-i-zakupkami-mba-professional-mbs.html
+2026-11-23,finansovyj-menedzher-professiya-mbs,MBS,Финансовый менеджер. Профессия,219000,мес,219000,,https://kurs-radar.pro/finansovyj-menedzher-professiya-mbs.html
+2026-11-23,innovacii-v-sportivnom-menedzhmente-i-fitnes-biznese-mba-professional-mbs,MBS,Инновации в спортивном менеджменте и фитнес-бизнесе. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/innovacii-v-sportivnom-menedzhmente-i-fitnes-biznese-mba-professional-mbs.html
+2026-11-23,upravlenie-malym-biznesom-ot-idei-k-pribylnomu-proektu-mba-professional-mbs,MBS,Управление малым бизнесом: от идеи к прибыльному проекту. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/upravlenie-malym-biznesom-ot-idei-k-pribylnomu-proektu-mba-professional-mbs.html
+2026-11-23,upravlenie-svyazyami-s-obschestvennostyu-i-reklamnoj-deyatelnostyu-mba-professional-mbs,MBS,Управление связями с общественностью и рекламной деятельностью. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/upravlenie-svyazyami-s-obschestvennostyu-i-reklamnoj-deyatelnostyu-mba-professional-mbs.html
+2026-11-23,upravlenie-personalom-mba-professional-mbs,MBS,Управление персоналом. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/upravlenie-personalom-mba-professional-mbs.html
+2026-11-23,upravlenie-v-neftegazovom-sektore-mba-professional-mbs,MBS,Управление в нефтегазовом секторе. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/upravlenie-v-neftegazovom-sektore-mba-professional-mbs.html
+2026-11-23,finansovoe-upravlenie-i-korporativnaya-effektivnost-mba-professional-mbs,MBS,Финансовое управление и корпоративная эффективность. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/finansovoe-upravlenie-i-korporativnaya-effektivnost-mba-professional-mbs.html
+2026-11-23,strategicheskoe-upravlenie-v-restorannoj-industrii-mba-professional-mbs,MBS,Стратегическое управление в ресторанной индустрии. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/strategicheskoe-upravlenie-v-restorannoj-industrii-mba-professional-mbs.html
+2026-11-23,upravlenie-riskami-i-finansovaya-bezopasnost-mba-professional-mbs,MBS,Управление рисками и финансовая безопасность. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/upravlenie-riskami-i-finansovaya-bezopasnost-mba-professional-mbs.html
+2026-11-23,operacionnyj-i-logisticheskij-menedzhment-mba-professional-mbs,MBS,Операционный и логистический менеджмент. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/operacionnyj-i-logisticheskij-menedzhment-mba-professional-mbs.html
+2026-11-23,finansovyj-direktor-cfo-profperepodgotovka-mbs,MBS,Финансовый директор (CFO). Профпереподготовка,199000,мес,199000,,https://kurs-radar.pro/finansovyj-direktor-cfo-profperepodgotovka-mbs.html
+2026-11-23,gostinichnyj-menedzhment-globalnye-tendencii-i-praktika-mba-professional-mbs,MBS,Гостиничный менеджмент: глобальные тенденции и практика. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/gostinichnyj-menedzhment-globalnye-tendencii-i-praktika-mba-professional-mbs.html
+2026-11-23,elektronnaya-kommerciya-i-internet-marketing-mba-professional-mbs,MBS,Электронная коммерция и интернет-маркетинг. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/elektronnaya-kommerciya-i-internet-marketing-mba-professional-mbs.html
+2026-11-23,upravlenie-holdingovymi-strukturami-i-gruppami-kompanij-mba-professional-mbs,MBS,Управление холдинговыми структурами и группами компаний. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/upravlenie-holdingovymi-strukturami-i-gruppami-kompanij-mba-professional-mbs.html
+2026-11-23,upravlenie-v-sfere-transporta-mba-professional-mbs,MBS,Управление в сфере транспорта. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/upravlenie-v-sfere-transporta-mba-professional-mbs.html
+2026-11-23,biznes-analitik-podhody-instrumenty-kompetencii-povyshenie-kvalifikacii-mbs,MBS,"Бизнес-аналитик. Подходы, инструменты, компетенции. Повышение квалификации",45900,мес,45900,,https://kurs-radar.pro/biznes-analitik-podhody-instrumenty-kompetencii-povyshenie-kvalifikacii-mbs.html
+2026-11-23,innovacionnyj-i-proektnyj-menedzhment-mba-professional-mbs,MBS,Инновационный и проектный менеджмент. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/innovacionnyj-i-proektnyj-menedzhment-mba-professional-mbs.html
+2026-11-23,direktor-po-obucheniyu-i-razvitiyu-personala-povyshenie-kvalifikacii-mbs,MBS,Директор по обучению и развитию персонала. Повышение квалификации,59900,мес,59900,,https://kurs-radar.pro/direktor-po-obucheniyu-i-razvitiyu-personala-povyshenie-kvalifikacii-mbs.html
+2026-11-23,yuridicheskij-menedzhment-i-pravovaya-ekspertiza-mba-professional-mbs,MBS,Юридический менеджмент и правовая экспертиза. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/yuridicheskij-menedzhment-i-pravovaya-ekspertiza-mba-professional-mbs.html
+2026-11-23,proizvodstvennyj-menedzhment-i-innovacionnye-tehnologii-mba-professional-mbs,MBS,Производственный менеджмент и инновационные технологии. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/proizvodstvennyj-menedzhment-i-innovacionnye-tehnologii-mba-professional-mbs.html
+2026-11-23,sovremennye-podhody-k-korporativnomu-upravleniyu-mba-professional-mbs,MBS,Современные подходы к корпоративному управлению. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/sovremennye-podhody-k-korporativnomu-upravleniyu-mba-professional-mbs.html
+2026-11-23,upravlenie-bezopasnostyu-proizvodstvennyh-processov-mba-professional-mbs,MBS,Управление безопасностью производственных процессов. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/upravlenie-bezopasnostyu-proizvodstvennyh-processov-mba-professional-mbs.html
+2026-11-23,professionalnyj-buhgalter-professiya-mbs,MBS,Профессиональный бухгалтер. Профессия,219000,мес,219000,,https://kurs-radar.pro/professionalnyj-buhgalter-professiya-mbs.html
+2026-11-23,strategicheskij-menedzhment-v-stroitelnoj-otrasli-mba-professional-mbs,MBS,Стратегический менеджмент в строительной отрасли. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/strategicheskij-menedzhment-v-stroitelnoj-otrasli-mba-professional-mbs.html
+2026-11-23,upravlenie-v-sfere-it-mba-professional-mbs,MBS,Управление в сфере ИТ. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/upravlenie-v-sfere-it-mba-professional-mbs.html
+2026-11-23,upravlenie-v-zhkh-mba-professional-mbs,MBS,Управление в ЖКХ. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/upravlenie-v-zhkh-mba-professional-mbs.html
+2026-11-23,nachalnik-otdela-buhgalterskogo-ucheta-professiya-mbs,MBS,Начальник отдела бухгалтерского учета. Профессия,279000,мес,279000,,https://kurs-radar.pro/nachalnik-otdela-buhgalterskogo-ucheta-professiya-mbs.html
+2026-11-23,upravlenie-strahovym-biznesom-mba-professional-mbs,MBS,Управление страховым бизнесом. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/upravlenie-strahovym-biznesom-mba-professional-mbs.html
+2026-11-23,biznes-analiz-i-intellektualnyj-analiz-dannyh-mba-professional-mbs,MBS,Бизнес-анализ и интеллектуальный анализ данных. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/biznes-analiz-i-intellektualnyj-analiz-dannyh-mba-professional-mbs.html
+2026-11-23,upravlenie-strategicheskimi-investiciyami-mba-professional-mbs,MBS,Управление стратегическими инвестициями. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/upravlenie-strategicheskimi-investiciyami-mba-professional-mbs.html
+2026-11-23,upravlenie-kommercheskimi-processami-marketing-i-prodazhi-mba-professional-mbs,MBS,Управление коммерческими процессами: маркетинг и продажи. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/upravlenie-kommercheskimi-processami-marketing-i-prodazhi-mba-professional-mbs.html
+2026-11-23,upravlenie-torgovymi-setyami-i-roznichnymi-operaciyami-mba-professional-mbs,MBS,Управление торговыми сетями и розничными операциями. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/upravlenie-torgovymi-setyami-i-roznichnymi-operaciyami-mba-professional-mbs.html
+2026-11-23,menedzhment-v-medicinskom-biznese-mba-professional-mbs,MBS,Менеджмент в медицинском бизнесе. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/menedzhment-v-medicinskom-biznese-mba-professional-mbs.html
+2026-11-23,upravlenie-prodazhami-i-razvitiem-rynka-mba-professional-mbs,MBS,Управление продажами и развитием рынка. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/upravlenie-prodazhami-i-razvitiem-rynka-mba-professional-mbs.html
+2026-11-23,strategicheskij-menedzhment-mba-professional-mbs,MBS,Стратегический менеджмент. MBA Professional,479000,мес,479000,,https://kurs-radar.pro/strategicheskij-menedzhment-mba-professional-mbs.html
+2026-11-23,iskusstvennyj-intellekt-v-marketinge-ot-avtomatizacii-do-giperpersonalizacii-povyshenie-kvalifikacii-mbs,MBS,Искусственный интеллект в маркетинге: от автоматизации до гиперперсонализации. Повышение квалификации,23900,мес,23900,,https://kurs-radar.pro/iskusstvennyj-intellekt-v-marketinge-ot-avtomatizacii-do-giperpersonalizacii-povyshenie-kvalifikacii-mbs.html
+2026-11-23,finansovyj-direktor-upravlenie-finansami-organizacii-povyshenie-kvalifikacii-mbs,MBS,Финансовый директор. Управление финансами организации. Повышение квалификации,59900,мес,59900,,https://kurs-radar.pro/finansovyj-direktor-upravlenie-finansami-organizacii-povyshenie-kvalifikacii-mbs.html
+2026-11-23,finansovyj-menedzhment-povyshenie-kvalifikacii-ipb-rossii-povyshenie-kvalifikacii-mbs,MBS,Финансовый менеджмент. Повышение квалификации ИПБ России. Повышение квалификации,69900,мес,69900,,https://kurs-radar.pro/finansovyj-menedzhment-povyshenie-kvalifikacii-ipb-rossii-povyshenie-kvalifikacii-mbs.html
+2026-11-23,vnutrennij-audit-povyshenie-kvalifikacii-ipb-rossii-povyshenie-kvalifikacii-mbs,MBS,Внутренний аудит. Повышение квалификации ИПБ России. Повышение квалификации,69900,мес,69900,,https://kurs-radar.pro/vnutrennij-audit-povyshenie-kvalifikacii-ipb-rossii-povyshenie-kvalifikacii-mbs.html
+2026-11-23,vnutrennij-audit-processy-principy-kontrol-nad-riskami-i-upravlenie-imi-povyshenie-kvalifikacii-mbs,MBS,"Внутренний аудит: процессы, принципы, контроль над рисками и управление ими. Повышение квалификации",45900,мес,45900,,https://kurs-radar.pro/vnutrennij-audit-processy-principy-kontrol-nad-riskami-i-upravlenie-imi-povyshenie-kvalifikacii-mbs.html
+2026-11-23,obrabotka-personalnyh-dannyh-v-organizacii-konfidencialnaya-informaciya-i-kommercheskaya-tajna-sovremennyj-podhod-povyshenie-kvalifikacii-mbs,MBS,Обработка персональных данных в организации. Конфиденциальная информация и коммерческая тайна – современный подход. Повышение квалификации,45900,мес,45900,,https://kurs-radar.pro/obrabotka-personalnyh-dannyh-v-organizacii-konfidencialnaya-informaciya-i-kommercheskaya-tajna-sovremennyj-podhod-povyshenie-kvalifikacii-mbs.html
+2026-11-23,zaschita-ot-moshennichestva-upravlenie-debitorskoj-zadolzhennostyu-i-uregulirovanie-konfliktov-interesov-v-dogovornoj-rabote-povyshenie-kvalifikacii-mbs,MBS,Защита от мошенничества. Управление дебиторской задолженностью и урегулирование конфликтов интересов в договорной работе. Повышение квалификации,23900,мес,23900,,https://kurs-radar.pro/zaschita-ot-moshennichestva-upravlenie-debitorskoj-zadolzhennostyu-i-uregulirovanie-konfliktov-interesov-v-dogovornoj-rabote-povyshenie-kvalifikacii-mbs.html
+2026-11-23,vnutrennij-auditor-povyshenie-kvalifikacii-mbs,MBS,Внутренний аудитор. Повышение квалификации,59900,мес,59900,,https://kurs-radar.pro/vnutrennij-auditor-povyshenie-kvalifikacii-mbs.html
+2026-11-23,nalogooblozhenie-i-pravovoe-regulirovanie-predprinimatelskoj-deyatelnosti-videokurs-mbs,MBS,Налогообложение и правовое регулирование предпринимательской деятельности. Видеокурс,5800,мес,5800,,https://kurs-radar.pro/nalogooblozhenie-i-pravovoe-regulirovanie-predprinimatelskoj-deyatelnosti-videokurs-mbs.html
+2026-11-23,mezhdunarodnye-kontrakty-i-sdelki-pravovye-tamozhennye-i-nalogovye-aspekty-povyshenie-kvalifikacii-ipb-rossii-povyshenie-kvalifikacii-mbs,MBS,"Международные контракты и сделки. Правовые, таможенные и налоговые аспекты. Повышение квалификации ИПБ России. Повышение квалификации",49900,мес,49900,,https://kurs-radar.pro/mezhdunarodnye-kontrakty-i-sdelki-pravovye-tamozhennye-i-nalogovye-aspekty-povyshenie-kvalifikacii-ipb-rossii-povyshenie-kvalifikacii-mbs.html
+2026-11-23,it-audit-i-cifrovaya-transformaciya-biznesa-povyshenie-kvalifikacii-mbs,MBS,ИТ-аудит и цифровая трансформация бизнеса. Повышение квалификации,45900,мес,45900,,https://kurs-radar.pro/it-audit-i-cifrovaya-transformaciya-biznesa-povyshenie-kvalifikacii-mbs.html
+2026-11-23,menedzher-proektov-klyuchevye-principy-delovyh-otnoshenij-videokurs-mbs,MBS,Менеджер проектов: ключевые принципы деловых отношений. Видеокурс,8900,мес,8900,,https://kurs-radar.pro/menedzher-proektov-klyuchevye-principy-delovyh-otnoshenij-videokurs-mbs.html
+2026-11-23,mezhdunarodnye-kontrakty-i-sdelki-pravovye-tamozhennye-i-nalogovye-aspekty-povyshenie-kvalifikacii-mbs,MBS,"Международные контракты и сделки. Правовые, таможенные и налоговые аспекты. Повышение квалификации",59900,мес,59900,,https://kurs-radar.pro/mezhdunarodnye-kontrakty-i-sdelki-pravovye-tamozhennye-i-nalogovye-aspekty-povyshenie-kvalifikacii-mbs.html
+2026-11-23,razvitie-chelovecheskogo-potenciala-i-obuchenie-personala-videokurs-mbs,MBS,Развитие человеческого потенциала и обучение персонала. Видеокурс,4800,мес,4800,,https://kurs-radar.pro/razvitie-chelovecheskogo-potenciala-i-obuchenie-personala-videokurs-mbs.html
+2026-11-23,otrazhenie-faktov-hozyajstvennoj-zhizni-v-buhgalterskom-uchete-videokurs-mbs,MBS,Отражение фактов хозяйственной жизни в бухгалтерском учете. Видеокурс,3700,мес,3700,,https://kurs-radar.pro/otrazhenie-faktov-hozyajstvennoj-zhizni-v-buhgalterskom-uchete-videokurs-mbs.html
+2026-11-23,marketing-dlya-nemarketologov-dlya-rukovoditelej-i-sobstvennikov-sozdanie-marketing-strategii-i-ee-realizaciya-povyshenie-kvalifikacii-mbs,MBS,Маркетинг для немаркетологов. Для руководителей и собственников – создание маркетинг-стратегии и ее реализация. Повышение квалификации,45900,мес,45900,,https://kurs-radar.pro/marketing-dlya-nemarketologov-dlya-rukovoditelej-i-sobstvennikov-sozdanie-marketing-strategii-i-ee-realizaciya-povyshenie-kvalifikacii-mbs.html
+2026-11-23,finansovaya-otchetnost-predpriyatiya-videokurs-mbs,MBS,Финансовая отчетность предприятия. Видеокурс,4800,мес,4800,,https://kurs-radar.pro/finansovaya-otchetnost-predpriyatiya-videokurs-mbs.html
+2026-11-23,finansovoe-modelirovanie-investicionnyh-proektov-praktikum-v-excel-povyshenie-kvalifikacii-mbs,MBS,Финансовое моделирование инвестиционных проектов (практикум в Excel). Повышение квалификации,45900,мес,45900,,https://kurs-radar.pro/finansovoe-modelirovanie-investicionnyh-proektov-praktikum-v-excel-povyshenie-kvalifikacii-mbs.html
+2026-11-23,nalogooblozhenie-dlya-menedzhera-videokurs-mbs,MBS,Налогообложение для менеджера. Видеокурс,3700,мес,3700,,https://kurs-radar.pro/nalogooblozhenie-dlya-menedzhera-videokurs-mbs.html
+2026-11-23,psihologiya-delovyh-otnoshenij-videokurs-mbs,MBS,Психология деловых отношений. Видеокурс,4800,мес,4800,,https://kurs-radar.pro/psihologiya-delovyh-otnoshenij-videokurs-mbs.html
+2026-11-23,msfo-ias-7-otchet-o-dvizhenii-denezhnyh-sredstv-postroenie-pryamym-i-kosvennym-metodami-povyshenie-kvalifikacii-mbs,MBS,МСФО (IAS) 7. Отчет о движении денежных средств. Построение прямым и косвенным методами. Повышение квалификации,23900,мес,23900,,https://kurs-radar.pro/msfo-ias-7-otchet-o-dvizhenii-denezhnyh-sredstv-postroenie-pryamym-i-kosvennym-metodami-povyshenie-kvalifikacii-mbs.html
+2026-11-23,nerynochnye-ceny-sdelok-nalogovye-posledstviya-povyshenie-kvalifikacii-mbs,MBS,Нерыночные цены сделок: налоговые последствия. Повышение квалификации,45900,мес,45900,,https://kurs-radar.pro/nerynochnye-ceny-sdelok-nalogovye-posledstviya-povyshenie-kvalifikacii-mbs.html
+2026-11-23,korporativnyj-organizacionnyj-psiholog-povyshenie-kvalifikacii-mbs,MBS,Корпоративный/организационный психолог. Повышение квалификации,59900,мес,59900,,https://kurs-radar.pro/korporativnyj-organizacionnyj-psiholog-povyshenie-kvalifikacii-mbs.html
+2026-11-23,nalogovye-proverki-prakticheski-sovety-po-prohozhdeniyu-master-klass-mbs,MBS,Налоговые проверки: практически советы по прохождению. Мастер-класс,12900,мес,12900,,https://kurs-radar.pro/nalogovye-proverki-prakticheski-sovety-po-prohozhdeniyu-master-klass-mbs.html
+2026-11-23,nalogovyj-uchet-debitorskoj-i-kreditorskoj-zadolzhennosti-master-klass-mbs,MBS,Налоговый учёт дебиторской и кредиторской задолженности. Мастер-класс,12900,мес,12900,,https://kurs-radar.pro/nalogovyj-uchet-debitorskoj-i-kreditorskoj-zadolzhennosti-master-klass-mbs.html
+2026-11-23,finansovyj-analitik-rukovoditel-finansovo-analiticheskoj-sluzhby-povyshenie-kvalifikacii-mbs,MBS,Финансовый аналитик / Руководитель финансово-аналитической службы. Повышение квалификации,45900,мес,45900,,https://kurs-radar.pro/finansovyj-analitik-rukovoditel-finansovo-analiticheskoj-sluzhby-povyshenie-kvalifikacii-mbs.html
+2026-11-23,yuridicheskie-i-psihologicheskie-aspekty-uvolneniya-personala-povyshenie-kvalifikacii-mbs,MBS,Юридические и психологические аспекты увольнения персонала. Повышение квалификации,59900,мес,59900,,https://kurs-radar.pro/yuridicheskie-i-psihologicheskie-aspekty-uvolneniya-personala-povyshenie-kvalifikacii-mbs.html
+2026-11-23,processnoe-upravlenie-modelirovanie-audit-optimizaciya-biznes-processov-povyshenie-kvalifikacii-mbs,MBS,"Процессное управление: моделирование, аудит, оптимизация бизнес-процессов. Повышение квалификации",45900,мес,45900,,https://kurs-radar.pro/processnoe-upravlenie-modelirovanie-audit-optimizaciya-biznes-processov-povyshenie-kvalifikacii-mbs.html
+2026-11-23,tehnologii-i-instrumenty-vnedreniya-centra-ocenki-personala-assessment-center-povyshenie-kvalifikacii-mbs,MBS,Технологии и инструменты внедрения Центра оценки персонала / Assessment Center. Повышение квалификации,59900,мес,59900,,https://kurs-radar.pro/tehnologii-i-instrumenty-vnedreniya-centra-ocenki-personala-assessment-center-povyshenie-kvalifikacii-mbs.html
+2026-11-23,direktor-po-personalu-hrd-sistema-upravleniya-personalom-v-organizacii-povyshenie-kvalifikacii-mbs,MBS,Директор по персоналу (HRD): система управления персоналом в организации. Повышение квалификации,75900,мес,75900,,https://kurs-radar.pro/direktor-po-personalu-hrd-sistema-upravleniya-personalom-v-organizacii-povyshenie-kvalifikacii-mbs.html
+2026-11-23,adaptaciya-obuchenie-i-razvitie-personala-povyshenie-kvalifikacii-mbs,MBS,"Адаптация, обучение и развитие персонала. Повышение квалификации",23900,мес,23900,,https://kurs-radar.pro/adaptaciya-obuchenie-i-razvitie-personala-povyshenie-kvalifikacii-mbs.html
+2026-11-23,finansovyj-analiz-ocenka-finansovogo-sostoyaniya-kompanii-povyshenie-kvalifikacii-mbs,MBS,Финансовый анализ: оценка финансового состояния компании. Повышение квалификации,45900,мес,45900,,https://kurs-radar.pro/finansovyj-analiz-ocenka-finansovogo-sostoyaniya-kompanii-povyshenie-kvalifikacii-mbs.html
+2026-11-23,byudzhetirovanie-i-upravlencheskaya-otchetnost-s-pomoschyu-excel-povyshenie-kvalifikacii-mbs,MBS,Бюджетирование и управленческая отчетность с помощью Excel. Повышение квалификации,45900,мес,45900,,https://kurs-radar.pro/byudzhetirovanie-i-upravlencheskaya-otchetnost-s-pomoschyu-excel-povyshenie-kvalifikacii-mbs.html
+2026-11-23,individualnaya-buhgalterskaya-finansovaya-otchetnost-i-ee-analiz-povyshenie-kvalifikacii-ipb-rossii-povyshenie-kvalifikacii-mbs,MBS,Индивидуальная бухгалтерская (финансовая) отчетность и ее анализ. Повышение квалификации ИПБ России. Повышение квалификации,49900,мес,49900,,https://kurs-radar.pro/individualnaya-buhgalterskaya-finansovaya-otchetnost-i-ee-analiz-povyshenie-kvalifikacii-ipb-rossii-povyshenie-kvalifikacii-mbs.html
+2026-11-23,aktualnye-investicii-finansovaya-gramotnost-i-obzor-dostupnyh-vlozhenij-povyshenie-kvalifikacii-mbs,MBS,Актуальные инвестиции: финансовая грамотность и обзор доступных вложений. Повышение квалификации,45900,мес,45900,,https://kurs-radar.pro/aktualnye-investicii-finansovaya-gramotnost-i-obzor-dostupnyh-vlozhenij-povyshenie-kvalifikacii-mbs.html
+2026-11-23,cifrovye-aktivy-investicii-i-trejding-povyshenie-kvalifikacii-mbs,MBS,Цифровые активы: инвестиции и трейдинг. Повышение квалификации,23900,мес,23900,,https://kurs-radar.pro/cifrovye-aktivy-investicii-i-trejding-povyshenie-kvalifikacii-mbs.html
+2026-11-23,3d-hudozhnik-tarif-bazovyj-xyz-school,XYZ School,3D-Художник. Тариф Базовый,269077,мес,269077,,https://kurs-radar.pro/3d-hudozhnik-tarif-bazovyj-xyz-school.html
+2026-11-23,3d-dzheneralist-tarif-bazovyj-xyz-school,XYZ School,3D-дженералист. Тариф базовый,514000,мес,514000,,https://kurs-radar.pro/3d-dzheneralist-tarif-bazovyj-xyz-school.html
+2026-11-23,3d-hudozhnik-po-personazham-tarif-bazovyj-xyz-school,XYZ School,3D-художник по персонажам. Тариф базовый,237000,мес,237000,,https://kurs-radar.pro/3d-hudozhnik-po-personazham-tarif-bazovyj-xyz-school.html
+2026-11-23,gejmdizajner-tarif-bazovyj-xyz-school,XYZ School,Геймдизайнер. Тариф базовый,239000,мес,239000,,https://kurs-radar.pro/gejmdizajner-tarif-bazovyj-xyz-school.html
+2026-11-23,animaciya-3d-personazhej-xyz-school,XYZ School,Анимация 3D-персонажей,200000,мес,200000,,https://kurs-radar.pro/animaciya-3d-personazhej-xyz-school.html
+2026-11-23,unreal-engine-razrabotchik-tarif-bazovyj-xyz-school,XYZ School,Unreal Engine - разработчик. Тариф базовый,174000,мес,174000,,https://kurs-radar.pro/unreal-engine-razrabotchik-tarif-bazovyj-xyz-school.html
+2026-11-23,razrabotka-igr-na-unity-xyz-school,XYZ School,Разработка игр на Unity,114467,мес,114467,,https://kurs-radar.pro/razrabotka-igr-na-unity-xyz-school.html
+2026-11-23,game-design-xyz-school,XYZ School,Game Design,99000,мес,99000,,https://kurs-radar.pro/game-design-xyz-school.html
+2026-11-23,unity-razrabotchik-tarif-bazovyj-xyz-school,XYZ School,Unity-разработчик. Тариф базовый,252000,мес,252000,,https://kurs-radar.pro/unity-razrabotchik-tarif-bazovyj-xyz-school.html
+2026-11-23,3d-dzheneralist-sravni-ru-xyz-school,XYZ School,3D-дженералист. Сравни.ру,399000,мес,399000,,https://kurs-radar.pro/3d-dzheneralist-sravni-ru-xyz-school.html
+2026-11-23,moushen-dizajner-xyz-school,XYZ School,Моушен-дизайнер,202000,мес,202000,,https://kurs-radar.pro/moushen-dizajner-xyz-school.html
+2026-11-23,osnovy-graficheskogo-dizajna-xyz-school,XYZ School,Основы графического дизайна,33000,мес,33000,,https://kurs-radar.pro/osnovy-graficheskogo-dizajna-xyz-school.html
+2026-11-23,cpp-dlya-razrabotki-igr-xyz-school,XYZ School,C++ для разработки игр,129000,мес,129000,,https://kurs-radar.pro/cpp-dlya-razrabotki-igr-xyz-school.html
+2026-11-23,ruchnoj-testirovschik-mobilnyh-igr-xyz-school,XYZ School,Ручной тестировщик мобильных игр,129000,мес,129000,,https://kurs-radar.pro/ruchnoj-testirovschik-mobilnyh-igr-xyz-school.html
+2026-11-23,3d-modelirovanie-igrovogo-okruzheniya-xyz-school,XYZ School,3D-моделирование игрового окружения,161000,мес,161000,,https://kurs-radar.pro/3d-modelirovanie-igrovogo-okruzheniya-xyz-school.html
+2026-11-23,dizajn-sistemy-bang-bang-education,Bang Bang Education,Дизайн-системы,139500,мес,139500,,https://kurs-radar.pro/dizajn-sistemy-bang-bang-education.html
+2026-11-23,2d-animaciya-bang-bang-education,Bang Bang Education,2D-анимация,115200,мес,115200,,https://kurs-radar.pro/2d-animaciya-bang-bang-education.html
+2026-11-23,dizajn-mobilnyh-prilozhenij-bang-bang-education,Bang Bang Education,Дизайн мобильных приложений,43400,мес,43400,,https://kurs-radar.pro/dizajn-mobilnyh-prilozhenij-bang-bang-education.html
+2026-11-23,ux-ui-dizajner-plus-bang-bang-education,Bang Bang Education,UX/UI-дизайнер Plus,186400,мес,186400,,https://kurs-radar.pro/ux-ui-dizajner-plus-bang-bang-education.html
+2026-11-23,direktor-dizajna-produktovyj-podhod-k-upravleniyu-bang-bang-education,Bang Bang Education,Директор дизайна: продуктовый подход к управлению,98000,мес,98000,,https://kurs-radar.pro/direktor-dizajna-produktovyj-podhod-k-upravleniyu-bang-bang-education.html
+2026-11-23,animacionnyj-dizajn-ot-prostogo-k-slozhnomu-bang-bang-education,Bang Bang Education,Анимационный дизайн: от простого к сложному,61250,мес,61250,,https://kurs-radar.pro/animacionnyj-dizajn-ot-prostogo-k-slozhnomu-bang-bang-education.html
+2026-11-23,moushn-dizajner-plus-bang-bang-education,Bang Bang Education,Моушн-дизайнер Plus,187200,мес,187200,,https://kurs-radar.pro/moushn-dizajner-plus-bang-bang-education.html
+2026-11-23,prodakt-menedzher-bang-bang-education,Bang Bang Education,Продакт-менеджер,118650,мес,118650,,https://kurs-radar.pro/prodakt-menedzher-bang-bang-education.html
+2026-11-23,tipografika-i-verstka-vnimanie-k-tekstu-bang-bang-education,Bang Bang Education,Типографика и верстка: внимание к тексту,43400,мес,43400,,https://kurs-radar.pro/tipografika-i-verstka-vnimanie-k-tekstu-bang-bang-education.html
+2026-11-23,graficheskij-dizajner-bang-bang-education,Bang Bang Education,Графический дизайнер,156000,мес,156000,,https://kurs-radar.pro/graficheskij-dizajner-bang-bang-education.html
+2026-11-23,moushn-dizajner-bang-bang-education,Bang Bang Education,Моушн-дизайнер,146400,мес,146400,,https://kurs-radar.pro/moushn-dizajner-bang-bang-education.html
+2026-11-23,dizajner-intererov-bang-bang-education,Bang Bang Education,Дизайнер интерьеров,136800,мес,136800,,https://kurs-radar.pro/dizajner-intererov-bang-bang-education.html
+2026-11-23,3d-dizajner-bang-bang-education,Bang Bang Education,3D-дизайнер,125600,мес,125600,,https://kurs-radar.pro/3d-dizajner-bang-bang-education.html
+2026-11-23,polzovatelskie-issledovaniya-ux-issledovaniya-bang-bang-education,Bang Bang Education,Пользовательские исследования (UX-исследования),56000,мес,56000,,https://kurs-radar.pro/polzovatelskie-issledovaniya-ux-issledovaniya-bang-bang-education.html
+2026-11-23,illyustrator-bang-bang-education,Bang Bang Education,Иллюстратор,114000,мес,114000,,https://kurs-radar.pro/illyustrator-bang-bang-education.html
+2026-11-23,graficheskij-dizajner-plus-bang-bang-education,Bang Bang Education,Графический дизайнер Plus,196800,мес,196800,,https://kurs-radar.pro/graficheskij-dizajner-plus-bang-bang-education.html
+2026-11-23,ajdentika-ot-idei-k-vizualnomu-voploscheniyu-bang-bang-education,Bang Bang Education,Айдентика: от идеи к визуальному воплощению,43400,мес,43400,,https://kurs-radar.pro/ajdentika-ot-idei-k-vizualnomu-voploscheniyu-bang-bang-education.html
+2026-11-23,ux-ui-dizajner-bang-bang-education,Bang Bang Education,UX/UI-дизайнер,145600,мес,145600,,https://kurs-radar.pro/ux-ui-dizajner-bang-bang-education.html
+2026-11-23,tipografika-o-forme-i-soderzhanii-bang-bang-education,Bang Bang Education,Типографика: о форме и содержании,35000,мес,35000,,https://kurs-radar.pro/tipografika-o-forme-i-soderzhanii-bang-bang-education.html
+2026-11-23,kopilot-cifrovogo-brendinga-bang-bang-education,Bang Bang Education,Копилот цифрового брендинга,87500,мес,87500,,https://kurs-radar.pro/kopilot-cifrovogo-brendinga-bang-bang-education.html
+2026-11-23,proektirovanie-intererov-v-archicad-bang-bang-education,Bang Bang Education,Проектирование интерьеров в Archicad,32130,мес,32130,,https://kurs-radar.pro/proektirovanie-intererov-v-archicad-bang-bang-education.html
+2026-11-23,karta-puti-klienta-cjm-ot-dannyh-k-produktovym-resheniyam-bang-bang-education,Bang Bang Education,Карта пути клиента (CJM): от данных к продуктовым решениям,35000,мес,35000,,https://kurs-radar.pro/karta-puti-klienta-cjm-ot-dannyh-k-produktovym-resheniyam-bang-bang-education.html
+2026-11-23,organizacionnaya-psihologiya-i-kouching-mip,МИП,Организационная психология и коучинг,125000,мес,125000,,https://kurs-radar.pro/organizacionnaya-psihologiya-i-kouching-mip.html
+2026-11-23,seksologiya-v-psihologicheskom-konsultirovanii-mip,МИП,Сексология в психологическом консультировании,130000,мес,130000,,https://kurs-radar.pro/seksologiya-v-psihologicheskom-konsultirovanii-mip.html
+2026-11-23,logoterapiya-i-ekzistencialnyj-analiz-mip,МИП,Логотерапия и экзистенциальный анализ,58000,мес,58000,,https://kurs-radar.pro/logoterapiya-i-ekzistencialnyj-analiz-mip.html
+2026-11-23,psihologiya-effektivnyh-peregovorov-mip,МИП,Психология эффективных переговоров,28000,мес,28000,,https://kurs-radar.pro/psihologiya-effektivnyh-peregovorov-mip.html
+2026-11-23,sportivnyj-psiholog-mip,МИП,Спортивный психолог,102000,мес,102000,,https://kurs-radar.pro/sportivnyj-psiholog-mip.html
+2026-11-23,pedagog-psiholog-mip,МИП,Педагог – психолог,68000,мес,68000,,https://kurs-radar.pro/pedagog-psiholog-mip.html
+2026-11-23,perinatalnyj-psiholog-mip,МИП,Перинатальный психолог,102000,мес,102000,,https://kurs-radar.pro/perinatalnyj-psiholog-mip.html
+2026-11-23,prikladnoj-analiz-povedeniya-ava-terapiya-mip,МИП,Прикладной анализ поведения (АВА-терапия),68000,мес,68000,,https://kurs-radar.pro/prikladnoj-analiz-povedeniya-ava-terapiya-mip.html
+2026-11-23,osnovy-fototerapii-mip,МИП,Основы фототерапии,25500,мес,25500,,https://kurs-radar.pro/osnovy-fototerapii-mip.html
+2026-11-23,psiholog-dietolog-nutriciolog-mip,МИП,Психолог-диетолог. Нутрициолог,130000,мес,130000,,https://kurs-radar.pro/psiholog-dietolog-nutriciolog-mip.html
+2026-11-23,shema-terapiya-teoreticheskie-osnovy-i-praktika-mip,МИП,Схема-терапия. Теоретические основы и практика,58000,мес,58000,,https://kurs-radar.pro/shema-terapiya-teoreticheskie-osnovy-i-praktika-mip.html
+2026-11-23,ptsr-psihologicheskaya-pomosch-v-polimodalnom-podhode-mip,МИП,ПТСР. Психологическая помощь в полимодальном подходе,47000,мес,47000,,https://kurs-radar.pro/ptsr-psihologicheskaya-pomosch-v-polimodalnom-podhode-mip.html
+2026-11-23,suggestivnaya-psihologiya-gipnoz-v-psihologicheskom-konsultirovanii-mip,МИП,Суггестивная психология. Гипноз в психологическом консультировании,78000,мес,78000,,https://kurs-radar.pro/suggestivnaya-psihologiya-gipnoz-v-psihologicheskom-konsultirovanii-mip.html
+2026-11-23,klinicheskie-aspekty-v-psihologicheskom-konsultirovanii-mip,МИП,Клинические аспекты в психологическом консультировании,110000,мес,110000,,https://kurs-radar.pro/klinicheskie-aspekty-v-psihologicheskom-konsultirovanii-mip.html
+2026-11-23,prakticheskoe-ispolzovanie-metodov-art-terapii-mip,МИП,Практическое использование методов арт-терапии,28000,мес,28000,,https://kurs-radar.pro/prakticheskoe-ispolzovanie-metodov-art-terapii-mip.html
+2026-11-23,tehniki-i-navyki-kognitivno-povedencheskoj-psihoterapii-mip,МИП,Техники и навыки когнитивно-поведенческой психотерапии,115000,мес,115000,,https://kurs-radar.pro/tehniki-i-navyki-kognitivno-povedencheskoj-psihoterapii-mip.html
+2026-11-23,rasstrojstva-lichnosti-psihoanaliticheskaya-diagnostika-i-psihoterapiya-mip,МИП,Расстройства личности. Психоаналитическая диагностика и психотерапия,39000,мес,39000,,https://kurs-radar.pro/rasstrojstva-lichnosti-psihoanaliticheskaya-diagnostika-i-psihoterapiya-mip.html
+2026-11-23,semejnyj-psiholog-mip,МИП,Семейный психолог,125000,мес,125000,,https://kurs-radar.pro/semejnyj-psiholog-mip.html
+2026-11-23,osnovy-biblioterapii-mip,МИП,Основы библиотерапии,23000,мес,23000,,https://kurs-radar.pro/osnovy-biblioterapii-mip.html
+2026-11-23,tehniki-i-navyki-geshtalt-terapii-mip,МИП,Техники и навыки гештальт-терапии,115000,мес,115000,,https://kurs-radar.pro/tehniki-i-navyki-geshtalt-terapii-mip.html
+2026-11-23,art-terapiya-v-psihologicheskom-konsultirovanii-mip,МИП,Арт-терапия в психологическом консультировании,165000,мес,165000,,https://kurs-radar.pro/art-terapiya-v-psihologicheskom-konsultirovanii-mip.html
+2026-11-23,klinicheskaya-psihologiya-mip,МИП,Клиническая психология,237000,мес,237000,,https://kurs-radar.pro/klinicheskaya-psihologiya-mip.html
+2026-11-23,nejropsiholog-mip,МИП,Нейропсихолог,165000,мес,165000,,https://kurs-radar.pro/nejropsiholog-mip.html
+2026-11-23,psihologicheskoe-konsultirovanie-mip,МИП,Психологическое консультирование,210000,мес,210000,,https://kurs-radar.pro/psihologicheskoe-konsultirovanie-mip.html
+2026-11-23,psihosomatika-i-telesno-orientirovannaya-terapiya-mip,МИП,Психосоматика и телесно-ориентированная терапия,165000,мес,165000,,https://kurs-radar.pro/psihosomatika-i-telesno-orientirovannaya-terapiya-mip.html
+2026-11-23,osnovy-psihologicheskogo-konsultirovaniya-i-psihodiagnostiki-mip,МИП,Основы психологического консультирования и психодиагностики,105000,мес,105000,,https://kurs-radar.pro/osnovy-psihologicheskogo-konsultirovaniya-i-psihodiagnostiki-mip.html
+2026-11-23,krizisnyj-psiholog-mip,МИП,Кризисный психолог,79000,мес,79000,,https://kurs-radar.pro/krizisnyj-psiholog-mip.html
+2026-11-23,tehniki-i-navyki-telesno-orientirovannoj-terapii-mip,МИП,Техники и навыки телесно-ориентированной терапии,115000,мес,115000,,https://kurs-radar.pro/tehniki-i-navyki-telesno-orientirovannoj-terapii-mip.html
+2026-11-23,kpt-psihologicheskoe-konsultirovanie-v-kognitivno-povedencheskoj-terapii-mip,МИП,КПТ. Психологическое консультирование в когнитивно-поведенческой терапии,165000,мес,165000,,https://kurs-radar.pro/kpt-psihologicheskoe-konsultirovanie-v-kognitivno-povedencheskoj-terapii-mip.html
+2026-11-23,psihoanaliz-i-psihoanaliticheskaya-psihoterapiya-mip,МИП,Психоанализ и психоаналитическая психотерапия,195000,мес,195000,,https://kurs-radar.pro/psihoanaliz-i-psihoanaliticheskaya-psihoterapiya-mip.html
+2026-11-23,psihologiya-obscheniya-mip,МИП,Психология общения,28000,мес,28000,,https://kurs-radar.pro/psihologiya-obscheniya-mip.html
+2026-11-23,psihoanaliz-i-sovremennoe-iskusstvo-mip,МИП,Психоанализ и современное искусство,23000,мес,23000,,https://kurs-radar.pro/psihoanaliz-i-sovremennoe-iskusstvo-mip.html
+2026-11-23,prakticheskie-navyki-psihologicheskogo-konsultirovaniya-1-stupen-mip,МИП,Практические навыки психологического консультирования. 1 ступень,38000,мес,38000,,https://kurs-radar.pro/prakticheskie-navyki-psihologicheskogo-konsultirovaniya-1-stupen-mip.html
+2026-11-23,prakticheskie-navyki-psihologicheskogo-konsultirovaniya-3-stupen-mip,МИП,Практические навыки психологического консультирования. 3 ступень,38500,мес,38500,,https://kurs-radar.pro/prakticheskie-navyki-psihologicheskogo-konsultirovaniya-3-stupen-mip.html
+2026-11-23,prakticheskie-navyki-psihologicheskogo-konsultirovaniya-2-stupen-mip,МИП,Практические навыки психологического консультирования. 2 ступень,38500,мес,38500,,https://kurs-radar.pro/prakticheskie-navyki-psihologicheskogo-konsultirovaniya-2-stupen-mip.html
+2026-11-23,postroj-lichnyj-brend-psihologa-mip,МИП,Построй личный бренд психолога,28000,мес,28000,,https://kurs-radar.pro/postroj-lichnyj-brend-psihologa-mip.html
+2026-11-23,prakticheskaya-psihologiya-3-kursa-smart,Smart,Практическая психология + 3 курса,300000,мес,300000,,https://kurs-radar.pro/prakticheskaya-psihologiya-3-kursa-smart.html
+2026-11-23,psiholog-konsultant-29-kursov-smart,Smart,Психолог-консультант + 29 курсов,220000,мес,220000,,https://kurs-radar.pro/psiholog-konsultant-29-kursov-smart.html
+2026-11-23,psiholog-konsultant-za-8-mesyacev-smart,Smart,Психолог-консультант за 8 месяцев,160000,мес,160000,,https://kurs-radar.pro/psiholog-konsultant-za-8-mesyacev-smart.html
+2026-11-23,kognitivno-povedencheskaya-terapiya-za-6-mesyacev-smart,Smart,Когнитивно-поведенческая терапия за 6 месяцев,65000,мес,65000,,https://kurs-radar.pro/kognitivno-povedencheskaya-terapiya-za-6-mesyacev-smart.html
+2026-11-23,prakticheskij-psiholog-s-garantiej-pervyh-klientov-smart,Smart,Практический психолог: с гарантией первых клиентов,234900,мес,234900,,https://kurs-radar.pro/prakticheskij-psiholog-s-garantiej-pervyh-klientov-smart.html
+2026-11-23,art-terapevt-smart,Smart,Арт-терапевт,39900,мес,39900,,https://kurs-radar.pro/art-terapevt-smart.html
+2026-11-23,klinicheskij-psiholog-smart,Smart,Клинический психолог,274900,мес,274900,,https://kurs-radar.pro/klinicheskij-psiholog-smart.html
+2026-11-23,seksolog-smart,Smart,Сексолог,159900,мес,159900,,https://kurs-radar.pro/seksolog-smart.html
+2026-11-23,kognitivno-povedencheskaya-terapiya-za-10-mesyacev-smart,Smart,Когнитивно-поведенческая терапия за 10 месяцев,214900,мес,214900,,https://kurs-radar.pro/kognitivno-povedencheskaya-terapiya-za-10-mesyacev-smart.html
+2026-11-23,geshtalt-terapevt-smart,Smart,Гештальт-терапевт,254900,мес,254900,,https://kurs-radar.pro/geshtalt-terapevt-smart.html
+2026-11-23,magistratura-po-psihologii-smart,Smart,Магистратура по психологии,121000,мес,121000,,https://kurs-radar.pro/magistratura-po-psihologii-smart.html
+2026-11-23,semejnyj-psiholog-smart,Smart,Семейный психолог,234900,мес,234900,,https://kurs-radar.pro/semejnyj-psiholog-smart.html
