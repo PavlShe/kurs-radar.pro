@@ -1,6 +1,6 @@
 # Цены на онлайн-курсы в России
 
-Открытый индекс цен [kurs-radar.pro](https://kurs-radar.pro/) — сравнения онлайн-курсов по цене и условиям. **Данные на 25 ноября 2026:** 939 курсов 24 онлайн-школ. Файлы обновляются автоматически раз в сутки.
+Открытый индекс цен [kurs-radar.pro](https://kurs-radar.pro/) — сравнения онлайн-курсов по цене и условиям. **Данные на 26 ноября 2026:** 938 курсов 24 онлайн-школ. Файлы обновляются автоматически раз в сутки.
 
 Таблицы с прямыми ссылками на каждый курс: [https://pavlshe.github.io/kurs-radar.pro/](https://pavlshe.github.io/kurs-radar.pro/) · тот же датасет на [Kaggle](https://www.kaggle.com/datasets/pablosheshkovic/online-course-prices-in-russia-kurs-radar-pro) и [Hugging Face](https://huggingface.co/datasets/Pavlshshk/online-course-prices-russia)
 
@@ -18,7 +18,7 @@
 | [HR и управление персоналом](https://kurs-radar.pro/kursy-hr.html) | 40 | 4 | 4 800 ₽ | 60 458 ₽ | 279 000 ₽ |
 | [Финансы: аналитика и управление](https://kurs-radar.pro/kursy-finansovyj-analitik.html) | 39 | 5 | 4 800 ₽ | 82 200 ₽ | 219 000 ₽ |
 | [Моушн-дизайн и 3D](https://kurs-radar.pro/kursy-motion-3d.html) | 38 | 7 | 18 576 ₽ | 138 875 ₽ | 514 000 ₽ |
-| [Дизайн интерьера и ландшафта](https://kurs-radar.pro/kursy-dizajn-interera.html) | 34 | 7 | 27 540 ₽ | 92 962 ₽ | 273 141 ₽ |
+| [Дизайн интерьера и ландшафта](https://kurs-radar.pro/kursy-dizajn-interera.html) | 34 | 7 | 27 540 ₽ | 95 232 ₽ | 273 141 ₽ |
 | [Маркетплейсы](https://kurs-radar.pro/kursy-marketplejsy.html) | 33 | 5 | 28 002 ₽ | 63 076 ₽ | 152 424 ₽ |
 | [Колледж онлайн (СПО)](https://kurs-radar.pro/kolledzh-onlajn.html) | 33 | 1 | 90 000 ₽ | 268 333 ₽ | 1 456 667 ₽ |
 | [Разработка игр](https://kurs-radar.pro/kursy-razrabotka-igr.html) | 25 | 7 | 31 272 ₽ | 129 000 ₽ | 252 000 ₽ |
@@ -26,10 +26,10 @@
 | [Тестирование (QA)](https://kurs-radar.pro/kursy-testirovshchik.html) | 19 | 8 | 42 396 ₽ | 95 760 ₽ | 171 864 ₽ |
 | [Аналитик данных](https://kurs-radar.pro/kursy-analitik-dannyh.html) | 18 | 10 | 45 900 ₽ | 104 575 ₽ | 174 003 ₽ |
 | [Проджект-менеджмент](https://kurs-radar.pro/kursy-project-manager.html) | 17 | 8 | 8 900 ₽ | 90 000 ₽ | 132 300 ₽ |
-| [Python-разработка](https://kurs-radar.pro/kursy-python.html) | 16 | 8 | 30 000 ₽ | 87 460 ₽ | 500 000 ₽ |
 | [Графический дизайн](https://kurs-radar.pro/kursy-graficheskij-dizajn.html) | 16 | 8 | 30 000 ₽ | 107 138 ₽ | 184 500 ₽ |
 | [UX/UI-дизайн](https://kurs-radar.pro/kursy-ux-ui-dizajn.html) | 16 | 7 | 37 200 ₽ | 119 293 ₽ | 181 567 ₽ |
 | [Интернет-маркетинг и SEO](https://kurs-radar.pro/kursy-internet-marketing.html) | 16 | 6 | 45 900 ₽ | 80 900 ₽ | 134 856 ₽ |
+| [Python-разработка](https://kurs-radar.pro/kursy-python.html) | 15 | 8 | 30 000 ₽ | 85 000 ₽ | 158 040 ₽ |
 | [Системный и бизнес-аналитик](https://kurs-radar.pro/kursy-sistemnyj-analitik.html) | 15 | 8 | 45 900 ₽ | 105 679 ₽ | 219 000 ₽ |
 | [SMM и трафик](https://kurs-radar.pro/kursy-smm.html) | 13 | 4 | 47 039 ₽ | 72 044 ₽ | 121 148 ₽ |
 | [Excel и Power BI](https://kurs-radar.pro/kursy-excel.html) | 12 | 5 | 16 500 ₽ | 35 000 ₽ | 53 556 ₽ |
@@ -37,7 +37,7 @@
 | [DevOps и системное администрирование](https://kurs-radar.pro/kursy-devops.html) | 12 | 7 | 55 890 ₽ | 102 036 ₽ | 125 460 ₽ |
 | [Инвестиции и личные финансы](https://kurs-radar.pro/kursy-investicii.html) | 11 | 4 | 8 085 ₽ | 45 900 ₽ | 104 760 ₽ |
 | [Английский язык](https://kurs-radar.pro/kursy-anglijskogo-yazyka.html) | 10 | 7 | 4 490 ₽ | 33 510 ₽ | 73 920 ₽ |
-| [Кибербезопасность](https://kurs-radar.pro/kursy-kiberbezopasnost.html) | 10 | 8 | 23 900 ₽ | 129 444 ₽ | 178 529 ₽ |
+| [Кибербезопасность](https://kurs-radar.pro/kursy-kiberbezopasnost.html) | 10 | 8 | 23 900 ₽ | 123 594 ₽ | 178 529 ₽ |
 | [Русский язык](https://kurs-radar.pro/kursy-oge-russkij-yazyk.html) | 9 | 4 | 27 075 ₽ | 53 715 ₽ | 73 920 ₽ |
 | [Java-разработка](https://kurs-radar.pro/kursy-java.html) | 9 | 7 | 47 652 ₽ | 99 500 ₽ | 191 386 ₽ |
 | [Frontend и веб-разработка](https://kurs-radar.pro/kursy-frontend.html) | 9 | 6 | 60 134 ₽ | 85 000 ₽ | 166 362 ₽ |
@@ -66,7 +66,7 @@
 | Skillbox | 133 | 27 | 8 001 ₽ | 91 740 ₽ |
 | MBS | 115 | 15 | 3 700 ₽ | 59 900 ₽ |
 | Эдюсон | 99 | 27 | 16 500 ₽ | 79 669 ₽ |
-| Нетология | 49 | 22 | 39 900 ₽ | 99 500 ₽ |
+| Нетология | 48 | 22 | 39 900 ₽ | 97 800 ₽ |
 | МИП | 36 | 2 | 23 000 ₽ | 90 500 ₽ |
 | GeekBrains | 30 | 21 | 58 644 ₽ | 140 400 ₽ |
 | SF Education | 26 | 8 | 8 085 ₽ | 65 996 ₽ |
@@ -91,7 +91,7 @@
 
 | Файл | Что внутри |
 |---|---|
-| `data/courses.csv` | все 939 курсов: школа, направление, платёж, срок рассрочки, цена всего курса, цена часа, срок, документ, гарантия, ссылка |
+| `data/courses.csv` | все 938 курсов: школа, направление, платёж, срок рассрочки, цена всего курса, цена часа, срок, документ, гарантия, ссылка |
 | `data/directions.csv` | направления: число курсов и школ, цена всего курса от / медиана / до |
 | `data/schools.csv` | школы: число курсов и направлений, цена всего курса от и медиана |
 | `data/history/prices_daily.csv` | цены по дням с 10 ноября 2026: платёж, цена всего курса, зачёркнутая цена школы |
@@ -112,7 +112,7 @@
 
 ## In English
 
-Open daily price index of online courses in Russia from [kurs-radar.pro](https://kurs-radar.pro/): 939 courses from 24 online schools — IT and other professions, EGE/OGE exam prep, English, online degrees. For each course: full course price (one-off payment or installment total), monthly payment, price per hour of instruction, duration, certificate, job guarantee. Prices in RUB, data as of 2026-11-25, history since 2026-11-10. Only schools with an affiliate program are listed.
+Open daily price index of online courses in Russia from [kurs-radar.pro](https://kurs-radar.pro/): 938 courses from 24 online schools — IT and other professions, EGE/OGE exam prep, English, online degrees. For each course: full course price (one-off payment or installment total), monthly payment, price per hour of instruction, duration, certificate, job guarantee. Prices in RUB, data as of 2026-11-26, history since 2026-11-10. Only schools with an affiliate program are listed.
 
 ## Лицензия
 
