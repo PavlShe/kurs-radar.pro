@@ -1,6 +1,6 @@
 # Цены на онлайн-курсы в России
 
-Открытый индекс цен [kurs-radar.pro](https://kurs-radar.pro/) — сравнения онлайн-курсов по цене и условиям. **Данные на 26 ноября 2026:** 938 курсов 24 онлайн-школ. Файлы обновляются автоматически раз в сутки.
+Открытый индекс цен [kurs-radar.pro](https://kurs-radar.pro/) — сравнения онлайн-курсов по цене и условиям. **Данные на 27 ноября 2026:** 938 курсов 24 онлайн-школ. Файлы обновляются автоматически раз в сутки.
 
 Таблицы с прямыми ссылками на каждый курс: [https://pavlshe.github.io/kurs-radar.pro/](https://pavlshe.github.io/kurs-radar.pro/) · тот же датасет на [Kaggle](https://www.kaggle.com/datasets/pablosheshkovic/online-course-prices-in-russia-kurs-radar-pro) и [Hugging Face](https://huggingface.co/datasets/Pavlshshk/online-course-prices-russia)
 
@@ -112,7 +112,7 @@
 
 ## In English
 
-Open daily price index of online courses in Russia from [kurs-radar.pro](https://kurs-radar.pro/): 938 courses from 24 online schools — IT and other professions, EGE/OGE exam prep, English, online degrees. For each course: full course price (one-off payment or installment total), monthly payment, price per hour of instruction, duration, certificate, job guarantee. Prices in RUB, data as of 2026-11-26, history since 2026-11-10. Only schools with an affiliate program are listed.
+Open daily price index of online courses in Russia from [kurs-radar.pro](https://kurs-radar.pro/): 938 courses from 24 online schools — IT and other professions, EGE/OGE exam prep, English, online degrees. For each course: full course price (one-off payment or installment total), monthly payment, price per hour of instruction, duration, certificate, job guarantee. Prices in RUB, data as of 2026-11-27, history since 2026-11-10. Only schools with an affiliate program are listed.
 
 ## Лицензия
 
