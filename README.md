@@ -1,6 +1,6 @@
 # Цены на онлайн-курсы в России
 
-Открытый индекс цен [kurs-radar.pro](https://kurs-radar.pro/) — сравнения онлайн-курсов по цене и условиям. **Данные на 27 ноября 2026:** 938 курсов 24 онлайн-школ. Файлы обновляются автоматически раз в сутки.
+Открытый индекс цен [kurs-radar.pro](https://kurs-radar.pro/) — сравнения онлайн-курсов по цене и условиям. **Данные на 28 ноября 2026:** 934 курсов 24 онлайн-школ. Файлы обновляются автоматически раз в сутки.
 
 Таблицы с прямыми ссылками на каждый курс: [https://pavlshe.github.io/kurs-radar.pro/](https://pavlshe.github.io/kurs-radar.pro/) · тот же датасет на [Kaggle](https://www.kaggle.com/datasets/pablosheshkovic/online-course-prices-in-russia-kurs-radar-pro) и [Hugging Face](https://huggingface.co/datasets/Pavlshshk/online-course-prices-russia)
 
@@ -12,11 +12,11 @@
 |---|---|---|---|---|---|
 | [Бакалавриат онлайн](https://kurs-radar.pro/bakalavriat-onlajn.html) | 141 | 1 | 315 000 ₽ | 315 000 ₽ | 2 475 000 ₽ |
 | [Психология и психотерапия](https://kurs-radar.pro/kursy-psihologa.html) | 79 | 6 | 4 800 ₽ | 72 000 ₽ | 300 000 ₽ |
-| [Бухгалтерия и налоги](https://kurs-radar.pro/kursy-buhgalteriya.html) | 49 | 4 | 3 700 ₽ | 49 900 ₽ | 279 000 ₽ |
+| [Бухгалтерия и налоги](https://kurs-radar.pro/kursy-buhgalteriya.html) | 46 | 4 | 3 700 ₽ | 49 900 ₽ | 279 000 ₽ |
 | [MBA онлайн](https://kurs-radar.pro/mba-onlajn.html) | 46 | 2 | 199 000 ₽ | 479 000 ₽ | 1 580 000 ₽ |
 | [Магистратура онлайн](https://kurs-radar.pro/magistratura-onlajn.html) | 42 | 1 | 180 000 ₽ | 225 000 ₽ | 900 000 ₽ |
 | [HR и управление персоналом](https://kurs-radar.pro/kursy-hr.html) | 40 | 4 | 4 800 ₽ | 60 458 ₽ | 279 000 ₽ |
-| [Финансы: аналитика и управление](https://kurs-radar.pro/kursy-finansovyj-analitik.html) | 39 | 5 | 4 800 ₽ | 82 200 ₽ | 219 000 ₽ |
+| [Финансы: аналитика и управление](https://kurs-radar.pro/kursy-finansovyj-analitik.html) | 38 | 5 | 4 800 ₽ | 83 100 ₽ | 219 000 ₽ |
 | [Моушн-дизайн и 3D](https://kurs-radar.pro/kursy-motion-3d.html) | 38 | 7 | 18 576 ₽ | 138 875 ₽ | 514 000 ₽ |
 | [Дизайн интерьера и ландшафта](https://kurs-radar.pro/kursy-dizajn-interera.html) | 34 | 7 | 27 540 ₽ | 95 232 ₽ | 273 141 ₽ |
 | [Маркетплейсы](https://kurs-radar.pro/kursy-marketplejsy.html) | 33 | 5 | 28 002 ₽ | 63 076 ₽ | 152 424 ₽ |
@@ -64,7 +64,7 @@
 |---|---|---|---|---|
 | МИТМ | 272 | 17 | 10 900 ₽ | 315 000 ₽ |
 | Skillbox | 133 | 27 | 8 001 ₽ | 91 740 ₽ |
-| MBS | 115 | 15 | 3 700 ₽ | 59 900 ₽ |
+| MBS | 111 | 15 | 3 700 ₽ | 59 900 ₽ |
 | Эдюсон | 99 | 27 | 16 500 ₽ | 79 669 ₽ |
 | Нетология | 48 | 22 | 39 900 ₽ | 97 800 ₽ |
 | МИП | 36 | 2 | 23 000 ₽ | 90 500 ₽ |
@@ -91,7 +91,7 @@
 
 | Файл | Что внутри |
 |---|---|
-| `data/courses.csv` | все 938 курсов: школа, направление, платёж, срок рассрочки, цена всего курса, цена часа, срок, документ, гарантия, ссылка |
+| `data/courses.csv` | все 934 курсов: школа, направление, платёж, срок рассрочки, цена всего курса, цена часа, срок, документ, гарантия, ссылка |
 | `data/directions.csv` | направления: число курсов и школ, цена всего курса от / медиана / до |
 | `data/schools.csv` | школы: число курсов и направлений, цена всего курса от и медиана |
 | `data/history/prices_daily.csv` | цены по дням с 10 ноября 2026: платёж, цена всего курса, зачёркнутая цена школы |
@@ -112,7 +112,7 @@
 
 ## In English
 
-Open daily price index of online courses in Russia from [kurs-radar.pro](https://kurs-radar.pro/): 938 courses from 24 online schools — IT and other professions, EGE/OGE exam prep, English, online degrees. For each course: full course price (one-off payment or installment total), monthly payment, price per hour of instruction, duration, certificate, job guarantee. Prices in RUB, data as of 2026-11-27, history since 2026-11-10. Only schools with an affiliate program are listed.
+Open daily price index of online courses in Russia from [kurs-radar.pro](https://kurs-radar.pro/): 934 courses from 24 online schools — IT and other professions, EGE/OGE exam prep, English, online degrees. For each course: full course price (one-off payment or installment total), monthly payment, price per hour of instruction, duration, certificate, job guarantee. Prices in RUB, data as of 2026-11-28, history since 2026-11-10. Only schools with an affiliate program are listed.
 
 ## Лицензия
 
